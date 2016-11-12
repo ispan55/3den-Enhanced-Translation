@@ -1298,8 +1298,8 @@
         <German>Skriptbespiele von Kylania...</German>
       </Key>
       <Key ID="STR_ENH_HelpJester814">
-        <Original>Jester814's Video Tutorials</Original>
-        <English>Jester814's Video Tutorials</English>
+        <Original>Jester814's Video Tutorials...</Original>
+        <English>Jester814's Video Tutorials...</English>
         <Czech />
         <French />
         <Spanish />
@@ -1307,11 +1307,11 @@
         <Polish />
         <Portuguese />
         <Russian />
-        <German>Jester814's Video Tutorials</German>
+        <German>Jester814's Video Tutorials...</German>
       </Key>
       <Key ID="STR_ENH_HelpArmaidiot">
-        <Original>Armaidiot's Video Tutorials</Original>
-        <English>Armaidiot's Video Tutorials</English>
+        <Original>Armaidiot's Video Tutorials...</Original>
+        <English>Armaidiot's Video Tutorials...</English>
         <Czech />
         <French />
         <Spanish />
@@ -1319,11 +1319,11 @@
         <Polish />
         <Portuguese />
         <Russian />
-        <German>Armaidiot's Video Tutorials</German>
+        <German>Armaidiot's Video Tutorials...</German>
       </Key>
       <Key ID="STR_ENH_HelpFockersScriptingTutorial">
-        <Original>Focker's Scripting Tutorial</Original>
-        <English>Focker's Scripting Tutorial</English>
+        <Original>Focker's Scripting Tutorial...</Original>
+        <English>Focker's Scripting Tutorial...</English>
         <Czech />
         <French />
         <Spanish />
@@ -1331,11 +1331,11 @@
         <Polish />
         <Portuguese />
         <Russian />
-        <German>Focker's Programmiertutorial</German>
+        <German>Focker's Programmiertutorial...</German>
       </Key>
       <Key ID="STR_ENH_HelpMissionCampaignGuide">
-        <Original>Guide: Mission &amp; Campaign making</Original>
-        <English>Guide: Mission &amp; Campaign making</English>
+        <Original>Guide: Mission &amp; Campaign making...</Original>
+        <English>Guide: Mission &amp; Campaign making...</English>
         <Czech />
         <French />
         <Spanish />
@@ -1343,11 +1343,11 @@
         <Polish />
         <Portuguese />
         <Russian />
-        <German>Leitfaden: Missions- und Kampagnenerstellung</German>
+        <German>Leitfaden: Missions- und Kampagnenerstellung...</German>
       </Key>
       <Key ID="STR_ENH_HelpFeuerex">
-        <Original>Feuerex's Video Tutorials</Original>
-        <English>Feuerex's  Video Tutorials</English>
+        <Original>Feuerex's Video Tutorials...</Original>
+        <English>Feuerex's  Video Tutorials...</English>
         <Czech />
         <French />
         <Spanish />
@@ -1355,7 +1355,7 @@
         <Polish />
         <Portuguese />
         <Russian />
-        <German>Feuerex's  Video Tutorials</German>
+        <German>Feuerex's  Video Tutorials...</German>
       </Key>
       <Key ID="STR_ENH_HelpMissionPresentation">
         <Original>Mission Presentation...</Original>
@@ -1376,14 +1376,14 @@
         <German>3den Enhanced Forum...</German>
       </Key>
       <Key ID="STR_ENH_HelpScriptingFoxhoundInternational">
-        <Original>Scripting Examples by Foxhound International</Original>
-        <English>Scripting Examples by Foxhound International</English>
-        <German>Skriptbeispiele von Foxhound International</German>
+        <Original>Scripting Examples by Foxhound International...</Original>
+        <English>Scripting Examples by Foxhound International...</English>
+        <German>Skriptbeispiele von Foxhound International...</German>
       </Key>
       <Key ID="STR_ENH_HelpScriptingBeginners">
-        <Original>Scripting for Beginners</Original>
-        <English>Scripting for Beginners</English>
-        <German>Skripten für Anfänger</German>
+        <Original>Scripting for Beginners...</Original>
+        <English>Scripting for Beginners...</English>
+        <German>Skripten für Anfänger...</German>
       </Key>
     </Container>
     <Container name="Statusbar">
