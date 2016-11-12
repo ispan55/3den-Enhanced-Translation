@@ -1375,25 +1375,15 @@
         <French>Forum 3den Enhanced...</French>
         <German>3den Enhanced Forum...</German>
       </Key>
-      <Key ID="STR_ENH_HelpFolder_Youtube">
-        <Original>Youtube Tutorials...</Original>
-        <English>Youtube Tutorials...</English>
-        <German>Youtube Tutorials...</German>
-      </Key>
-      <Key ID="STR_ENH_HelpFolder_Community">
-        <Original>Community Help</Original>
-        <English>Community Help</English>
-        <German>Gemeinschaft Hilfe</German>
-      </Key>
-      <Key ID="STR_ENH_HelpFolder_Wiki">
-        <Original>Arma 3 Wiki</Original>
-        <English>Arma 3 Wiki</English>
-        <German>Arma 3 Wiki</German>
-      </Key>
       <Key ID="STR_ENH_HelpScriptingFoxhoundInternational">
         <Original>Scripting Examples by Foxhound International</Original>
         <English>Scripting Examples by Foxhound International</English>
         <German>Skriptbeispiele von Foxhound International</German>
+      </Key>
+      <Key ID="STR_ENH_HelpScriptingBeginners">
+        <Original>Scripting for Beginners</Original>
+        <English>Scripting for Beginners</English>
+        <German>Skripten für Anfänger</German>
       </Key>
     </Container>
     <Container name="Statusbar">
@@ -1577,6 +1567,23 @@
         <Original>Loadout Tools...</Original>
         <English>Loadout Tools...</English>
         <German>Ausrüstungs Werkzeuge...</German>
+      </Key>
+    </Container>
+    <Container name="Help Folders">
+      <Key ID="STR_ENH_HelpFolder_Wiki">
+        <Original>Arma 3 Wiki</Original>
+        <English>Arma 3 Wiki</English>
+        <German>Arma 3 Wiki</German>
+      </Key>
+      <Key ID="STR_ENH_HelpFolder_Community">
+        <Original>Community Help</Original>
+        <English>Community Help</English>
+        <German>Gemeinschaft Hilfe</German>
+      </Key>
+      <Key ID="STR_ENH_HelpFolder_Youtube">
+        <Original>Youtube Tutorials...</Original>
+        <English>Youtube Tutorials...</English>
+        <German>Youtube Tutorials...</German>
       </Key>
     </Container>
   </Package>
