@@ -141,6 +141,7 @@
       <Key ID="STR_ENH_disableGrass_displayName">
         <Original>Disable Grass</Original>
         <English>Disable Grass</English>
+        <Czech>Vypnout zobrazování trávy</Czech>
         <French>Désactiver l'herbe</French>
         <German>Grass ausschalten</German>
       </Key>
@@ -148,24 +149,28 @@
     <Container name="Volume">
       <Key ID="STR_ENH_soundVolume_displayName">
         <Original>Sound Volume</Original>
+        <Czech>Hlasitost zvuku</Czech>
         <English>Sound Volume</English>
         <French>Volume du son</French>
         <German>Lautstärke (Geräusche)</German>
       </Key>
       <Key ID="STR_ENH_musicVolume_displayName">
         <Original>Music Volume</Original>
+        <Czech>Hlasitost hudby</Czech>
         <English>Music Volume</English>
         <French>Volume de la musique</French>
         <German>Lautstärke (Musik)</German>
       </Key>
       <Key ID="STR_ENH_radioVolume_displayName">
         <Original>Radio Volume</Original>
+        <Czech>Hlasitost rádia</Czech>
         <English>Radio Volume</English>
         <French>Volume de la radio</French>
         <German>Lautstärke (Radio)</German>
       </Key>
       <Key ID="STR_ENH_randomMusic_displayName">
         <Original>Random Music</Original>
+        <Czech>Náhodná hudba</Czech>
         <English>Random Music</English>
         <French>Musique aléatoire</French>
         <German>Zufällige Musik</German>
@@ -173,7 +178,7 @@
       <Key ID="STR_ENH_randomMusic_tooltip">
         <Original>Will play randomly selected music at mission start. Input must look as follows: classname_1, classname_2, classname_3, classname_n.</Original>
         <English>Will play randomly selected music at mission start. Input must look as follows: classname_1, classname_2, classname_3, classname_n.</English>
-        <Czech />
+        <Czech>Bude hrát náhodnou hudbu na začátku mise. Formát musí být následující: classname_1, classname_2, classname_3, classname_n.</Czech>
         <French>Joue aléatoirement une musique sélectionnée quand la mission débute. Le champ doit être de la forme : classname_1, classname_2, classname_3, classname_n.</French>
         <German>Spielt willkürlich ausgewählte Musikstücke am Anfang der Mission. Eingabe muss folgendermaßen aussehen: Klassenname_1, Klassenname_2, Klassenname_3, Klassenname_n.</German>
       </Key>
@@ -182,23 +187,27 @@
       <Key ID="STR_ENH_introText_displayName">
         <Original>Intro Text</Original>
         <English>Intro Text</English>
+        <Czech>Úvodní text</Czech>
         <French>Texte d'introduction</French>
         <German>Intro Text</German>
       </Key>
       <Key ID="STR_ENH_introText_introDelay_displayName">
         <Original>Delay</Original>
         <English>Delay</English>
+        <Czech>Prodleva</Czech>
         <French />
         <German>Verzögerung</German>
       </Key>
       <Key ID="STR_ENH_introText_introDelay_tooltip">
         <Original>Defines how much time has to pass until the intro text is shown. Setting it to 0 will disable the intro.</Original>
         <English>Defines how much time has to pass until the intro text is shown. Setting it to 0 will disable the intro.</English>
+        <Czech>Určuje kolik času musí uplynout než se úvodní text zobrazí. Nastavení této hodnoty na 0 deaktivuje intro.</Czech>
         <French />
         <German>Bestimmt wie viel Zeit vergehen muss bis das Intro angezeigt wird. Das Setzen auf 0 deaktiviert das Intro.</German>
       </Key>
       <Key ID="STR_ENH_introText_activate_displayName">
         <Original>Activate</Original>
+        <Czech>Aktivovat</Czech>
         <English>Activate</English>
         <French>Activer</French>
         <German>Aktivieren</German>
@@ -206,23 +215,27 @@
       <Key ID="STR_ENH_introText_activate_tooltip">
         <Original>Will display three lines at the beginnen of the mission for every player.</Original>
         <English>Will display three lines at the beginnen of the mission for every player.</English>
+        <Czech>Zobrazí tři řádky na začátku mise pro každého hráče.</Czech>
         <French>Affiche trois lignes au début de la mission pour chaque joueurs.</French>
         <German>Am Anfang der Mission werden drei Zeilen für jeden Spieler angezeigt.</German>
       </Key>
       <Key ID="STR_ENH_introText_line1_displayName">
         <Original>First Line</Original>
+        <Czech>První řádek</Czech>
         <English>First Line</English>
         <French>Première ligne</French>
         <German>Erste Zeile</German>
       </Key>
       <Key ID="STR_ENH_introText_line2_displayName">
         <Original>Second Line</Original>
+        <Czech>Druhý řádek</Czech>
         <English>Second Line</English>
         <French>Seconde ligne</French>
         <German>Zweite Zeile</German>
       </Key>
       <Key ID="STR_ENH_introText_line3_displayName">
         <Original>Third Line</Original>
+        <Czech>Třetí řádek</Czech>
         <English>Third Line</English>
         <French>Troisième ligne</French>
         <German>Dritte Zeile</German>
@@ -231,6 +244,7 @@
     <Container name="Dynamic Groups">
       <Key ID="STR_ENH_dynamicGroups_tooltip">
         <Original>Enables the Dynamic Groups system.</Original>
+        <Czech>Aktivuje systém dynamických skupin.</Czech>
         <English>Enable the Dynamic Groups system.</English>
         <French>Activer le système de groupes dynamiques.</French>
         <German>Aktiviert das 'Dynamic Groups' System.</German>
@@ -239,18 +253,21 @@
     <Container name="Respawn Tickets">
       <Key ID="STR_ENH_respawnTickets_BLUFOR_displayName">
         <Original>Respawn Tickets BLUFOR</Original>
+        <Czech>Počet respawn tiketů BLUFOR</Czech>
         <English>Respawn Tickets BLUFOR</English>
         <French>Tickets de réapparition BLUFOR</French>
         <German>Wiedereinstiegstickets BLUFOR</German>
       </Key>
       <Key ID="STR_ENH_respawnTickets_INDFOR_displayName">
         <Original>Respawn Tickets INDFOR</Original>
+        <Czech>Počet respawn tiketů INDFOR</Czech>
         <English>Respawn Tickets INDFOR</English>
         <French>Tickets de réapparition INDFOR</French>
         <German>Wiedereinstiegstickets INDFOR</German>
       </Key>
       <Key ID="STR_ENH_respawnTickets_OPFOR_displayName">
         <Original>Respawn Tickets OPFOR</Original>
+        <Czech>Počet respawn tiketů OPFOR</Czech>
         <English>Respawn Tickets OPFOR</English>
         <French>Tickets de réapparition OPFOR</French>
         <German>Wiedereinstiegstickets OPFOR</German>
@@ -259,75 +276,87 @@
     <Container name="Preload Arsenal">
       <Key ID="STR_ENH_preloadArsenal_displayName">
         <Original>Preload Arsenal</Original>
+        <Czech>Přednastavený arzenál</Czech>
         <English>Preload Arsenal</English>
-        <Czech />
         <German>Arsenal im Voraus laden</German>
       </Key>
       <Key ID="STR_ENH_preloadArsenal_tooltip">
         <Original>If enabled, the Arsenal will be preloaded every time the editor is opened, or a preview ends.</Original>
         <English>If enabled, the Arsenal will be preloaded every time the editor is opened, or a preview ends.</English>
-        <Czech />
+        <Czech>Pokud aktivní, Arzenál bude přednastaven vždy když je editor otevřený, nebo ukázka skončí.</Czech>
         <German>Wenn aktiviert, wir das Arsenal im Voraus beim Öffnen des Editors, oder beim Beenden einer Vorschau geladen.</German>
       </Key>
     </Container>
     <Container name="Ambient Flyby">
       <Key ID="STR_ENH_ambientFlyby_type_displayName">
         <Original>Type of Aircraft</Original>
+        <Czech>Druh letounu</Czech>
         <English>Type of Aircraft</English>
         <German>Variante des Luftfahrzeuges</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_altitude_displayName">
         <Original>Altitude</Original>
+        <Czech>Výška</Czech>
         <English>Altitude</English>
         <German>Flughöhe</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_altitude_tooltip">
         <Original>Altitude of the flyby.</Original>
+        <Czech>Výška přeletu</Czech>
         <English>Altitude of the flyby.</English>
         <German>Flughöhe des Vorbeifluges.</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_speed_tooltip">
         <Original>Speed of the aircraft.</Original>
+        <Czech>Rychlost letounu</Czech>
         <English>Speed of the aircraft.</English>
         <German>Geschwindigkeit des Luftfahrzeuges.</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_speed_displayName">
         <Original>Speed</Original>
+        <Czech>Rychlost</Czech>
         <English>Speed</English>
         <German>Geschwindigkeit</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_iterations_displayName">
         <Original>Number of Flybys</Original>
+        <Czech>Počet přeletů</Czech>
         <English>Number of Flybys</English>
         <German>Anzahl der Vorbeiflüge</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_delay_displayName">
         <Original>Delay</Original>
+        <Czech>Prodleva</Czech>
         <English>Delay</English>
         <German>Verzögerung</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_delay_tooltip">
         <Original>Delay until the first flyby starts and delay in between two flybys. Note that smaller values (n-&gt;0) will have a bigger impact on performance.</Original>
+        <Czech>Prodleva než první přelet započne a prodleva mezi dvěma přelety. Upozorňujeme že nižší hodnoty (n-&gt;0) budou mít větší dopad na výkon.</Czech>
         <English>Delay until the first flyby starts and delay in between two flybys. Note that smaller values (n-&gt;0) will have a bigger impact on performance.</English>
         <German>Zeit bis zum ersten Vorbeiflug und Zeit zwischen zwei Vorbeiflügen. Bedenke das kleine Werte (n-&gt;0) einen größeren Einfluss auf die Leistung haben.</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_startPosition_displayName">
         <Original>Starting Position</Original>
+        <Czech>Počáteční pozice</Czech>
         <English>Starting Position</English>
         <German>Anfangsposition</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_endPosition_displayName">
         <Original>Ending Position</Original>
+        <Czech>Konečná pozice</Czech>
         <English>Ending Position</English>
         <German>Endposition</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_type_tooltip">
         <Original>Classnames of the vehicles which should be used for a flyby. If multiple class names are inserted a random one will be chosen each time. Input must look as follows: classname_1,classname_2,classname_n.</Original>
+        <Czech>Názvy tříd vozidel které mají být použity pro přelet. Pokud je vloženo více tříd, pokaždé bude zvolena náhodná. Vstup musí vypadat následovně: classname_1,classname_2,classname_n.</Czech>
         <English>Classnames of the vehicles which should be used for a flyby. If multiple class names are inserted a random one will be chosen each time. Input must look as follows: classname_1,classname_2,classname_n.</English>
         <German>Klassenname des Luftfahrzeuges welches einen Vorbeiflug absolvieren soll. Sind mehrere Klassennamen angegeben wird für jeden Vorbeiflug ein zufälliges ausgewählt. Die Eingaben muss folgendermaßen aussehen: Klassenname_1, Klassenname_2, Klassenname_n.</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_side_displayName">
         <Original>Side</Original>
+        <Czech>Strana</Czech>
         <English>Side</English>
         <German>Zugehörigkeit</German>
       </Key>
@@ -335,31 +364,37 @@
     <Container name="Tool Settings">
       <Key ID="STR_ENH_toolSettings_circularPatternRadius_displayName">
         <Original>Circular Pattern Radius</Original>
+        <Czech>Okruh obletové kružnice</Czech>
         <English>Circular Pattern Radius</English>
         <German>Kreismusterradius</German>
       </Key>
       <Key ID="STR_ENH_toolSettings_fillArea_numObjects_displayName">
         <Original>Number of Objects</Original>
+        <Czech>Počet objektů</Czech>
         <English>Number of Objects</English>
         <German>Anzahl an Objekten</German>
       </Key>
       <Key ID="STR_ENH_toolSettings_fillArea_areaSize_displayName">
         <Original>Area Size</Original>
+        <Czech>Velikost oblasti</Czech>
         <English>Area Size</English>
         <German>Gebietsgröße</German>
       </Key>
       <Key ID="STR_ENH_toolSettings_linePatternSpacing_displayName">
         <Original>Line Pattern Spacing</Original>
+        <Czech>Mezera mezi linií</Czech>
         <English>Line Pattern Spacing</English>
         <German>Linienmusterabstand</German>
       </Key>
       <Key ID="STR_ENH_toolSettings_fillArea_category">
         <Original>Settings: Fill Area </Original>
+        <Czech>Nastavení: Výplň</Czech>
         <English>Settings: Fill Area </English>
         <German>Einstellungen: Bereich füllen</German>
       </Key>
       <Key ID="STR_ENH_toolSettings_pattern_category">
         <Original>Settings: Pattern Tools</Original>
+        <Czech>Nastavení: Nástroje tvaru</Czech>
         <English>Settings: Pattern Tools</English>
         <German>Einstellungen: Muster-Werkzeuge</German>
       </Key>
@@ -367,11 +402,13 @@
     <Container name="Save Loadout">
       <Key ID="STR_ENH_saveLoadout_displayName">
         <Original>Save Loadout</Original>
+        <Czech>Uložit výstroj</Czech>
         <English>Save Loadout</English>
         <German>Ausrüstung speichern</German>
       </Key>
       <Key ID="STR_ENH_saveLoadout_tooltip">
         <Original>Restores the loadout on respawn.</Original>
+        <Czech>Obnoví výstroj při respawnu.</Czech>
         <English>Restores the loadout on respawn.</English>
         <German>Ausrüstung wird beim Wiedereinstieg wiederhergestellt.</German>
       </Key>
@@ -381,120 +418,140 @@
     <Container name="Advanced Damage Vehicle">
       <Key ID="STR_ENH_advancedDamageVeh_engine">
         <Original>Engine (all)</Original>
+        <Czech>Motor (vše)</Czech>
         <English>Engine (all)</English>
         <French>Moteur (tout)</French>
         <German>Motor (Alle)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_gun">
         <Original>Gun (all)</Original>
+        <Czech>Zbraň (vše)</Czech>
         <English>Gun (all)</English>
         <French>Arme (tout)</French>
         <German>Geschütz (Alle)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_fuelTank">
         <Original>Fuel Tank (all)</Original>
+        <Czech>Palivová nádrž (vše)</Czech>
         <English>Fuel Tank (all)</English>
         <French>Jerrican (tout)</French>
         <German>Treibstofftank (Alle)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_turret">
         <Original>Turret (all)</Original>
+        <Czech>Věž (vše)</Czech>
         <English>Turret (all)</English>
         <French>Tourelle (tout)</French>
         <German>Geschützturm (Alle)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_windows">
         <Original>Windows (all)</Original>
+        <Czech>Okna (vše)</Czech>
         <English>Windows (all)</English>
         <French>Fenêtres (tout)</French>
         <German>Fenster (Alle)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_LFWheel">
         <Original>1st axle left wheel (car)</Original>
+        <Czech>První náprava levé kolo (auto)</Czech>
         <English>1st axle left wheel (car)</English>
         <French>1er essieu, roue gauche (voiture)</French>
         <German>1. Achse, linkes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_RFWheel">
         <Original>1st axle right wheel (car)</Original>
+        <Czech>První náprava pravé kolo (auto)</Czech>
         <English>1st axle right wheel (car)</English>
         <French>1er essieu, roue droite (voiture)</French>
         <German>1. Achse, rechtes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_LF2Wheel">
         <Original>2nd axle left wheel (car)</Original>
+        <Czech>Druhá náprava levé kolo (auto)</Czech>
         <English>2nd axle left wheel (car)</English>
         <French>2d essieu, roue gauche (voiture)</French>
         <German>2. Achse, linkes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_RF2Wheel">
         <Original>2nd axle right wheel (car)</Original>
+        <Czech>Druhá náprava pravé kolo (auto)</Czech>
         <English>2nd axle right wheel (car)</English>
         <French>2d essieu, roue droite (voiture)</French>
         <German>2. Achse, rechtes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_LMWheel">
         <Original>3rd axle left wheel (car)</Original>
+        <Czech>Třetí náprava levé kolo (auto)</Czech>
         <English>3rd axle left wheel (car)</English>
         <French>3e essieu, roue gauche (voiture)</French>
         <German>3. Achse, linkes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_RMWheel">
         <Original>3rd axle right wheel (car)</Original>
+        <Czech>Třetí náprava pravé kolo (auto)</Czech>
         <English>3rd axle right wheel (car)</English>
         <French>3e essieu, roue droite (voiture)</French>
         <German>3. Achse, rechtes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_LBWheel">
         <Original>4th axle left wheel (car)</Original>
+        <Czech>Čtvrtá náprava levé kolo (auto)</Czech>
         <English>4th axle left wheel (car)</English>
         <French>4e essieu, roue gauche (voiture)</French>
         <German>4. Achse, linkes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_RBWheel">
         <Original>4th axle right wheel (car)</Original>
+        <Czech>Čtvrtá náprava pravé kolo (auto)</Czech>
         <English>4th axle right wheel (car)</English>
         <French>4e essieu, roue droite (voiture)</French>
         <German>4. Achse, rechtes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_body">
         <Original>Body (car)</Original>
+        <Czech>Karoserie</Czech>
         <English>Body (car)</English>
         <French>Carrosserie (voiture)</French>
         <German>Karrosserie (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_LTrack">
         <Original>Left track (tank)</Original>
+        <Czech>Levý pás (tank)</Czech>
         <English>Left track (tank)</English>
         <French>Chaîne gauche (char)</French>
         <German>Linke Kette (Panzer)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_RTrack">
         <Original>Right track (tank)</Original>
+        <Czech>Pravý pás (tank)</Czech>
         <English>Right track (tank)</English>
         <French>Chaîne droite (char)</French>
         <German>Rechte Kette (Panzer)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_hull">
         <Original>Hull (tank &amp; helicopter)</Original>
+        <Czech>Trup (tank &amp; helikoptéra)</Czech>
         <English>Hull (tank &amp; helicopter)</English>
         <French>Blindage (char et hélicoptère)</French>
         <German>Rumpf (Panzer &amp; Hubschrauber)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_avionics">
         <Original>Avionics (helicopter)</Original>
+        <Czech>Avionika (helikoptéra)</Czech>
         <English>Avionics (helicopter)</English>
         <French>Électronique embarquée (hélicoptère)</French>
         <German>Bordelektronik (Hubschrauber)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_mainRotor">
         <Original>Main rotor (helicopter)</Original>
+        <Czech>Rotor (helikoptéra)</Czech>
         <English>Main rotor (helicopter)</English>
         <French>Rotor principal (hélicoptère)</French>
         <German>Hauptrotor (Hubschrauber)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_tailRotor">
         <Original>Tail Rotor (helicopter)</Original>
+        <Czech>Stator (helikoptéra)</Czech>
         <English>Tail Rotor (helicopter)</English>
         <French>Rotor arrière (hélicoptère)</French>
         <German>Heckrotor (Hubschrauber)</German>
