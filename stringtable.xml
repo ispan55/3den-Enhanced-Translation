@@ -560,60 +560,70 @@
     <Container name="Advanced Damage Unit">
       <Key ID="STR_ENH_advancedDamageUnit_head">
         <Original>Head</Original>
+        <Czech>Hlava</Czech>
         <English>Head</English>
         <French>Tête</French>
         <German>Kopf</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageUnit_face">
         <Original>Face</Original>
+        <Czech>Obličej</Czech>
         <English>Face</English>
         <French>Visage</French>
         <German>Gesicht</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageUnit_neck">
         <Original>Neck</Original>
+        <Czech>Krk</Czech>
         <English>Neck</English>
         <French>Cou</French>
         <German>Hals</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageUnit_chest">
         <Original>Chest</Original>
+        <Czech>Trup</Czech>
         <English>Chest</English>
         <French>Poitrine</French>
         <German>Brustkorb</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageUnit_arms">
         <Original>Arms</Original>
+        <Czech>Ramena</Czech>
         <English>Arms</English>
         <French>Bras</French>
         <German>Arme</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageUnit_hands">
         <Original>Hands</Original>
+        <Czech>Ruce</Czech>
         <English>Hands</English>
         <French>Mains</French>
         <German>Hände</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageUnit_abdomen">
         <Original>Abdomen</Original>
+        <Czech>Břicho</Czech>
         <English>Abdomen</English>
         <French>Abdomen</French>
         <German>Unterleib</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageUnit_pelvis">
         <Original>Pelvis</Original>
+        <Czech>Pánev</Czech>
         <English>Pelvis</English>
         <French>Bassin</French>
         <German>Becken</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageUnit_diaphragm">
         <Original>Diaphragm</Original>
+        <Czech>Bránice</Czech>
         <English>Diaphragm</English>
         <French>Diaphragme</French>
         <German>Zwerchfell</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageUnit_legs">
         <Original>Legs</Original>
+        <Czech>Nohy</Czech>
         <English>Legs</English>
         <French>Jambes</French>
         <German>Beine</German>
@@ -622,6 +632,7 @@
     <Container name="Remove NVG">
       <Key ID="STR_ENH_removeNVG_displayName">
         <Original>Remove NVGs</Original>
+        <Czech>Odebrat brýle pro noční vidění</Czech>
         <English>Remove NVGs</English>
         <French>Supprimer les lunettes de vision nocturne</French>
         <German>Entferne Nachtsichtgerät</German>
@@ -630,6 +641,7 @@
     <Container name="Remove Map">
       <Key ID="STR_ENH_removeMap_displayName">
         <Original>Remove Map</Original>
+        <Czech>Odebrat mapu</Czech>
         <English>Remove Map</English>
         <French>Supprimer la carte</French>
         <German>Entferne Karte</German>
@@ -638,6 +650,7 @@
     <Container name="Remove GPS">
       <Key ID="STR_ENH_removeGPS_displayName">
         <Original>Remove GPS</Original>
+        <Czech>Odebrat GPS</Czech>
         <English>Remove GPS</English>
         <French>Supprimer le GPS</French>
         <German>Entferne GPS</German>
@@ -646,6 +659,7 @@
     <Container name="Clear Inventory">
       <Key ID="STR_ENH_clearInventory_displayName">
         <Original>Clear Inventory</Original>
+        <Czech>Vyprázdnt inventář</Czech>
         <English>Clear Inventory</English>
         <French>Inventaire vide</French>
         <German>Leere Inventar</German>
@@ -654,6 +668,7 @@
     <Container name="Remove Weapons">
       <Key ID="STR_ENH_removeWeapons_displayName">
         <Original>Remove Weapons</Original>
+        <Czech>Odebrat zbraně</Czech>
         <English>Remove Weapons</English>
         <French>Supprimer les armes</French>
         <German>Entferne Waffen</German>
@@ -662,12 +677,14 @@
     <Container name="Add Gun Light">
       <Key ID="STR_ENH_addGunLight_displayName">
         <Original>Add Gun Light</Original>
+        <Czech>Přidat světlo na zbraň</Czech>
         <English>Add Gun Light</English>
         <French>Ajouter une lampe de poche sur l'arme</French>
         <German>Taschenlampe anbauen</German>
       </Key>
       <Key ID="STR_ENH_addGunLight_tooltip">
         <Original>Forces unit to have gun light turned on.</Original>
+        <Czech>Přinutí jednotku mítm světlo na zbrani zapnuté.</Czech>
         <English>Forces unit to have gun light turned on.</English>
         <French>Force les unités à avoir la lampe de poche allumée.</French>
         <German>Baut eine Taschenlampe an die Waffe der Einheit, und schaltet diese an.</German>
@@ -676,8 +693,8 @@
     <Container name="Arsenal">
       <Key ID="STR_ENH_arsenal_displayName">
         <Original>Arsenal</Original>
+        <Czech>Arzenál</Czech>
         <English>Arsenal</English>
-        <Czech>Arsenal</Czech>
         <French>Arsenal</French>
         <Spanish>Arsenal</Spanish>
         <Italian>Arsenal</Italian>
@@ -689,7 +706,7 @@
       <Key ID="STR_ENH_arsenal_tooltip">
         <Original>Adds an Arsenal with all items to the object.</Original>
         <English>Adds an Arsenal with all items to the object.</English>
-        <Czech />
+        <Czech>Přidá možnost zobrazení Arzenálu se všemi předměty k tomuto objektu.</Czech>
         <French>Ajouter un arsenal à l'objet avec tous les items.</French>
         <Spanish />
         <Italian />
@@ -702,12 +719,14 @@
     <Container name="Random Patrol">
       <Key ID="STR_ENH_randomPatrol_radius_displayName">
         <Original>Radius</Original>
+        <Czech>Okruh</Czech>
         <English>Radius</English>
         <French>Rayon</French>
         <German>Radius</German>
       </Key>
       <Key ID="STR_ENH_randomPatrol_radius_tooltip">
         <Original>Radius of the patrolled area, enter -1 to disable the patrol.</Original>
+        <Czech>Okruh střežené oblasti, zadejte -1 pro zrušení patroly.</Czech>
         <English>Radius of the patrolled area, enter -1 to disable the patrol.</English>
         <French>Rayon de la patrouille, entrer -1 pour désactiver la patrouille.</French>
         <German>Radius des zu patrollierenden Gebietes, gebe -1 ein, um die Patrouille zu deaktivieren.</German>
@@ -716,12 +735,14 @@
     <Container name="Allow Sprinting">
       <Key ID="STR_ENH_allowSprinting_displayName">
         <Original>Allow Sprinting</Original>
+        <Czech>Povolit sprint</Czech>
         <English>Allow Sprinting</English>
         <French>Autoriser le sprint</French>
         <German>Erlaube Sprinten</German>
       </Key>
       <Key ID="STR_ENH_allowSprinting_tooltip">
         <Original>Unit can't sprint if unchecked.</Original>
+        <Czech>Jednotka nemůže běžet pokud není zakřížkováno.</Czech>
         <English>Unit can't sprint if unchecked.</English>
         <French>L'unité ne peut pas sprinter si la case n'est pas coché.</French>
         <German>Einheit kann nicht Sprinten wenn deaktiviert.</German>
@@ -730,12 +751,14 @@
     <Container name="Set Captive">
       <Key ID="STR_ENH_setCaptive_displayName">
         <Original>Set Captive</Original>
+        <Czech>Je zajatcem</Czech>
         <English>Set Captive</English>
         <French>Capturé</French>
         <German>Neutrales Verhalten</German>
       </Key>
       <Key ID="STR_ENH_setCaptive_tooltip">
         <Original>Unit will behave neutral and will join the civilian side.</Original>
+        <Czech>Jednotka se bude chovat neutrálně a bude zařazena na stranu civilistů.</Czech>
         <English>Unit will behave neutral and will join the civilian side.</English>
         <French>Change le statut des unités en "otage", l'unité sera dans la faction civil.</French>
         <German>Einheit wechselt auf die zivile Seite und verhält sich neutral.</German>
@@ -744,12 +767,14 @@
     <Container name="Enable Headlights">
       <Key ID="STR_ENH_enableHeadlights_displayName">
         <Original>Enable Headlights</Original>
+        <Czech>Povolit svícení obrysovými světly</Czech>
         <English>Enable Headlights</English>
         <French>Activer les phares</French>
         <German>Scheinwerfer an</German>
       </Key>
       <Key ID="STR_ENH_enableHeadlights_tooltip">
         <Original>Will enable headlights of selected EMPTY vehicle.</Original>
+        <Czech>Povolí svícení obrysových světel zvoleného PRÁZDNÉHO vozidla.</Czech>
         <English>Will enable headlights of selected EMPTY vehicle.</English>
         <French>Active les phares sur le véhicule vide sélectionné.</French>
         <German>Schaltet die Scheinwerfer von LEEREN Fahrzeugen an.</German>
@@ -758,12 +783,14 @@
     <Container name="Allow Crew Immobile">
       <Key ID="STR_ENH_allowCrewImmobile_displayName">
         <Original>Crew in Immobile</Original>
+        <Czech>Posádka zůstává ve vozidle</Czech>
         <English>Crew in Immobile</English>
         <French>Equipage immobile</French>
         <German>Besatzung einsperren</German>
       </Key>
       <Key ID="STR_ENH_allowCrewImmobile_tooltip">
         <Original>Crew stays in vehicle even thought the vehicle is disabled.</Original>
+        <Czech>Posádka zůstává ve vozidle, i když je vozidlo neschopné pohybu.</Czech>
         <English>Crew stays in vehicle even thought the vehicle is disabled.</English>
         <French>Le groupe reste dans le véhicule même si il est neutralisé.</French>
         <German>Fahrzeugbesatzung bleibt im Fahrzeug auch wenn dieses Kampfunfähig ist.</German>
@@ -772,24 +799,28 @@
     <Container name="Ambient Animation">
       <Key ID="STR_ENH_ambAnim_equipment_displayName">
         <Original>Equipment</Original>
+        <Czech>Výstroj</Czech>
         <English>Equipment</English>
         <French>Équipement</French>
         <German>Ausrüstung</German>
       </Key>
       <Key ID="STR_ENH_ambAnim_activate_tooltip">
         <Original>Enables ambient animation for selected unit, unit will react not to danger.</Original>
+        <Czech>Povolí animace pro zvolenou jednotku, jednotka nebude nijak reagovat na nebezpečí.</Czech>
         <English>Enables ambient animation for selected unit, unit will not react to danger.</English>
         <French>Activer l'animations d'ambiance pour l'unité sélectionnée, l'unité ne réagira pas en cas de danger.</French>
         <German>Ausgewählte Einheit spielt eine Animation ab. Einheit reagiert nicht auf Gefahr.</German>
       </Key>
       <Key ID="STR_ENH_ambAnimCombat_activate_tooltip">
         <Original>Enables ambient animation for selected unit, unit will react to danger.</Original>
+        <Czech>Povolí animace pro zvolenou jednotku, jednotka bude reagovat na nebezpečí.</Czech>
         <English>Enables ambient animation for selected unit, unit will react to danger.</English>
         <French>Activer l'animations d'ambiance pour l'unité sélectionnée, l'unité réagira en cas de danger.</French>
         <German>Ausgewählte Einheit spielt eine Animation ab. Einheit reagiert nicht auf Gefahr.</German>
       </Key>
       <Key ID="STR_ENH_ambAnim_animation_displayName">
         <Original>Animation</Original>
+        <Czech>Animace</Czech>
         <English>Animation</English>
         <French>Animation</French>
         <German>Animation</German>
@@ -798,108 +829,126 @@
     <Container name="Advanced Skill Settings">
       <Key ID="STR_ENH_aimingShake_displayName">
         <Original>Aiming Shake</Original>
+        <Czech>Třas při míření</Czech>
         <English>Aiming Shake</English>
         <French>Précision</French>
         <German>Verwacklung beim Zielen</German>
       </Key>
       <Key ID="STR_ENH_aimingShake_tooltip">
         <Original>Affects how steadily the AI can hold a weapon  (Higher value = less weapon sway).</Original>
+        <Czech>Ovlivňuje jak přesně bude jednotka mířit (vyšší hodnota = menší houpání zbraně).</Czech>
         <English>Affects how steadily the AI can hold a weapon (Higher value = less weapon sway).</English>
         <French>Affecte la manière dont l'IA tient son arme (valeur plus élevée = balancement d'arme moins important).</French>
         <German>Beeinflusst wie stabil eine KI ihre Waffe halten kann (Höherer Wert = weniger Verwacklung).</German>
       </Key>
       <Key ID="STR_ENH_aimingSpeed_displayName">
         <Original>Aiming Speed</Original>
+        <Czech>Rychlost míření</Czech>
         <English>Aiming Speed</English>
         <French>Rapidité de visé</French>
         <German>Zielgeschwindigkeit</German>
       </Key>
       <Key ID="STR_ENH_aimingSpeed_tooltip">
         <Original>Affects how quickly the AI can rotate and stabilize its aim (Higher value = faster, less error).</Original>
+        <Czech>Ovlivňuje jak rychle může AI zamířit (vyšší hodnota = rychlejší míření, menší odchylka)</Czech>
         <English>Affects how quickly the AI can rotate and stabilize its aim (Higher value = faster, less error).</English>
         <French>Affecte la capacité de l'IA à stabiliser et modifier sa visé (valeur supérieure = plus rapide et moins d'erreur).</French>
         <German>Beeinflusst wie schnell eine KI sich herumdrehen und ihr Zielen stabilisieren kann (Höherer Wert = schneller, weniger Fehler).</German>
       </Key>
       <Key ID="STR_ENH_aimingAccuracy_displayName">
         <Original>Aiming Accuracy</Original>
+        <Czech>Přesnost míření</Czech>
         <English>Aiming Accuracy</English>
         <French>Précision du tir</French>
         <German>Treffsicherheit</German>
       </Key>
       <Key ID="STR_ENH_aimingAccuracy_tooltip">
         <Original>Affects how precise an AI will shoot (Higher value = higher precision).</Original>
+        <Czech>Ovlivňuje jak přesně bude AI střílet (vyšší hodnota = větší přesnost).</Czech>
         <English>Affects how precise an AI will shoot (Higher value = higher precision).</English>
         <French>Affecte la précision de l'IA lors d'un tir (valeur supérieure = précision plus haute).</French>
         <German>Beeinflusst die Treffsicherheit der KI (Höherer Wert = höhere Treffsicherheit).</German>
       </Key>
       <Key ID="STR_ENH_commanding_displayName">
         <Original>Commanding</Original>
+        <Czech>Velení</Czech>
         <English>Commanding</English>
         <French>Commandement</French>
         <German>Kommandieren</German>
       </Key>
       <Key ID="STR_ENH_commanding_tooltip">
         <Original>Affects how quickly recognized targets are shared with the group (Higher value = faster reporting).</Original>
+        <Czech>Ovlivňuje jak rychle jsou rozeznané cíle sdíleny se skupinou (vyšší hodnota = rychlejší hlášení).</Czech>
         <English>Affects how quickly recognized targets are shared with the group (Higher value = faster reporting).</English>
         <French>Affecte la rapidité d'organisation des cibles partagé avec le groupe (valeur supérieure = organisation plus rapide).</French>
         <German>Beeinflusst wie schnell Ziele erkannt und in der Gruppe geteilt werden (Höherer Wert = schnellere Kommunikation).</German>
       </Key>
       <Key ID="STR_ENH_courage_displayName">
         <Original>Courage</Original>
+        <Czech>Odvaha</Czech>
         <English>Courage</English>
         <French>Courage</French>
         <German>Mut</German>
       </Key>
       <Key ID="STR_ENH_courage_tooltip">
         <Original>Affects unit's subordinates' morale (Higher value = more courage).</Original>
+        <Czech>Ovlivňuje morálku (vyšší hodnota = větší odvaha).</Czech>
         <English>Affects unit's subordinates' morale (Higher value = more courage).</English>
         <French>Affecte le moral des unités subordonnées (valeur supérieure = plus de courage).</French>
         <German>Beeinflusst die Tapferkeit der KI im Kampf (Höherer Wert = mehr Mut).</German>
       </Key>
       <Key ID="STR_ENH_general_displayName">
         <Original>General</Original>
+        <Czech>Všeobecné</Czech>
         <English>General</English>
         <French>Général</French>
         <German>Allgemein</German>
       </Key>
       <Key ID="STR_ENH_general_tooltip">
         <Original>Affects the AI's decision making.</Original>
+        <Czech>Ovlivňuje rozhodování umělé inteligence.</Czech>
         <English>Affects the AI's decision making.</English>
         <French>Affecte la capacité décisionnel de l'IA.</French>
         <German>Beeinflusst die Fähigkeit der KI, Entscheidungen zu treffen.</German>
       </Key>
       <Key ID="STR_ENH_reloadSpeed_displayName">
         <Original>Reload Speed</Original>
+        <Czech>Rychlost přebíjení</Czech>
         <English>Reload Speed</English>
         <French>Temps de rechargement</French>
         <German>Nachladegeschwindigkeit</German>
       </Key>
       <Key ID="STR_ENH_reloadSpeed_tooltip">
         <Original>Affects the delay between switching or reloading a weapon. (Higher value = less delay).</Original>
+        <Czech>Ovlivňuje prodlevu mezi přepnutím nebo přebitím zbraně (vyšší hodnota = menší prodleva).</Czech>
         <English>Affects the delay between switching or reloading a weapon. (Higher value = less delay).</English>
         <French>Affecte le délais de rechargement et de changement d'arme (valeur supérieure = délais réduit).</French>
         <German>Beeinflusst die Nachladegeschwindigkeit und die Zeit die zum Wechseln einer Waffe benötigt wird. (Höherer Wert = schnelleres Nachladen).</German>
       </Key>
       <Key ID="STR_ENH_spotDistance_displayName">
         <Original>Spot Distance</Original>
+        <Czech>Rozeznávání cílů</Czech>
         <English>Spot Distance</English>
         <French>Distance de repérage</French>
         <German>Aufklärungsreichweite</German>
       </Key>
       <Key ID="STR_ENH_spotDistance_tooltip">
         <Original>Affects the AI's ability to spot targets within it's visual or audible range and also affects the accuracy of the information (Higher value = better spotting, more accurate information).</Original>
+        <Czech>Ovlivňuje schopnost umělé inteligence rozpoznat cíle podle vizuálních a zvukových podnětů a také ovlivňuje přesnost těchto informací (vyšší hodnota = lepší pozorovací schopnost, přesnější informace).</Czech>
         <English>Affects the AI's ability to spot targets within it's visual or audible range and also affects the accuracy of the information (Higher value = better spotting, more accurate information).</English>
         <French>Affecte la capacité de l'IA à repérer des cibles au sein de son champs de vision ou par les bruits et affecte également la précision de l'information (valeur supérieure = meilleur temps de repérage et des informations plus justes).</French>
         <German>Beeinflusst die Fähigkeit der KI im sicht - und hörbaren Bereich Ziele zu erkennen. Zusätzlich wird die Genauigkeit der Zielerkennung beeinflusst (Höherer Wert = besseres Erkennen von Zielen, und genauere Informationen).</German>
       </Key>
       <Key ID="STR_ENH_spotTime_displayName">
         <Original>Spot Time</Original>
+        <Czech>Rychlost rozeznávání</Czech>
         <English>Spot Time</English>
         <French>Temps de repérage</French>
         <German>Aufklärungsgeschwindigkeit</German>
       </Key>
       <Key ID="STR_ENH_spotTime_tooltip">
         <Original>Affects how quick the AI react to death, damage or observing an enemy (Higher value = quicker reaction).</Original>
+        <Czech>Ovlivňuje jak rychle reaguje umělá inteligence na smrt, poškození nebo činnost nepřítele (vyšší hodnota = rychlejší reakce).</Czech>
         <English>Affects how quick the AI react to death, damage or observing an enemy (Higher value = quicker reaction).</English>
         <French>Affecte la rapidité de réaction de l'IA à la mort de ses alliés, aux dommages subis ou à l'observation d'un ennemi (valeur supérieure = réaction plus rapide).</French>
         <German>Beeinflusst wie schnell die KI auf Tod, Schaden oder das Entdecken von Feinden reagiert (Höherer Wert = schnelleres Reagieren).</German>
@@ -908,101 +957,118 @@
     <Container name="DisableAI">
       <Key ID="STR_ENH_disableAI_move_displayName">
         <Original>Move</Original>
+        <Czech>Pohyb</Czech>
         <English>Move</English>
         <French>Bouger</French>
         <German>Bewegung</German>
       </Key>
       <Key ID="STR_ENH_disableAI_move_tooltip">
         <Original>Disables AI's ability to Move.</Original>
+        <Czech>Znemožní jednotce pohyb.</Czech>
         <English>Disables AI's ability to move.</English>
         <French>Désactiver la capacité de l'IA à se déplacer.</French>
         <German>Deaktiviert die Fähigkeit der KI sich zu bewegen.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_target_displayName">
         <Original>Target</Original>
+        <Czech>Zaměřování</Czech>
         <English>Target</English>
         <French>Cible</French>
         <German>Zielen</German>
       </Key>
       <Key ID="STR_ENH_disableAI_target_tooltip">
         <Original>Disables AI's ability to target.</Original>
+        <Czech>Znemožní umělé inteligenci zaměřit cíl.</Czech>
         <English>Disables AI's ability to target.</English>
         <French>Désactiver la capacité de l'IA à repérer.</French>
         <German>Deaktiviert die Fähigkeit der KI zu Zielen.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_cover_displayName">
         <Original>Cover</Original>
+        <Czech>Krytí</Czech>
         <English>Cover</English>
         <French>Couverture</French>
         <German>Deckung</German>
       </Key>
       <Key ID="STR_ENH_disableAI_cover_tooltip">
         <Original>Disables AI's ability to take cover.</Original>
+        <Czech>Znemožní umělé inteligenci se krýt.</Czech>
         <English>Disables AI's ability to take cover.</English>
         <French>Désactiver la capacité de l'IA à se mettre à couvert.</French>
         <German>Deaktiviert die Fähigkeit der KI sich Deckung zu suchen.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_autotarget_displayName">
         <Original>Autotarget</Original>
+        <Czech>Automatické zaměřování</Czech>
         <English>Autotarget</English>
         <French>Cible automatique</French>
         <German>Ziele suchen</German>
       </Key>
       <Key ID="STR_ENH_disableAI_autotarget_tooltip">
         <Original>Disables AI's ability automatically assign targets.</Original>
+        <Czech>Znemožní umělé inteligenci možnost automaticky přidělovat cíle.</Czech>
         <English>Disables AI's ability automatically assign targets.</English>
         <French>Désactiver la capacité de l'IA à assigner une cible automatiquement.</French>
         <German>Deaktiviert die Fähigkeit der KI automatisch Ziele zu suchen.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_anim_tooltip">
         <Original>Disables animations.</Original>
+        <Czech>Vypíná animace.</Czech>
         <English>Disables animations.</English>
         <French>Désactive les animations.</French>
         <German>Deaktiviert die Animationen der KI.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_anim_displayName">
         <Original>Animation</Original>
+        <Czech>Animace</Czech>
         <English>Animation</English>
         <French>Animation</French>
         <German>Animation</German>
       </Key>
       <Key ID="STR_ENH_disableAI_FSM_tooltip">
         <Original>Disable the execution of AI behaviour scripts.</Original>
+        <Czech>Znemožní spuštění behaviorálních skriptů umělé inteligence.</Czech>
         <English>Disable the execution of AI behaviour scripts.</English>
         <French>Désactive l'éxecution des scripts comportementaux de l'IA.</French>
         <German>Deaktiviert das Ausführen der KI Verhaltens Skripte.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_aimingError_displayName">
         <Original>Aiming Error</Original>
+        <Czech>Odchylka míření</Czech>
         <English>Aiming Error</English>
         <French>Erreur de visée</French>
       </Key>
       <Key ID="STR_ENH_disableAI_aimingError_tooltip">
         <Original>Prevents AI's aiming from being diSTR_ENH_acted by its shooting, moving, turning, reloading, hit, injury, fatigue, suppression or concealed/lost target.</Original>
+        <Czech>Zabrání umělé inteligenci být rušena střelbou, pohybem, otáčením, přebíjením, zásahem, zraněním, unávou, když je pod palbou anebo ztratila cíl.</Czech>
         <English>Prevents AI's aiming from being diSTR_ENH_acted by its shooting, moving, turning, reloading, hit, injury, fatigue, suppression or concealed/lost target.</English>
         <French>Empêche l'IA de rater son tir lorsqu'elle est blessée, fatiguée, en mouvement, en rotation, en rechargeant, en étant suppriméen ou en ayant perdu sa cible.</French>
         <German>Das Zielen der KI wird nicht mehr vom Schießen, Bewegen, Nachladen, von Treffern bzw. Verletzungen, Erschöpfung, Unterdrückungsfeuer und das Verlieren von Zielen beeinflusst.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_teamSwitch_displayName">
         <Original>TeamSwitch</Original>
+        <Czech>Přepínání týmu</Czech>
         <English>Team Switch</English>
         <French>Changement d'équipe</French>
         <German>Teamwechsel</German>
       </Key>
       <Key ID="STR_ENH_disableAI_teamSwitch_tooltip">
         <Original>AI disabled because of Team Switch.</Original>
+        <Czech>Umělá inteligence je vypnuta kvůli přepínámí týmu.</Czech>
         <English>AI disabled because of Team Switch.</English>
         <French>L'IA est désactivé lors d'un changement d'équipe.</French>
         <German />
       </Key>
       <Key ID="STR_ENH_disableAI_raycasts_displayName">
         <Original>Raycasts</Original>
+        <Czech>Raycasts</Czech>
         <English>Raycasts</English>
         <French>Raycasts</French>
         <German>Raycasts</German>
       </Key>
       <Key ID="STR_ENH_disableAI_raycasts_tooltip">
         <Original>Disables visibility raycasts.</Original>
+        <Czech>Vypne zobrazení raycastů.</Czech>
         <English>Disables visibility raycasts.</English>
         <French>Désactiver les "raycasts" visible.</French>
         <German />
