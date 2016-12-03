@@ -1247,6 +1247,16 @@
         <English>Hide Terrain Objects</English>
         <German>Kartenobjekte verstecken</German>
       </Key>
+      <Key ID="STR_ENH_deleteCrew">
+        <Original>Delete Crew</Original>
+        <English>Delete Crew</English>
+        <German>Besatzung entfernen</German>
+      </Key>
+      <Key ID="STR_ENH_getSize">
+        <Original>Get Object's Size</Original>
+        <English>Get Object's Size</English>
+        <German>Objektgröße messen</German>
+      </Key>
     </Container>
     <Container name="Help">
       <Key ID="STR_ENH_HelpFunctionsOverview">
@@ -1545,6 +1555,16 @@
         <Original>Toggle Grass</Original>
         <English>Toggle Grass</English>
         <German>Gras an/aus</German>
+      </Key>
+      <Key ID="STR_ENH_exportGUIBaseClasses">
+        <Original>Export GUI Base Classes</Original>
+        <English>Export GUI Base Classes</English>
+        <German>GUI Klassen exportieren</German>
+      </Key>
+      <Key ID="STR_ENH_GUITestGrids">
+        <Original>Open GUI Test Grids</Original>
+        <English>Open GUI Test Grids</English>
+        <German>GUI Testraster öffnen</German>
       </Key>
     </Container>
     <Container name="Tool Folders">
