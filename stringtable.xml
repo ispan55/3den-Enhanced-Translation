@@ -1395,6 +1395,11 @@
         <English>Scripting for Beginners...</English>
         <German>Skripten für Anfänger...</German>
       </Key>
+      <Key ID="STR_ENH_HelpAICompilationList">
+        <Original>AI Compilation List by Gunter Severlo</Original>
+        <English>AI Compilation List by Gunter Severlo</English>
+        <German>KI Informationsliste by Gunter Severlo</German>
+      </Key>
     </Container>
     <Container name="Statusbar">
       <Key ID="STR_ENH_display3DEN_sessionTime_tooltip">
