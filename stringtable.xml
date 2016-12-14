@@ -1592,9 +1592,9 @@
         <German>Skripten für Anfänger...</German>
       </Key>
       <Key ID="STR_ENH_HelpAICompilation">
-        <Original>AI Compilation List by Gunter Severloh</Original>
-        <English>AI Compilation List by Gunter Severloh</English>
-        <German>KI Zusammenstellung von Gunter Severloh</German>
+        <Original>AI Compilation List by Gunter Severloh...</Original>
+        <English>AI Compilation List by Gunter Severloh...</English>
+        <German>KI Zusammenstellung von Gunter Severloh...</German>
       </Key>
     </Container>
     <Container name="Statusbar">
