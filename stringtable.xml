@@ -129,7 +129,7 @@
         <English>Keep in mind that this setting can be limited bei either the server or the player's visual settings. Additionally, the object view distance cannot be higher than the view distance.</English>
         <Czech>Pamatujte že toto nastavení může být omezeno nastavením zobrazení na straně serveru či hráče. Dále pak, vykreslovací vzdálenost objektu nesmí být vyšší než celková vykreslovací vzdálenost</Czech>
         <French>Attention : ces paramètres peuvent être limités par le serveur et/ou par les paramètres d'affichage des joueurs. La distance d'affichage des objets ne peut être supérieure à la distance d'affichage globale.</French>
-        <German>Bedenke das diese Einstellung vom Server oder den persönlichen Einstellungen des Spielers limitiert werden können. Ausserdem kann die Objektsichtweite nicht höher also die allgemeine Sichtweite sein.</German>
+        <German>Bedenke, dass diese Einstellung vom Server oder den persönlichen Einstellungen des Spielers limitiert werden können. Ausserdem kann die Objektsichtweite nicht höher also die allgemeine Sichtweite sein.</German>
       </Key>
       <Key ID="STR_ENH_objViewDistance_displayName">
         <Original>Object View Distance</Original>
@@ -143,7 +143,7 @@
         <English>Disable Grass</English>
         <Czech>Vypnout zobrazování trávy</Czech>
         <French>Désactiver l'herbe</French>
-        <German>Grass ausschalten</German>
+        <German>Gras ausschalten</German>
       </Key>
     </Container>
     <Container name="Volume">
@@ -213,8 +213,8 @@
         <German>Aktivieren</German>
       </Key>
       <Key ID="STR_ENH_introText_activate_tooltip">
-        <Original>Will display three lines at the beginnen of the mission for every player.</Original>
-        <English>Will display three lines at the beginnen of the mission for every player.</English>
+        <Original>Will display three lines at the beginning of the mission for every player.</Original>
+        <English>Will display three lines at the beginning of the mission for every player.</English>
         <Czech>Zobrazí tři řádky na začátku mise pro každého hráče.</Czech>
         <French>Affiche trois lignes au début de la mission pour tous les joueurs.</French>
         <German>Am Anfang der Mission werden drei Zeilen für jeden Spieler angezeigt.</German>
@@ -285,7 +285,7 @@
         <Original>If enabled, the Arsenal will be preloaded every time the editor is opened, or a preview ends.</Original>
         <English>If enabled, the Arsenal will be preloaded every time the editor is opened, or a preview ends.</English>
         <Czech>Pokud aktivní, Arzenál bude přednastaven vždy když je editor otevřený, nebo ukázka skončí.</Czech>
-        <German>Wenn aktiviert, wir das Arsenal im Voraus beim Öffnen des Editors, oder beim Beenden einer Vorschau geladen.</German>
+        <German>Wenn aktiviert, wird das Arsenal im Voraus beim Öffnen des Editors, oder beim Beenden einer Vorschau geladen.</German>
     <French>Si activé, l'Arsenal Virtuel sera préchargé à chaque ouverture de l'Editeur, ou lorsqu'une Prévisualisation se termine.</French>
       </Key>
     </Container>
@@ -838,7 +838,7 @@
         <English>Enables ambient animation for selected unit, unit will react to danger.</English>
         <Czech>Povolí animace pro zvolenou jednotku, jednotka bude reagovat na nebezpečí.</Czech>
         <French>Activer les animations d'ambiance pour l'unité sélectionnée. L'unité REAGIRA en cas de danger.</French>
-        <German>Ausgewählte Einheit spielt eine Animation ab. Einheit reagiert nicht auf Gefahr.</German>
+        <German>Ausgewählte Einheit spielt eine Animation ab. Einheit reagiert auf Gefahr.</German>
       </Key>
       <Key ID="STR_ENH_ambAnim_animation_displayName">
         <Original>Animation</Original>
@@ -1059,6 +1059,7 @@
         <English>Aiming Error</English>
         <Czech>Odchylka míření</Czech>
         <French>Erreur de visée</French>
+        <German>Erreur de visée</German>
       </Key>
       <Key ID="STR_ENH_disableAI_aimingError_tooltip">
         <Original>Prevents AI's aiming from being diSTR_ENH_acted by its shooting, moving, turning, reloading, hit, injury, fatigue, suppression or concealed/lost target.</Original>
@@ -1256,7 +1257,7 @@
         <Original>The camouflage coefficent determines how easy an unit can be spotted by AI. A lower value means it's more difficult to spot it.</Original>
         <English>The camouflage coefficent determines how easy an unit can be spotted by AI. A lower value means it's more difficult to spot it.</English>
         <Czech>Tento koeficient určuje jak snadno může být jednotka zpozorována umělou inteligencí. Nižší hodnota znamená že je jednotku těžší odhalit.</Czech>
-        <German>Der Tarnungskoeffizient bestimmt wie leicht eine Einheit von anderen KI Einheiten erkannt werden kann, ein niedrigere Wert bedeutet, dass die Einheit schwerer zu erkennen ist.</German>
+        <German>Der Tarnungskoeffizient bestimmt wie leicht eine Einheit von anderen KI Einheiten erkannt werden kann, ein niedriger Wert bedeutet, dass die Einheit schwerer zu erkennen ist.</German>
     <French>Détermine la facilité avec laquelle l'unité peut être repérée visuellement par l'IA (valeur faible = plus difficile à voir).</French>
       </Key>
       <Key ID="STR_ENH_audibleCoef_displayName">
@@ -1270,7 +1271,7 @@
         <Original>The audible coefficient determines how easy a unit can be heard by AI. A lower value means it's more difficult to hear it.</Original>
         <English>The audible coefficient determines how easy a unit can be heard by AI. A lower value means it's more difficult to hear it.</English>
         <Czech>Tento koeficient určuje jak snadno může být jednotka zaslechnuta umělou inteligencí. Nižší hodnota znamená že je jednotku těžší zaslechnout.</Czech>
-        <German>Der Hörbereichskoeffizient bestimmt wie leicht eine Einheit zu hören ist. Ein niedrigere Wert bedeutet, dass die Einheit schwieriger zu hören ist.</German>
+        <German>Der Hörbereichskoeffizient bestimmt wie leicht eine Einheit zu hören ist. Ein niedriger Wert bedeutet, dass die Einheit schwieriger zu hören ist.</German>
     <French>Détermine la facilité avec laquelle l'unité peut être entendue par l'IA (valeur faible = plus difficile à entendre).</French>
       </Key>
       <Key ID="STR_ENH_loadCoef_displayName">
@@ -2322,7 +2323,7 @@
         <English>Music, Sound &amp; Radio Settings</English>
         <Czech>Hudba, zvuk &amp; nastavení rádia</Czech>
         <French>Sons, Musiques et Radio</French>
-        <German>Musik , Geräusch &amp; Radioeinstellungen</German>
+        <German>Musik, Geräusch &amp; Radioeinstellungen</German>
       </Key>
     </Container>
     <Container name="Visual Settings">
