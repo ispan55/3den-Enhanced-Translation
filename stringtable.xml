@@ -1782,6 +1782,12 @@
         <French>Afficher les grilles de test GUI</French>
         <German>GUI Testraster öffnen</German>
       </Key>
+      <Key ID="STR_ENH_debugTriggers">
+        <Original>Create Debug Triggers</Original>
+        <English>Create Debug Triggers</English>
+        <French />
+        <German>Debug Auslöser erstellen</German>
+      </Key>
     </Container>
     <Container name="Tool Folders">
       <Key ID="STR_ENH_toolFolder_main_displayName">
