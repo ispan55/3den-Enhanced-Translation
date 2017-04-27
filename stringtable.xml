@@ -384,6 +384,20 @@
         <French>Paramètres : Outil de Remplissage</French>
         <German>Einstellungen: Muster-Werkzeuge</German>
       </Key>
+      <Key ID="STR_ENH_toolSettings_batchNaming_displayName">
+        <Original>Variable Name</Original>
+        <English>Variable Name</English>
+        <Czech />
+        <French />
+        <German>Variablenname</German>
+      </Key>
+      <Key ID="STR_ENH_toolSettings_batchNaming_tooltip">
+        <Original>The variable name will be used by the 'Batch Naming' tool. The tool will automatically add '_x' to the name entered above, where 'x' is the number of the object.</Original>
+        <English>The variable name will be used by the 'Batch Naming' tool. The tool will automatically add '_x' to the name entered above, where 'x' is the number of the object.</English>
+        <Czech />
+        <French />
+        <German>Der Variablenname wird von dem 'Batch Naming' Werkzeug verwenden. Das Werkzeug fügt automatisch '_x' zu dem Variablennamen hinzu, wobei 'x' für die Zahl des Objektes steht.</German>
+      </Key>
     </Container>
     <Container name="Save Loadout">
       <Key ID="STR_ENH_saveLoadout_displayName">
@@ -994,8 +1008,8 @@
         <Original>AI disabled because of Team Switch.</Original>
         <English>AI disabled because of Team Switch.</English>
         <Czech>Umělá inteligence je vypnuta kvůli přepínámí týmu.</Czech>
-        <German>Deaktiviert die Fähigkeit der KI, die Gruppe automatisch zu wechseln.</German>
         <French>IA désactyivée à cause d'un Team Switch.</French>
+        <German>Deaktiviert die Fähigkeit der KI, die Gruppe automatisch zu wechseln.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_raycasts_displayName">
         <Original>Raycasts</Original>
@@ -1340,6 +1354,18 @@
         <Czech>Přinutí vozidlo držet se silnicí.</Czech>
         <French>Oblige l'unité à se déplacer sur la route.</French>
         <German>Zwingt das Fahrzeug dazu nur Straßen zu benutzen.</German>
+      </Key>
+    </Container>
+    <Container name="Feature Type">
+      <Key ID="STR_ENH_featureType_displayName">
+        <Original>Visibility</Original>
+        <English>Visibility</English>
+        <German>Sichtbarkeit</German>
+      </Key>
+      <Key ID="STR_ENH_featureType_tooltip">
+        <Original>Defines the visibility of the object.</Original>
+        <English>Defines the visibility of the object.</English>
+        <German>Beeinflusst die Sichtbarkeit des Objektes.</German>
       </Key>
     </Container>
   </Package>
@@ -1703,23 +1729,53 @@
         <French>Afficher l'herbe</French>
         <German>Gras an/aus</German>
       </Key>
-      <Key ID="STR_ENH_exportGUIBaseClasses">
+      <Key ID="STR_ENH_tools_exportGUIBaseClasses">
         <Original>Export GUI Base Classes</Original>
         <English>Export GUI Base Classes</English>
         <French>Exporter les classes GUI</French>
         <German>GUI Klassen exportieren</German>
       </Key>
-      <Key ID="STR_ENH_GUITestGrids">
+      <Key ID="STR_ENH_tools_GUITestGrids">
         <Original>Open GUI Test Grids</Original>
         <English>Open GUI Test Grids</English>
         <French>Afficher les grilles de test GUI</French>
         <German>GUI Testraster öffnen</German>
       </Key>
-      <Key ID="STR_ENH_debugTriggers">
+      <Key ID="STR_ENH_tools_debugTriggers">
         <Original>Create Debug Triggers</Original>
         <English>Create Debug Triggers</English>
         <French>Créer un déclencheur de débug</French>
         <German>Debug Auslöser erstellen</German>
+      </Key>
+      <Key ID="STR_ENH_tools_moonPhases">
+        <Original>Moon Phases</Original>
+        <English>Moon Phases</English>
+        <French />
+        <German>Mondphasen</German>
+      </Key>
+      <Key ID="STR_ENH_tools_jukebox">
+        <Original>Jukebox</Original>
+        <English>Jukebox</English>
+        <French />
+        <German>Jukebox</German>
+      </Key>
+      <Key ID="STR_ENH_tools_printConfig">
+        <Original>Print Config</Original>
+        <English>Print Config</English>
+        <French />
+        <German>Config auslesen</German>
+      </Key>
+      <Key ID="STR_ENH_tools_CfgDisabledCommands">
+        <Original>CfgDisabled Commands Template Generator</Original>
+        <English>CfgDisabled Commands Template Generator</English>
+        <French />
+        <German>CfgDisabled Commands Template Generator</German>
+      </Key>
+      <Key ID="STR_ENH_tools_batchNaming">
+        <Original>Batch Naming</Original>
+        <English>Batch Naming</English>
+        <French />
+        <German>Batch Naming</German>
       </Key>
     </Container>
     <Container name="Tool Folders">
@@ -1729,6 +1785,13 @@
         <Czech>Nástroje 3den Enhanced...</Czech>
         <French>Outils 3den Enhanced...</French>
         <German>3den Enhanced Werkzeuge...</German>
+      </Key>
+      <Key ID="STR_ENH_toolFolder_utilities_displayName">
+        <Original>Arma 3 Utilities</Original>
+        <English>Arma 3 Utilities</English>
+        <Czech />
+        <French />
+        <German>Arma 3 Hilfsmittel</German>
       </Key>
       <Key ID="STR_ENH_toolFolder_placement_displayName">
         <Original>Placement Tools...</Original>
@@ -1812,6 +1875,28 @@
         <Czech>Velmi vysoké</Czech>
         <French>Très élevé</French>
         <German>Sehr Hoch</German>
+      </Key>
+    </Container>
+    <Container name="Feature Type">
+      <Key ID="STR_ENH_featureType_objectViewDistance_text">
+        <Original>Limit by Object View Distance</Original>
+        <English>Limit by Object View Distance</English>
+        <German>Limitiert durch Objektsichtweite.</German>
+      </Key>
+      <Key ID="STR_ENH_featureType_objectViewDistance_tooltip">
+        <Original>Object is always visible within object view distance.</Original>
+        <English>Object is always visible within object view distance.</English>
+        <German>Das Objekt ist immer sichtbar innerhalb der Objektsichweite.</German>
+      </Key>
+      <Key ID="STR_ENH_featureType_terrainViewDistance_text">
+        <Original>Limit by Terrain View Distance</Original>
+        <English>Limit by Terrain View Distance</English>
+        <German>Limitiert durch Geländesichtbarkeit</German>
+      </Key>
+      <Key ID="STR_ENH_featureType_terrainViewDistance_tooltip">
+        <Original>Object is always visible within terrain view distance.</Original>
+        <English>Object is always visible within terrain view distance.</English>
+        <German>Das Objekt ist immer innerhalb der Geländesichtweite sichtbar.</German>
       </Key>
     </Container>
   </Package>
@@ -2035,14 +2120,14 @@
       <Key ID="STR_ENH_taskPatrol_displayname">
         <Original>Task Patrol</Original>
         <English>Task Patrol</English>
-        <German>Patrouillieren</German>
         <French>patrouille</French>
+        <German>Patrouillieren</German>
       </Key>
       <Key ID="STR_ENH_taskPatrol_tooltip">
         <Original>Makes the group of the selected unit patrol an area. The value defines the max. distance between two patrol waypoints.\n\n-1 deactivates the patrol.</Original>
         <English>Makes the group of the selected unit patrol an area. The value defines the max. distance between two patrol waypoints.\n\n-1 deactivates the patrol.</English>
-        <German>Weist der Gruppe der ausgewählten Einheit ein Gebiet zum Patrouillieren zu. Der Wert definiert den maximalen Abstand zwischen den Wegpunkten.\n\n-1 deativiert die Patrouillieren.</German>
         <French>Fais patrouiller le groupe sélectionné. La valeur définit la distance max entre deux étapes de l'itinéraire.\n\n-1 désactives the patrol.</French>
+        <German>Weist der Gruppe der ausgewählten Einheit ein Gebiet zum Patrouillieren zu. Der Wert definiert den maximalen Abstand zwischen den Wegpunkten.\n\n-1 deativiert die Patrouillieren.</German>
       </Key>
     </Container>
   </Package>
