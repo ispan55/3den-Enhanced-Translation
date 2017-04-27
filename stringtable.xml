@@ -14,7 +14,7 @@
         <English>Set how many building positions should be garrisoned.</English>
         <Czech>Nastavte kolik pozic v budově má být obsazeno.</Czech>
         <French>Défini combien de positions seront occupées dans le bâtiment.</French>
-        <German>Legt fest wie viele der Gebäudepositionen bemannt werden.</German>
+        <German>Legt fest, wie viele der Gebäudepositionen bemannt werden sollen.</German>
       </Key>
       <Key ID="STR_ENH_garrisonRadius_displayName">
         <Original>Area Radius</Original>
@@ -113,7 +113,7 @@
         <English>Keep in mind that this setting can be limited bei either the server or the player's visual settings. Additionally, the object view distance cannot be higher than the view distance.</English>
         <Czech>Pamatujte že toto nastavení může být omezeno nastavením zobrazení na straně serveru či hráče. Dále pak, vykreslovací vzdálenost objektu nesmí být vyšší než celková vykreslovací vzdálenost</Czech>
         <French>Attention : ces paramètres peuvent être limités par le serveur et/ou par les paramètres d'affichage des joueurs. La distance d'affichage des objets ne peut être supérieure à la distance d'affichage globale.</French>
-        <German>Bedenke, dass diese Einstellung vom Server oder den persönlichen Einstellungen des Spielers limitiert werden können. Ausserdem kann die Objektsichtweite nicht höher also die allgemeine Sichtweite sein.</German>
+        <German>Bedenke, dass diese Einstellung vom Server oder den persönlichen Einstellungen des Spielers limitiert werden können. Ausserdem kann die Objektsichtweite nicht höher als die allgemeine Sichtweite sein.</German>
       </Key>
       <Key ID="STR_ENH_objViewDistance_displayName">
         <Original>Object View Distance</Original>
@@ -333,7 +333,7 @@
         <English>Classnames of the vehicles which should be used for a flyby. If multiple class names are inserted a random one will be chosen each time. Input must look as follows: classname_1,classname_2,classname_n.</English>
         <Czech>Názvy tříd vozidel které mají být použity pro přelet. Pokud je vloženo více tříd, pokaždé bude zvolena náhodná. Vstup musí vypadat následovně: classname_1,classname_2,classname_n.</Czech>
         <French>ClassName des véhicules utilisés pour le(s) survol(s). Si plusieurs ClassName sont définies, une sélection aléatoire s'effectuera pour chaque survol. Formater ainsi : ClassName_1, ClassName_2, ClassName_n.</French>
-        <German>Klassenname des Luftfahrzeuges welches einen Vorbeiflug absolvieren soll. Sind mehrere Klassennamen angegeben wird für jeden Vorbeiflug ein zufälliges ausgewählt. Die Eingaben muss folgendermaßen aussehen: Klassenname_1, Klassenname_2, Klassenname_n.</German>
+        <German>Klassenname des Luftfahrzeuges welches einen Vorbeiflug absolvieren soll. Sind mehrere Klassennamen angegeben wird für jeden Vorbeiflug ein Zufälliges ausgewählt. Die Eingaben muss folgendermaßen aussehen: Klassenname_1, Klassenname_2, Klassenname_n.</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_side_displayName">
         <Original>Side</Original>
@@ -981,7 +981,7 @@
         <English>Aiming Error</English>
         <Czech>Odchylka míření</Czech>
         <French>Erreur de visée</French>
-        <German>Erreur de visée</German>
+        <German>Fehler beim Zielen</German>
       </Key>
       <Key ID="STR_ENH_disableAI_aimingError_tooltip">
         <Original>Prevents AI's aiming from being diSTR_ENH_acted by its shooting, moving, turning, reloading, hit, injury, fatigue, suppression or concealed/lost target.</Original>
@@ -1002,7 +1002,7 @@
         <English>AI disabled because of Team Switch.</English>
         <Czech>Umělá inteligence je vypnuta kvůli přepínámí týmu.</Czech>
         <French>AI disabled because of Team Switch.</French>
-        <German />
+        <German>Deaktiviert die Fähigkeit der KI, die Gruppe automatisch zu wechseln.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_raycasts_displayName">
         <Original>Raycasts</Original>
@@ -1016,7 +1016,7 @@
         <English>Disables visibility raycasts.</English>
         <Czech>Vypne zobrazení raycastů.</Czech>
         <French>Disables visibility raycasts.</French>
-        <German />
+        <German>Deaktiviert die Fähigkeit der KI, erkannte Ziele bzw. Objekte an eigene Einheiten weiterzugeben.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_suppression_displayName">
         <Original>Suppression</Original>
@@ -1051,14 +1051,14 @@
         <English>Stops the AI’s movement but not the target alignment.</English>
         <Czech>Umělá inteligence se nebude hýbat, ale bude se otáčet za cílem.</Czech>
         <French>Désactive les mouvements de l'IA mais pas sa visée.</French>
-        <German>Verhindert die Bewegung der KI allerdings nicht das anvisieren.</German>
+        <German>Verhindert die Bewegung der KI allerdings nicht das Anvisieren.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_autocombat_tooltip">
         <Original>Disables autonomous switching to COMBAT when in danger.</Original>
         <English>Disables autonomous switching to COMBAT when in danger.</English>
         <Czech>Ruší automatické přepnutí do režimu boje pokud je jednotka v nebezpečí.</Czech>
         <French>Désactive le passage automatique de l'unité en mode combat </French>
-        <German>Die KI wechselt nicht mehr autonom in den Gefahrenmodus.</German>
+        <German>Die KI wechselt nicht mehr automatisch in den Gefahrenmodus.</German>
       </Key>
     </Container>
     <Container name="Remove FAKs">
@@ -1256,7 +1256,7 @@
         <English>Code which is executed on respawn.</English>
         <Czech>Kód který je spuštěn při znovuzrození jednotky (respawn).</Czech>
         <French>Code exécuté lors du Respawn de l'unité</French>
-        <German>Code welches beim Wiedereinstieg ausgeführt wird.</German>
+        <German>Code welcher beim Wiedereinstieg ausgeführt wird.</German>
       </Key>
     </Container>
     <Container name="On Killed Event">
@@ -1305,7 +1305,7 @@
         <English>Sets the cowardice level (the lack of courage or bravery) of the unit. The more cowardice the unit has, the sooner it will start fleeing. 0 means maximum courage, while 1 means always fleeing.</English>
         <Czech>Určuje úroveň zbabělosti (nedostatek kuráže či odvahy) jednotky. Čím více je jednotka zbabělá, tím dříve začne ustupovat. 0 znamená že jednotka nikdy neustoupí, zatímco 1 znamená, že jednotka ustoupí vždy.</Czech>
         <French>Défini le niveau de peur de l'unité face au danger. Plus il est élevé, plus vite l'unité prendra la fuite (valeur entre 0 et 1, où 0 signifie que l'unité prendra immédiatement la fuite et 1 signifie qu'elle combattra jusqu'à sa mort/destruction).</French>
-        <German>Definiert den Feigheitsgrad der Einheit. Ein höherer Wert bedeutet, das die Einheit früher versucht aus einem Kampf zu fliehen.</German>
+        <German>Definiert den Feigheitsgrad der Einheit. Ein höherer Wert bedeutet, dass die Einheit früher versucht aus einem Kampf zu fliehen.</German>
       </Key>
     </Container>
     <Container name="Set Mass">
