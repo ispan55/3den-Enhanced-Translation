@@ -473,6 +473,27 @@
     </Container>
   </Package>
   <Package name="Object Attributes">
+    <Container name="Weapon Sway">
++      <Key ID="STR_ENH_weaponSway_displayName">
++        <Original>Weapon Sway</Original>
++        <English>Weapon Sway</English>
++      </Key>
++      <Key ID="STR_ENH_weaponSway_tooltip">
++        <Original>Sets player's weapon sway. State is preserved even after respawn.</Original>
++        <English>Sets player's weapon sway. State is preserved even after respawn.</English>
++      </Key>
++    </Container>
++    <Container name="Weapon Recoil">
++      <Key ID="STR_ENH_weaponRecoil_displayName">
++        <Original>Weapon Recoil</Original>
++        <English>Weapon Recoil</English>
++        <German>Waffenrückstoß</German>
++      </Key>
++      <Key ID="STR_ENH_weaponRecoil_tooltip">
++        <Original>Sets player's weapon recoil. State is preserved even after respawn.</Original>
++        <English>Sets player's weapon recoil. State is preserved even after respawn.</English>
++      </Key>
++    </Container>
     <Container name="Advanced Damage Vehicle">
       <Key ID="STR_ENH_advancedDamageVeh_engine">
         <Original>Engine (all)</Original>
