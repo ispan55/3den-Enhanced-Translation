@@ -7,6 +7,7 @@
         <English>Coverage Building Positions</English>
         <Czech>Kryté pozice v budově</Czech>
         <French>Positions de couverture dans le bâtiment</French>
+        <Spanish>Posiciones de covertura en edificios</Spanish>
         <German>Abdeckung Gebäudepositionen</German>
       </Key>
       <Key ID="STR_ENH_buildingPosCoverage_tooltip">
@@ -14,6 +15,7 @@
         <English>Set how many building positions should be garrisoned.</English>
         <Czech>Nastavte kolik pozic v budově má být obsazeno.</Czech>
         <French>Défini combien de positions seront occupées dans le bâtiment.</French>
+        <Spanish>Ajusta cuántas posiciones de edificios  deben estar guarnicionas</Spanish>
         <German>Legt fest, wie viele der Gebäudepositionen bemannt werden sollen.</German>
       </Key>
       <Key ID="STR_ENH_garrisonRadius_displayName">
@@ -21,6 +23,7 @@
         <English>Area Radius</English>
         <Czech>Oblast</Czech>
         <French>Rayon de la zone</French>
+        <Spanish>Radio del área</Spanish>
         <German>Radius des Gebietes</German>
       </Key>
       <Key ID="STR_ENH_garrison_notification">
@@ -28,6 +31,7 @@
         <English>Unit(s) were/was not placed in building(s).</English>
         <Czech>Jednotky nebyly umístěny v budově.</Czech>
         <French> entitée(s) non placée(s) dans le(s) bâtiment(s).</French>
+        <Spanish>La(s) unidad(es) no fue/fueron colocada(s) en el/los edificio(s).</Spanish>
         <German>Einheit(en) wurde(n) nicht in Gebäude(n) platziert.</German>
       </Key>
       <Key ID="STR_ENH_garrison_category">
@@ -35,6 +39,7 @@
         <English>Settings: Garrison </English>
         <Czech>Nastavení: Obsazení budov</Czech>
         <French>Paramètres: Placer en Garnison</French>
+        <Spanish>Configuración: Guarnición</Spanish>
         <German>Einstellungen: Gebäude besetzten</German>
       </Key>
     </Container>
@@ -44,6 +49,7 @@
         <English>Time Multiplier</English>
         <Czech>Zrychlení času</Czech>
         <French>Multiplicateur de temps</French>
+        <Spanish>Multiplicador de tiempo</Spanish>
         <German>Zeit Beschleunigung</German>
       </Key>
       <Key ID="STR_ENH_timeMultiplier_tooltip">
@@ -51,6 +57,7 @@
         <English>Set how fast the time will pass.</English>
         <Czech>Nastavte jak rychle bude čas ubíhat.</Czech>
         <French>Défini la vitesse d'écoulement du temps</French>
+        <Spanish>Ajusta cómo de rápido pasará el tiempo</Spanish>
         <German>Legt fest wie schnell die Zeit vergeht.</German>
       </Key>
     </Container>
@@ -60,6 +67,7 @@
         <English>Center Position</English>
         <Czech>Středová pozice</Czech>
         <French>Centre</French>
+        <Spanish>Posición centrada</Spanish>
         <German>Anvisierte Position</German>
       </Key>
       <Key ID="STR_ENH_establishingShot_centerPos_tooltip">
@@ -67,6 +75,7 @@
         <English>The center position of the virtual UAV's orbit.</English>
         <Czech>Střed orbity po které bude virtuální UAV obíhat.</Czech>
         <French>Défini le centre de l'orbite de l'UAV (Drone) virtuel</French>
+        <Spanish>La posición centrada de la orbita del UAV (Drone) virtual</Spanish>
         <German>Das Zentrum um die das virtuelle UAV kreist.</German>
       </Key>
       <Key ID="STR_ENH_establishingShot_displayedText">
@@ -74,6 +83,7 @@
         <English>Displayed Text</English>
         <Czech>Zobrazený text</Czech>
         <French>Texte affiché</French>
+        <Spanish>Texto mostrado</Spanish>
         <German>Angezeigter Text</German>
       </Key>
       <Key ID="STR_ENH_establishingShot_altitude_displayName">
@@ -81,6 +91,7 @@
         <English>Altitude</English>
         <Czech>Výška</Czech>
         <French>Altitude</French>
+        <Spanish>Altitud</Spanish>
         <German>Flughöhe</German>
       </Key>
       <Key ID="STR_ENH_establishingShot_radius_displayName">
@@ -88,6 +99,7 @@
         <English>Radius of the orbit</English>
         <Czech>Poloměr orbity</Czech>
         <French>Rayon de l'orbite</French>
+        <Spanish>Radio de la orbita</Spanish>
         <German>Radius der Umlaufbahn</German>
       </Key>
       <Key ID="STR_ENH_establishingShot_viewingAngle_displayName">
@@ -95,6 +107,7 @@
         <English>Viewing Angle</English>
         <Czech>Zobrazovací úhel</Czech>
         <French>Angle de la caméra</French>
+        <Spanish>Ángulo de la cámara</Spanish>
         <German>Betrachtungswinkel</German>
       </Key>
     </Container>
@@ -104,6 +117,7 @@
         <English>View Distance</English>
         <Czech>Vykreslovací vzdálenost</Czech>
         <French>Distance d'affichage</French>
+        <Spanish>Distancia de visión</Spanish>
         <German>Sichtweite</German>
       </Key>
       <Key ID="STR_ENH_viewDistance_tooltip">
@@ -111,6 +125,7 @@
         <English>Keep in mind that this setting can be limited bei either the server or the player's visual settings. Additionally, the object view distance cannot be higher than the view distance.</English>
         <Czech>Pamatujte že toto nastavení může být omezeno nastavením zobrazení na straně serveru či hráče. Dále pak, vykreslovací vzdálenost objektu nesmí být vyšší než celková vykreslovací vzdálenost</Czech>
         <French>Attention : ces paramètres peuvent être limités par le serveur et/ou par les paramètres d'affichage des joueurs. La distance d'affichage des objets ne peut être supérieure à la distance d'affichage globale.</French>
+        <Spanish>Tenga en cuenta que esta configuración puede estar limitada tanto en el servidor como en la configuración visual del jugador. Además, la distancia de visión de objetos no puede ser mayor que la distancia de visión.</Spanish>
         <German>Bedenke, dass diese Einstellung vom Server oder den persönlichen Einstellungen des Spielers limitiert werden können. Ausserdem kann die Objektsichtweite nicht höher als die allgemeine Sichtweite sein.</German>
       </Key>
       <Key ID="STR_ENH_objViewDistance_displayName">
@@ -118,6 +133,7 @@
         <English>Object View Distance</English>
         <Czech>Vykreslovací vzdálenost objektu</Czech>
         <French>Distance d'affichage des objets</French>
+        <Spanish>Distancia de visión de los objetos</Spanish>
         <German>Objektsichtweite</German>
       </Key>
       <Key ID="STR_ENH_disableGrass_displayName">
@@ -125,6 +141,7 @@
         <English>Disable Grass</English>
         <Czech>Vypnout zobrazování trávy</Czech>
         <French>Désactiver l'herbe</French>
+        <Spanish>Deshabilitar hierba</Spanish>
         <German>Gras ausschalten</German>
       </Key>
     </Container>
@@ -134,6 +151,7 @@
         <English>Sound Volume</English>
         <Czech>Hlasitost zvuku</Czech>
         <French>Volume (Son)</French>
+        <Spanish>Volumen del sonido</Spanish>
         <German>Lautstärke (Geräusche)</German>
       </Key>
       <Key ID="STR_ENH_musicVolume_displayName">
@@ -141,6 +159,7 @@
         <English>Music Volume</English>
         <Czech>Hlasitost hudby</Czech>
         <French>Volume (Musique)</French>
+        <Spanish>Volumen de la música</Spanish>
         <German>Lautstärke (Musik)</German>
       </Key>
       <Key ID="STR_ENH_radioVolume_displayName">
@@ -148,6 +167,7 @@
         <English>Radio Volume</English>
         <Czech>Hlasitost rádia</Czech>
         <French>Volume (Radio)</French>
+        <Spanish>Volumen de la radio</Spanish>
         <German>Lautstärke (Radio)</German>
       </Key>
       <Key ID="STR_ENH_randomMusic_displayName">
@@ -155,6 +175,7 @@
         <English>Random Music</English>
         <Czech>Náhodná hudba</Czech>
         <French>Musique aléatoire</French>
+        <Spanish>Música aleatoría</Spanish>
         <German>Zufällige Musik</German>
       </Key>
       <Key ID="STR_ENH_randomMusic_tooltip">
@@ -162,6 +183,7 @@
         <English>Will play randomly selected music at mission start. Input must look as follows: classname_1, classname_2, classname_3, classname_n.</English>
         <Czech>Bude hrát náhodnou hudbu na začátku mise. Formát musí být následující: classname_1, classname_2, classname_3, classname_n.</Czech>
         <French>Joue aléatoirement une musique sélectionnée quand la mission débute. Formatez ainsi : ClassName_1, ClassName_2, ClassName_3, ClassName_n.</French>
+        <Spanish>Reproducirá música seleccionada al azar en el inicio de la misión. La entrada debe tener el siguiente aspecto: classname_1, classname_2, classname_3, classname_n.</Spanish>
         <German>Spielt willkürlich ausgewählte Musikstücke am Anfang der Mission. Eingabe muss folgendermaßen aussehen: Klassenname_1, Klassenname_2, Klassenname_3, Klassenname_n.</German>
       </Key>
     </Container>
@@ -171,6 +193,7 @@
         <English>Intro Text</English>
         <Czech>Úvodní text</Czech>
         <French>Texte d'introduction</French>
+        <Spanish>Texto de la intro</Spanish>
         <German>Intro Text</German>
       </Key>
       <Key ID="STR_ENH_introText_introDelay_displayName">
@@ -178,6 +201,7 @@
         <English>Delay</English>
         <Czech>Prodleva</Czech>
         <French>Délai</French>
+        <Spanish>Retraso</Spanish>
         <German>Verzögerung</German>
       </Key>
       <Key ID="STR_ENH_introText_introDelay_tooltip">
@@ -185,6 +209,7 @@
         <English>Defines how much time has to pass until the intro text is shown. Setting it to 0 will disable the intro.</English>
         <Czech>Určuje kolik času musí uplynout než se úvodní text zobrazí. Nastavení této hodnoty na 0 deaktivuje intro.</Czech>
         <French>Défini le délai d'apparition du texte d'introduction. Définir sur 0 pour désactiver l'introduction.</French>
+        <Spanish>Define cuánto tiempo tiene que pasar hasta que se muestre el texto de introducción. Si se establece en 0, se inhabilitará la introducción.</Spanish>
         <German>Bestimmt wie viel Zeit vergehen muss bis das Intro angezeigt wird. Das Setzen auf 0 deaktiviert das Intro.</German>
       </Key>
       <Key ID="STR_ENH_introText_activate_displayName">
@@ -192,6 +217,7 @@
         <English>Activate</English>
         <Czech>Aktivovat</Czech>
         <French>Activer</French>
+        <Spanish>Activar</Spanish>
         <German>Aktivieren</German>
       </Key>
       <Key ID="STR_ENH_introText_activate_tooltip">
@@ -199,6 +225,7 @@
         <English>Will display three lines at the beginning of the mission for every player.</English>
         <Czech>Zobrazí tři řádky na začátku mise pro každého hráče.</Czech>
         <French>Affiche trois lignes au début de la mission pour tous les joueurs.</French>
+        <Spanish>Mostrará tres líneas al principio de la misión para cada jugador.</Spanish>
         <German>Am Anfang der Mission werden drei Zeilen für jeden Spieler angezeigt.</German>
       </Key>
       <Key ID="STR_ENH_introText_line1_displayName">
@@ -206,6 +233,7 @@
         <English>First Line</English>
         <Czech>První řádek</Czech>
         <French>Première ligne</French>
+        <Spanish>Primera línea</Spanish>
         <German>Erste Zeile</German>
       </Key>
       <Key ID="STR_ENH_introText_line2_displayName">
@@ -213,6 +241,7 @@
         <English>Second Line</English>
         <Czech>Druhý řádek</Czech>
         <French>Deuxième ligne</French>
+        <Spanish>segunda línea</Spanish>
         <German>Zweite Zeile</German>
       </Key>
       <Key ID="STR_ENH_introText_line3_displayName">
@@ -220,6 +249,7 @@
         <English>Third Line</English>
         <Czech>Třetí řádek</Czech>
         <French>Troisième ligne</French>
+        <Spanish>Tercera línea</Spanish>
         <German>Dritte Zeile</German>
       </Key>
     </Container>
@@ -229,6 +259,7 @@
         <English>Enable the Dynamic Groups system.</English>
         <Czech>Aktivuje systém dynamických skupin.</Czech>
         <French>Activer le système de Groupes Dynamiques.</French>
+        <Spanish>Habilita el sistema de grupos dinámicos</Spanish>
         <German>Aktiviert das 'Dynamic Groups' System.</German>
       </Key>
     </Container>
@@ -238,6 +269,7 @@
         <English>Respawn Tickets BLUFOR</English>
         <Czech>Počet respawn tiketů BLUFOR</Czech>
         <French>Tickets de Réapparition BLUFOR</French>
+        <Spanish>Tickets de respawn (BLUEFOR)</Spanish>
         <German>Wiedereinstiegstickets BLUFOR</German>
       </Key>
       <Key ID="STR_ENH_respawnTickets_INDFOR_displayName">
@@ -245,6 +277,7 @@
         <English>Respawn Tickets INDFOR</English>
         <Czech>Počet respawn tiketů INDFOR</Czech>
         <French>Tickets de Réapparition INDFOR</French>
+        <Spanish>Tickets de respawn (INDFOR)</Spanish>
         <German>Wiedereinstiegstickets INDFOR</German>
       </Key>
       <Key ID="STR_ENH_respawnTickets_OPFOR_displayName">
@@ -252,6 +285,7 @@
         <English>Respawn Tickets OPFOR</English>
         <Czech>Počet respawn tiketů OPFOR</Czech>
         <French>Tickets de Réapparition OPFOR</French>
+        <Spanish>Tickets de respawn (OPFOR)</Spanish>
         <German>Wiedereinstiegstickets OPFOR</German>
       </Key>
     </Container>
@@ -261,6 +295,7 @@
         <English>Type of Aircraft</English>
         <Czech>Druh letounu</Czech>
         <French>Type d'appareil</French>
+        <Spanish>Tipo de aeronave</Spanish>
         <German>Variante des Luftfahrzeuges</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_altitude_displayName">
@@ -268,6 +303,7 @@
         <English>Altitude</English>
         <Czech>Výška</Czech>
         <French>Altitude</French>
+        <Spanish>Altitud</Spanish>
         <German>Flughöhe</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_altitude_tooltip">
@@ -275,6 +311,7 @@
         <English>Altitude of the flyby.</English>
         <Czech>Výška přeletu</Czech>
         <French>Altitude du survol</French>
+        <Spanish>Altitud de sobre vuelo</Spanish>
         <German>Flughöhe des Vorbeifluges.</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_speed_tooltip">
@@ -282,6 +319,7 @@
         <English>Speed of the aircraft.</English>
         <Czech>Rychlost letounu</Czech>
         <French>Vitesse de l'appareil</French>
+        <Spanish>Velocidad de la aeronave.</Spanish>
         <German>Geschwindigkeit des Luftfahrzeuges.</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_speed_displayName">
@@ -289,6 +327,7 @@
         <English>Speed</English>
         <Czech>Rychlost</Czech>
         <French>Vitesse</French>
+        <Spanish>Velocidad</Spanish>
         <German>Geschwindigkeit</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_iterations_displayName">
@@ -296,6 +335,7 @@
         <English>Number of Flybys</English>
         <Czech>Počet přeletů</Czech>
         <French>Nombre de survols</French>
+        <Spanish>Número de sobre vuelos</Spanish>
         <German>Anzahl der Vorbeiflüge</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_delay_displayName">
@@ -303,6 +343,7 @@
         <English>Delay</English>
         <Czech>Prodleva</Czech>
         <French>Délai</French>
+        <Spanish>Retraso</Spanish>
         <German>Verzögerung</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_delay_tooltip">
@@ -310,6 +351,7 @@
         <English>Delay until the first flyby starts and delay in between two flybys. Note that smaller values (n-&gt;0) will have a bigger impact on performance.</English>
         <Czech>Prodleva než první přelet započne a prodleva mezi dvěma přelety. Upozorňujeme že nižší hodnoty (n-&gt;0) budou mít větší dopad na výkon.</Czech>
         <French>Délai avant que le premier survol débute, et délai entre deux survols. Attention, une faible valeur (n-&gt;0) aura un impact plus élevé sur les performances.</French>
+        <Spanish>Retraso hasta que comience el primer sobre vuelo y retraso entre dos sobre vuelos. Tenga en cuenta que los valores más pequeños (n-&gt; 0) tendrán un mayor impacto en el rendimiento.</Spanish>
         <German>Zeit bis zum ersten Vorbeiflug und Zeit zwischen zwei Vorbeiflügen. Bedenke das kleine Werte (n-&gt;0) einen größeren Einfluss auf die Leistung haben.</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_startPosition_displayName">
@@ -317,6 +359,7 @@
         <English>Starting Position</English>
         <Czech>Počáteční pozice</Czech>
         <French>Position de départ</French>
+        <Spanish>Posición de inicio</Spanish>
         <German>Anfangsposition</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_endPosition_displayName">
@@ -324,6 +367,7 @@
         <English>Ending Position</English>
         <Czech>Konečná pozice</Czech>
         <French>Position de fin</French>
+        <Spanish>Posición de fin</Spanish>
         <German>Endposition</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_type_tooltip">
@@ -331,6 +375,7 @@
         <English>Classnames of the vehicles which should be used for a flyby. If multiple class names are inserted a random one will be chosen each time. Input must look as follows: classname_1,classname_2,classname_n.</English>
         <Czech>Názvy tříd vozidel které mají být použity pro přelet. Pokud je vloženo více tříd, pokaždé bude zvolena náhodná. Vstup musí vypadat následovně: classname_1,classname_2,classname_n.</Czech>
         <French>ClassName des véhicules utilisés pour le(s) survol(s). Si plusieurs ClassName sont définies, une sélection aléatoire s'effectuera pour chaque survol. Formater ainsi : ClassName_1, ClassName_2, ClassName_n.</French>
+        <Spanish>Classnames de los vehículos que se deben utilizar para un sobrevuelo. Si se insertan varios nombres de clase, se seleccionará cada vez una selección aleatoria. La entrada debe tener el siguiente aspecto: classname_1, classname_2, classname_n.</Spanish>
         <German>Klassenname des Luftfahrzeuges welches einen Vorbeiflug absolvieren soll. Sind mehrere Klassennamen angegeben wird für jeden Vorbeiflug ein Zufälliges ausgewählt. Die Eingaben muss folgendermaßen aussehen: Klassenname_1, Klassenname_2, Klassenname_n.</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_side_displayName">
@@ -338,6 +383,7 @@
         <English>Side</English>
         <Czech>Strana</Czech>
         <French>Faction</French>
+        <Spanish>Facción</Spanish>
         <German>Zugehörigkeit</German>
       </Key>
     </Container>
@@ -347,6 +393,7 @@
         <English>Circular Pattern Radius</English>
         <Czech>Okruh obletové kružnice</Czech>
         <French>Rayon du positionnement "En Cercle"</French>
+        <Spanish>Radio de circuito de vuelo "pattern" circular</Spanish>
         <German>Kreismusterradius</German>
       </Key>
       <Key ID="STR_ENH_toolSettings_fillArea_numObjects_displayName">
@@ -354,6 +401,7 @@
         <English>Number of Objects</English>
         <Czech>Počet objektů</Czech>
         <French>Nombre d'Objets</French>
+        <Spanish>Número de objetos</Spanish>
         <German>Anzahl an Objekten</German>
       </Key>
       <Key ID="STR_ENH_toolSettings_fillArea_areaSize_displayName">
@@ -361,6 +409,7 @@
         <English>Area Size</English>
         <Czech>Velikost oblasti</Czech>
         <French>Taille de la Zone</French>
+        <Spanish>Tamaño del área</Spanish>
         <German>Gebietsgröße</German>
       </Key>
       <Key ID="STR_ENH_toolSettings_linePatternSpacing_displayName">
@@ -368,6 +417,7 @@
         <English>Line Pattern Spacing</English>
         <Czech>Mezera mezi linií</Czech>
         <French>Espacement du positionnement "Aligner"</French>
+        <Spanish>Espaciado entre líneas del circuito de vuelo</Spanish>
         <German>Linienmusterabstand</German>
       </Key>
       <Key ID="STR_ENH_toolSettings_fillArea_category">
@@ -375,6 +425,7 @@
         <English>Settings: Fill Area </English>
         <Czech>Nastavení: Výplň</Czech>
         <French>Paramètres : Remplissage de zone</French>
+        <Spanish>Configuración: Área de relleno</Spanish>
         <German>Einstellungen: Bereich füllen</German>
       </Key>
       <Key ID="STR_ENH_toolSettings_pattern_category">
@@ -382,6 +433,7 @@
         <English>Settings: Pattern Tools</English>
         <Czech>Nastavení: Nástroje tvaru</Czech>
         <French>Paramètres : Outil de Remplissage</French>
+        <Spanish>Configuración: Herramientas de circuito de vuelo</Spanish>
         <German>Einstellungen: Muster-Werkzeuge</German>
       </Key>
       <Key ID="STR_ENH_toolSettings_batchNaming_displayName">
@@ -389,6 +441,7 @@
         <English>Variable Name</English>
         <Czech />
         <French />
+        <Spanish>Nombre de variable</Spanish>
         <German>Variablenname</German>
       </Key>
       <Key ID="STR_ENH_toolSettings_batchNaming_tooltip">
@@ -396,6 +449,7 @@
         <English>The variable name will be used by the 'Batch Naming' tool. The tool will automatically add '_x' to the name entered above, where 'x' is the number of the object.</English>
         <Czech />
         <French />
+        <Spanish>El nombre de la variable será utilizado por la herramienta 'Batch Naming'. La herramienta agregará automáticamente '_x' al nombre introducido anteriormente, donde 'x' es el número del objeto.</Spanish>
         <German>Der Variablenname wird von dem 'Batch Naming' Werkzeug verwenden. Das Werkzeug fügt automatisch '_x' zu dem Variablennamen hinzu, wobei 'x' für die Zahl des Objektes steht.</German>
       </Key>
     </Container>
@@ -405,6 +459,7 @@
         <English>Save Loadout</English>
         <Czech>Uložit výstroj</Czech>
         <French>Sauvegarder l'Equipement</French>
+        <Spanish>Guardar equipamiento</Spanish>
         <German>Ausrüstung speichern</German>
       </Key>
       <Key ID="STR_ENH_saveLoadout_tooltip">
@@ -412,6 +467,7 @@
         <English>Restores the loadout on respawn.</English>
         <Czech>Obnoví výstroj při respawnu.</Czech>
         <French>Restaure l'équipement lors de la réapparition.</French>
+        <Spanish>Restaurar equipamiento en el respawn</Spanish>
         <German>Ausrüstung wird beim Wiedereinstieg wiederhergestellt.</German>
       </Key>
     </Container>
@@ -423,6 +479,7 @@
         <English>Engine (all)</English>
         <Czech>Motor (vše)</Czech>
         <French>Moteur (tout)</French>
+        <Spanish>Motor (todo)</Spanish>
         <German>Motor (Alle)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_gun">
@@ -430,6 +487,7 @@
         <English>Gun (all)</English>
         <Czech>Zbraň (vše)</Czech>
         <French>Arme (tout)</French>
+        <Spanish>Arma (todo)</Spanish>
         <German>Geschütz (Alle)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_fuelTank">
@@ -437,6 +495,7 @@
         <English>Fuel Tank (all)</English>
         <Czech>Palivová nádrž (vše)</Czech>
         <French>Réservoir (tout)</French>
+        <Spanish>Tanque de combustible (todo)</Spanish>
         <German>Treibstofftank (Alle)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_turret">
@@ -444,6 +503,7 @@
         <English>Turret (all)</English>
         <Czech>Věž (vše)</Czech>
         <French>Tourelle (tout)</French>
+        <Spanish>Torreta (todo)</Spanish>
         <German>Geschützturm (Alle)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_windows">
@@ -451,6 +511,7 @@
         <English>Windows (all)</English>
         <Czech>Okna (vše)</Czech>
         <French>Vitres (tout)</French>
+        <Spanish>Ventanas (todo)</Spanish>
         <German>Fenster (Alle)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_LFWheel">
@@ -458,6 +519,7 @@
         <English>1st axle left wheel (car)</English>
         <Czech>První náprava levé kolo (auto)</Czech>
         <French>1er essieu, roue gauche (voiture)</French>
+        <Spanish>1er eje rueda izquierda (auto)</Spanish>
         <German>1. Achse, linkes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_RFWheel">
@@ -465,6 +527,7 @@
         <English>1st axle right wheel (car)</English>
         <Czech>První náprava pravé kolo (auto)</Czech>
         <French>1er essieu, roue droite (voiture)</French>
+        <Spanish>1er eje rueda derecha (auto)</Spanish>
         <German>1. Achse, rechtes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_LF2Wheel">
@@ -472,6 +535,7 @@
         <English>2nd axle left wheel (car)</English>
         <Czech>Druhá náprava levé kolo (auto)</Czech>
         <French>2ème essieu, roue gauche (voiture)</French>
+        <Spanish>2º eje de la rueda izquierda (auto)</Spanish>
         <German>2. Achse, linkes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_RF2Wheel">
@@ -479,6 +543,7 @@
         <English>2nd axle right wheel (car)</English>
         <Czech>Druhá náprava pravé kolo (auto)</Czech>
         <French>2ème essieu, roue droite (voiture)</French>
+        <Spanish>2º eje de la rueda derecha (auto)</Spanish>
         <German>2. Achse, rechtes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_LMWheel">
@@ -486,6 +551,7 @@
         <English>3rd axle left wheel (car)</English>
         <Czech>Třetí náprava levé kolo (auto)</Czech>
         <French>3ème essieu, roue gauche (voiture)</French>
+        <Spanish>3er eje de la rueda izquierda (auto)</Spanish>
         <German>3. Achse, linkes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_RMWheel">
@@ -493,6 +559,7 @@
         <English>3rd axle right wheel (car)</English>
         <Czech>Třetí náprava pravé kolo (auto)</Czech>
         <French>3ème essieu, roue droite (voiture)</French>
+        <Spanish>3er eje rueda derecha (auto)</Spanish>
         <German>3. Achse, rechtes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_LBWheel">
@@ -500,6 +567,7 @@
         <English>4th axle left wheel (car)</English>
         <Czech>Čtvrtá náprava levé kolo (auto)</Czech>
         <French>4ème essieu, roue gauche (voiture)</French>
+        <Spanish>4º eje de la rueda izquierda (auto)</Spanish>
         <German>4. Achse, linkes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_RBWheel">
@@ -507,6 +575,7 @@
         <English>4th axle right wheel (car)</English>
         <Czech>Čtvrtá náprava pravé kolo (auto)</Czech>
         <French>4ème essieu, roue droite (voiture)</French>
+        <Spanish>4º eje de la rueda izquierda (auto)</Spanish>
         <German>4. Achse, rechtes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_body">
@@ -514,6 +583,7 @@
         <English>Body (car)</English>
         <Czech>Karoserie</Czech>
         <French>Carrosserie (voiture)</French>
+        <Spanish>chasis (auto)</Spanish>
         <German>Karrosserie (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_LTrack">
@@ -521,6 +591,7 @@
         <English>Left track (tank)</English>
         <Czech>Levý pás (tank)</Czech>
         <French>Chenille gauche (char)</French>
+        <Spanish>Oruga izquierda (carro)</Spanish>
         <German>Linke Kette (Panzer)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_RTrack">
@@ -528,6 +599,7 @@
         <English>Right track (tank)</English>
         <Czech>Pravý pás (tank)</Czech>
         <French>Chenille droite (char)</French>
+        <Spanish>Oruga derecha (carro)</Spanish>
         <German>Rechte Kette (Panzer)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_hull">
@@ -535,6 +607,7 @@
         <English>Hull (tank &amp; helicopter)</English>
         <Czech>Trup (tank &amp; helikoptéra)</Czech>
         <French>Blindage (char et hélicoptère)</French>
+        <Spanish>Casco (carro y helicóptero)</Spanish>
         <German>Rumpf (Panzer &amp; Hubschrauber)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_avionics">
@@ -542,6 +615,7 @@
         <English>Avionics (helicopter)</English>
         <Czech>Avionika (helikoptéra)</Czech>
         <French>Avionique (hélicoptère)</French>
+        <Spanish>Aviónica (helicóptero)</Spanish>
         <German>Bordelektronik (Hubschrauber)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_mainRotor">
@@ -549,6 +623,7 @@
         <English>Main rotor (helicopter)</English>
         <Czech>Rotor (helikoptéra)</Czech>
         <French>Rotor principal (hélicoptère)</French>
+        <Spanish>Rotor principal (helicóptero)</Spanish>
         <German>Hauptrotor (Hubschrauber)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_tailRotor">
@@ -556,6 +631,7 @@
         <English>Tail Rotor (helicopter)</English>
         <Czech>Stator (helikoptéra)</Czech>
         <French>Rotor de queue (hélicoptère)</French>
+        <Spanish>Rotor de cola (helicóptero)</Spanish>
         <German>Heckrotor (Hubschrauber)</German>
       </Key>
     </Container>
@@ -565,6 +641,7 @@
         <English>Head</English>
         <Czech>Hlava</Czech>
         <French>Tête</French>
+        <Spanish>Cabeza</Spanish>
         <German>Kopf</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageUnit_face">
@@ -572,6 +649,7 @@
         <English>Face</English>
         <Czech>Obličej</Czech>
         <French>Visage</French>
+        <Spanish>Cara</Spanish>
         <German>Gesicht</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageUnit_neck">
@@ -579,6 +657,7 @@
         <English>Neck</English>
         <Czech>Krk</Czech>
         <French>Cou</French>
+        <Spanish>Cuello</Spanish>
         <German>Hals</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageUnit_chest">
@@ -586,6 +665,7 @@
         <English>Chest</English>
         <Czech>Trup</Czech>
         <French>Poitrine</French>
+        <Spanish>Tórax</Spanish>
         <German>Brustkorb</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageUnit_arms">
@@ -593,6 +673,7 @@
         <English>Arms</English>
         <Czech>Ramena</Czech>
         <French>Bras</French>
+        <Spanish>Brazos</Spanish>
         <German>Arme</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageUnit_hands">
@@ -600,6 +681,7 @@
         <English>Hands</English>
         <Czech>Ruce</Czech>
         <French>Mains</French>
+        <Spanish>Manos</Spanish>
         <German>Hände</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageUnit_abdomen">
@@ -607,6 +689,7 @@
         <English>Abdomen</English>
         <Czech>Břicho</Czech>
         <French>Abdomen</French>
+        <Spanish>Abdomen</Spanish>
         <German>Unterleib</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageUnit_pelvis">
@@ -614,6 +697,7 @@
         <English>Pelvis</English>
         <Czech>Pánev</Czech>
         <French>Bassin</French>
+        <Spanish>Pelvis</Spanish>
         <German>Becken</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageUnit_diaphragm">
@@ -621,6 +705,7 @@
         <English>Diaphragm</English>
         <Czech>Bránice</Czech>
         <French>Diaphragme</French>
+        <Spanish>Diafragma</Spanish>
         <German>Zwerchfell</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageUnit_legs">
@@ -628,6 +713,7 @@
         <English>Legs</English>
         <Czech>Nohy</Czech>
         <French>Jambes</French>
+        <Spanish>Piernas</Spanish>
         <German>Beine</German>
       </Key>
     </Container>
@@ -637,6 +723,7 @@
         <English>Remove NVGs</English>
         <Czech>Odebrat brýle pro noční vidění</Czech>
         <French>Enlever les JVN</French>
+        <Spanish>Quitar NVGs</Spanish>
         <German>Entferne Nachtsichtgerät</German>
       </Key>
     </Container>
@@ -646,6 +733,7 @@
         <English>Remove Map</English>
         <Czech>Odebrat mapu</Czech>
         <French>Enlever la carte</French>
+        <Spanish>Quitar mapa</Spanish>
         <German>Entferne Karte</German>
       </Key>
     </Container>
@@ -655,6 +743,7 @@
         <English>Remove GPS</English>
         <Czech>Odebrat GPS</Czech>
         <French>Supprimer le GPS</French>
+        <Spanish>Quitar GPS</Spanish>
         <German>Entferne GPS</German>
       </Key>
     </Container>
@@ -664,6 +753,7 @@
         <English>Clear Inventory</English>
         <Czech>Vyprázdnt inventář</Czech>
         <French>Vider l'inventaire</French>
+        <Spanish>Despejar inventario</Spanish>
         <German>Leere Inventar</German>
       </Key>
     </Container>
@@ -673,6 +763,7 @@
         <English>Remove Weapons</English>
         <Czech>Odebrat zbraně</Czech>
         <French>Désarmer</French>
+        <Spanish>Quitar armas</Spanish>
         <German>Entferne Waffen</German>
       </Key>
     </Container>
@@ -682,6 +773,7 @@
         <English>Add Gun Light</English>
         <Czech>Přidat světlo na zbraň</Czech>
         <French>Ajoute une lampe tactique</French>
+        <Spanish>Añadir linterna al arma.</Spanish>
         <German>Taschenlampe anbauen</German>
       </Key>
       <Key ID="STR_ENH_addGunLight_tooltip">
@@ -689,6 +781,7 @@
         <English>Forces unit to have gun light turned on.</English>
         <Czech>Přinutí jednotku mítm světlo na zbrani zapnuté.</Czech>
         <French>Lampe tactique allumée en permanence.</French>
+        <Spanish>Fuerza a la unidad a tener encendida la linterna del arma.</Spanish>
         <German>Baut eine Taschenlampe an die Waffe der Einheit, und schaltet diese an.</German>
       </Key>
     </Container>
@@ -710,6 +803,7 @@
         <English>Adds an Arsenal with all items to the object.</English>
         <Czech>Přidá možnost zobrazení Arzenálu se všemi předměty k tomuto objektu.</Czech>
         <French>Ajoute un Arsenal Virtuel complet à l'objet.</French>
+        <Spanish>Añade un "Arsenal" con todos los accesorios a un objeto.</Spanish>
         <German>Das Objekt verfügt über ein Arsenal mit allen Gegenständen.</German>
       </Key>
     </Container>
@@ -719,6 +813,7 @@
         <English>Allow Sprinting</English>
         <Czech>Povolit sprint</Czech>
         <French>Autoriser le Sprint</French>
+        <Spanish>Permite esprintar</Spanish>
         <German>Erlaube Sprinten</German>
       </Key>
       <Key ID="STR_ENH_allowSprinting_tooltip">
@@ -726,6 +821,7 @@
         <English>Unit can't sprint if unchecked.</English>
         <Czech>Jednotka nemůže běžet pokud není zakřížkováno.</Czech>
         <French>L'unité ne peut pas sprinter si décoché.</French>
+        <Spanish>La unidad no podrá esprinta si está desmarcado.</Spanish>
         <German>Einheit kann nicht Sprinten wenn deaktiviert.</German>
       </Key>
     </Container>
@@ -735,6 +831,7 @@
         <English>Set Captive</English>
         <Czech>Je zajatcem</Czech>
         <French>Capturé</French>
+        <Spanish>Establecer como cautivo.</Spanish>
         <German>Neutrales Verhalten</German>
       </Key>
       <Key ID="STR_ENH_setCaptive_tooltip">
@@ -742,6 +839,7 @@
         <English>Unit will behave neutral and will join the civilian side.</English>
         <Czech>Jednotka se bude chovat neutrálně a bude zařazena na stranu civilistů.</Czech>
         <French>L'unité adoptera un comprtement neutre et rejoindra la faction civile.</French>
+        <Spanish>Unidad se comportará neutral y se unirá al bando civil.</Spanish>
         <German>Einheit wechselt auf die zivile Seite und verhält sich neutral.</German>
       </Key>
     </Container>
@@ -751,6 +849,7 @@
         <English>Enable Headlights</English>
         <Czech>Povolit svícení obrysovými světly</Czech>
         <French>Activer les phares</French>
+        <Spanish>Habilitar faros.</Spanish>
         <German>Scheinwerfer an</German>
       </Key>
       <Key ID="STR_ENH_enableHeadlights_tooltip">
@@ -758,6 +857,7 @@
         <English>Will enable headlights of selected EMPTY vehicle.</English>
         <Czech>Povolí svícení obrysových světel zvoleného PRÁZDNÉHO vozidla.</Czech>
         <French>Allume les phares du véhicule VIDE sélectionné.</French>
+        <Spanish>Habilitará los faros del vehículo vacío seleccionado.</Spanish>
         <German>Schaltet die Scheinwerfer von LEEREN Fahrzeugen an.</German>
       </Key>
     </Container>
@@ -767,6 +867,7 @@
         <English>Crew in Immobile</English>
         <Czech>Posádka zůstává ve vozidle</Czech>
         <French>Equipage immobile</French>
+        <Spanish>Tripulación inmóvil</Spanish>
         <German>Besatzung einsperren</German>
       </Key>
       <Key ID="STR_ENH_allowCrewImmobile_tooltip">
@@ -774,6 +875,7 @@
         <English>Crew stays in vehicle even thought the vehicle is disabled.</English>
         <Czech>Posádka zůstává ve vozidle, i když je vozidlo neschopné pohybu.</Czech>
         <French>L'équipage restera à bord du véhicule même s'il est neutralisé.</French>
+        <Spanish>Tripulación se queda en el vehículo incluso aunque el vehículo esté neutralizado.</Spanish>
         <German>Fahrzeugbesatzung bleibt im Fahrzeug auch wenn dieses Kampfunfähig ist.</German>
       </Key>
     </Container>
@@ -783,6 +885,7 @@
         <English>Aiming Shake</English>
         <Czech>Třas při míření</Czech>
         <French>Stabilité</French>
+        <Spanish>Temblado al apuntar</Spanish>
         <German>Verwacklung beim Zielen</German>
       </Key>
       <Key ID="STR_ENH_aimingShake_tooltip">
@@ -790,6 +893,7 @@
         <English>Affects how steadily the AI can hold a weapon (Higher value = less weapon sway).</English>
         <Czech>Ovlivňuje jak přesně bude jednotka mířit (vyšší hodnota = menší houpání zbraně).</Czech>
         <French>Fermeté avec laquelle l'IA maintient son arme (valeur élevée = balancement de l'arme moins important).</French>
+        <Spanish>Afecta la forma en que la inteligencia artificial puede mantener  sin balanceos un arma (mayor valor = menos balanceo del arma).</Spanish>
         <German>Beeinflusst wie stabil eine KI ihre Waffe halten kann (Höherer Wert = weniger Verwacklung).</German>
       </Key>
       <Key ID="STR_ENH_aimingSpeed_displayName">
@@ -797,6 +901,7 @@
         <English>Aiming Speed</English>
         <Czech>Rychlost míření</Czech>
         <French>Visée</French>
+        <Spanish>Velocidad de apuntado</Spanish>
         <German>Zielgeschwindigkeit</German>
       </Key>
       <Key ID="STR_ENH_aimingSpeed_tooltip">
@@ -804,6 +909,7 @@
         <English>Affects how quickly the AI can rotate and stabilize its aim (Higher value = faster, less error).</English>
         <Czech>Ovlivňuje jak rychle může AI zamířit (vyšší hodnota = rychlejší míření, menší odchylka)</Czech>
         <French>Capacité de l'IA à s'orienter et stabiliser sa visée (valeur élevée = plus habile).</French>
+        <Spanish>Afecta como de rápido la IA puede rotar y estabilizar su apuntado (valor más alto = rápido, más eficaz)</Spanish>
         <German>Beeinflusst wie schnell eine KI sich herumdrehen und ihr Zielen stabilisieren kann (Höherer Wert = schneller, weniger Fehler).</German>
       </Key>
       <Key ID="STR_ENH_aimingAccuracy_displayName">
@@ -811,6 +917,7 @@
         <English>Aiming Accuracy</English>
         <Czech>Přesnost míření</Czech>
         <French>Précision</French>
+        <Spanish>Precisión de apuntado.</Spanish>
         <German>Treffsicherheit</German>
       </Key>
       <Key ID="STR_ENH_aimingAccuracy_tooltip">
@@ -818,6 +925,7 @@
         <English>Affects how precise an AI will shoot (Higher value = higher precision).</English>
         <Czech>Ovlivňuje jak přesně bude AI střílet (vyšší hodnota = větší přesnost).</Czech>
         <French>Précision de l'IA lors d'un tir (valeur élevée = précision élevée).</French>
+        <Spanish>Afecta como de precisa es la IA al disparar (valor más alto = mayor precisión).</Spanish>
         <German>Beeinflusst die Treffsicherheit der KI (Höherer Wert = höhere Treffsicherheit).</German>
       </Key>
       <Key ID="STR_ENH_commanding_displayName">
@@ -825,6 +933,7 @@
         <English>Commanding</English>
         <Czech>Velení</Czech>
         <French>Commandement</French>
+        <Spanish>Comandando</Spanish>
         <German>Kommandieren</German>
       </Key>
       <Key ID="STR_ENH_commanding_tooltip">
@@ -832,6 +941,7 @@
         <English>Affects how quickly recognized targets are shared with the group (Higher value = faster reporting).</English>
         <Czech>Ovlivňuje jak rychle jsou rozeznané cíle sdíleny se skupinou (vyšší hodnota = rychlejší hlášení).</Czech>
         <French>Rapidité de transmission des rapport de contact au sein du groupe (valeur élevée = transmission plus rapide).</French>
+        <Spanish>Afecta como de rápido reconoce los objetivos y los comparte con el grupo (valor más alto = más rápido)</Spanish>
         <German>Beeinflusst wie schnell Ziele erkannt und in der Gruppe geteilt werden (Höherer Wert = schnellere Kommunikation).</German>
       </Key>
       <Key ID="STR_ENH_courage_displayName">
@@ -839,6 +949,7 @@
         <English>Courage</English>
         <Czech>Odvaha</Czech>
         <French>Moral</French>
+        <Spanish>Valor</Spanish>
         <German>Mut</German>
       </Key>
       <Key ID="STR_ENH_courage_tooltip">
@@ -846,6 +957,7 @@
         <English>Affects unit's subordinates' morale (Higher value = more courage).</English>
         <Czech>Ovlivňuje morálku (vyšší hodnota = větší odvaha).</Czech>
         <French>Affecte le moral des unités subordonnées (valeur supérieure = moral élevé).</French>
+        <Spanish>Afecta a la moral de los subordinados de la unidad (valor más alto = más valientes).</Spanish>
         <German>Beeinflusst die Tapferkeit der KI im Kampf (Höherer Wert = mehr Mut).</German>
       </Key>
       <Key ID="STR_ENH_general_displayName">
@@ -853,6 +965,7 @@
         <English>General</English>
         <Czech>Všeobecné</Czech>
         <French>Général</French>
+        <Spanish>General</Spanish>
         <German>Allgemein</German>
       </Key>
       <Key ID="STR_ENH_general_tooltip">
@@ -860,6 +973,7 @@
         <English>Affects the AI's decision making.</English>
         <Czech>Ovlivňuje rozhodování umělé inteligence.</Czech>
         <French>Affecte la capacité décisionnelle de l'IA.</French>
+        <Spanish>Afecta a la toma de decisiones de la IA</Spanish>
         <German>Beeinflusst die Fähigkeit der KI, Entscheidungen zu treffen.</German>
       </Key>
       <Key ID="STR_ENH_reloadSpeed_displayName">
@@ -867,6 +981,7 @@
         <English>Reload Speed</English>
         <Czech>Rychlost přebíjení</Czech>
         <French>Vitesse de rechargement</French>
+        <Spanish>Velocidad de recarga</Spanish>
         <German>Nachladegeschwindigkeit</German>
       </Key>
       <Key ID="STR_ENH_reloadSpeed_tooltip">
@@ -874,6 +989,7 @@
         <English>Affects the delay between switching or reloading a weapon. (Higher value = less delay).</English>
         <Czech>Ovlivňuje prodlevu mezi přepnutím nebo přebitím zbraně (vyšší hodnota = menší prodleva).</Czech>
         <French>Vitesse de rechargement et de changement d'arme (valeur élevée = plus rapide).</French>
+        <Spanish>Afecta al retraso entre la recarga y el cambio de arma. (valor más alto = menos retraso).</Spanish>
         <German>Beeinflusst die Nachladegeschwindigkeit und die Zeit die zum Wechseln einer Waffe benötigt wird. (Höherer Wert = schnelleres Nachladen).</German>
       </Key>
       <Key ID="STR_ENH_spotDistance_displayName">
@@ -881,6 +997,7 @@
         <English>Spot Distance</English>
         <Czech>Rozeznávání cílů</Czech>
         <French>Distance de repérage</French>
+        <Spanish>Distancia de detección.</Spanish>
         <German>Aufklärungsreichweite</German>
       </Key>
       <Key ID="STR_ENH_spotDistance_tooltip">
@@ -888,6 +1005,7 @@
         <English>Affects the AI's ability to spot targets within it's visual or audible range and also affects the accuracy of the information (Higher value = better spotting, more accurate information).</English>
         <Czech>Ovlivňuje schopnost umělé inteligence rozpoznat cíle podle vizuálních a zvukových podnětů a také ovlivňuje přesnost těchto informací (vyšší hodnota = lepší pozorovací schopnost, přesnější informace).</Czech>
         <French>Affecte la capacité de l'IA à repérer des cibles au sein de son champ de détection visuel et/ou sonore. Affecte également la pertinence de l'information (valeur élevée = meilleur temps de repérage et identification plus pertinente).</French>
+        <Spanish>Afecta la capacidad de la IA de detectar objetivos dentro de su rango visual o audible y también afecta la exactitud de la información (Mayor valor = mejor localización, información más precisa).</Spanish>
         <German>Beeinflusst die Fähigkeit der KI im sicht - und hörbaren Bereich Ziele zu erkennen. Zusätzlich wird die Genauigkeit der Zielerkennung beeinflusst (Höherer Wert = besseres Erkennen von Zielen, und genauere Informationen).</German>
       </Key>
       <Key ID="STR_ENH_spotTime_displayName">
@@ -895,6 +1013,7 @@
         <English>Spot Time</English>
         <Czech>Rychlost rozeznávání</Czech>
         <French>Temps de réaction</French>
+        <Spanish>Tiempo de detección</Spanish>
         <German>Aufklärungsgeschwindigkeit</German>
       </Key>
       <Key ID="STR_ENH_spotTime_tooltip">
@@ -902,6 +1021,7 @@
         <English>Affects how quick the AI react to death, damage or observing an enemy (Higher value = quicker reaction).</English>
         <Czech>Ovlivňuje jak rychle reaguje umělá inteligence na smrt, poškození nebo činnost nepřítele (vyšší hodnota = rychlejší reakce).</Czech>
         <French>Affecte la vitesse de réaction de l'IA à la mort de ses alliés, aux dommages subis ou à la détection d'un ennemi (valeur élevée = réaction plus rapide).</French>
+        <Spanish>Afecta como de rápido la IA reacciona a la muerte, daño o observando un enemigo (valor más alto = reacción más rápida).</Spanish>
         <German>Beeinflusst wie schnell die KI auf Tod, Schaden oder das Entdecken von Feinden reagiert (Höherer Wert = schnelleres Reagieren).</German>
       </Key>
     </Container>
@@ -911,6 +1031,7 @@
         <English>Move</English>
         <Czech>Pohyb</Czech>
         <French>Mobilité</French>
+        <Spanish>Movimiento</Spanish>
         <German>Bewegung</German>
       </Key>
       <Key ID="STR_ENH_disableAI_move_tooltip">
@@ -918,6 +1039,7 @@
         <English>Disables AI's ability to move.</English>
         <Czech>Znemožní jednotce pohyb.</Czech>
         <French>Désactive la capacité de l'IA à bouger.</French>
+        <Spanish>Deshabilita la capacidad de la IA para moverse.</Spanish>
         <German>Deaktiviert die Fähigkeit der KI sich zu bewegen.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_target_displayName">
@@ -925,6 +1047,7 @@
         <English>Target</English>
         <Czech>Zaměřování</Czech>
         <French>Ciblage</French>
+        <Spanish>Objetivo</Spanish>
         <German>Zielen</German>
       </Key>
       <Key ID="STR_ENH_disableAI_target_tooltip">
@@ -932,6 +1055,7 @@
         <English>Disables AI's ability to target.</English>
         <Czech>Znemožní umělé inteligenci zaměřit cíl.</Czech>
         <French>Désactive la capacité de l'IA à viser.</French>
+        <Spanish>Deshabilita la habilidad de la IA para fijar objetivo.</Spanish>
         <German>Deaktiviert die Fähigkeit der KI zu Zielen.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_cover_displayName">
@@ -939,6 +1063,7 @@
         <English>Cover</English>
         <Czech>Krytí</Czech>
         <French>Couverture</French>
+        <Spanish>Covertura</Spanish>
         <German>Deckung</German>
       </Key>
       <Key ID="STR_ENH_disableAI_cover_tooltip">
@@ -946,6 +1071,7 @@
         <English>Disables AI's ability to take cover.</English>
         <Czech>Znemožní umělé inteligenci se krýt.</Czech>
         <French>Désactive la capacité de l'IA à se mettre à couvert.</French>
+        <Spanish>Deshabilita la capacidad de la IA para ponerse a cubierto.</Spanish>
         <German>Deaktiviert die Fähigkeit der KI sich Deckung zu suchen.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_autotarget_displayName">
@@ -953,6 +1079,7 @@
         <English>Autotarget</English>
         <Czech>Automatické zaměřování</Czech>
         <French>Cible automatique</French>
+        <Spanish>Auto objetivo.</Spanish>
         <German>Ziele suchen</German>
       </Key>
       <Key ID="STR_ENH_disableAI_autotarget_tooltip">
@@ -960,6 +1087,7 @@
         <English>Disables AI's ability automatically assign targets.</English>
         <Czech>Znemožní umělé inteligenci možnost automaticky přidělovat cíle.</Czech>
         <French>Désactiver la capacité de l'IA à assigner des cibles automatiquement.</French>
+        <Spanish>Deshabilita la habilidad de la IA para asignar objetivos automáticamente</Spanish>
         <German>Deaktiviert die Fähigkeit der KI automatisch Ziele zu suchen.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_anim_tooltip">
@@ -967,6 +1095,7 @@
         <English>Disables animations.</English>
         <Czech>Vypíná animace.</Czech>
         <French>Désactive les animations.</French>
+        <Spanish>Deshabilita animaciones.</Spanish>
         <German>Deaktiviert die Animationen der KI.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_anim_displayName">
@@ -974,6 +1103,7 @@
         <English>Animation</English>
         <Czech>Animace</Czech>
         <French>Animation</French>
+        <Spanish>Animación</Spanish>
         <German>Animation</German>
       </Key>
       <Key ID="STR_ENH_disableAI_FSM_tooltip">
@@ -981,6 +1111,7 @@
         <English>Disable the execution of AI behaviour scripts.</English>
         <Czech>Znemožní spuštění behaviorálních skriptů umělé inteligence.</Czech>
         <French>Désactive l'éxecution des scripts comportementaux (FSM) de l'IA.</French>
+        <Spanish>Deshabilita la ejecución de scripts de comportamiento (FMS) de la IA.</Spanish>
         <German>Deaktiviert das Ausführen der KI Verhaltens Skripte.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_aimingError_displayName">
@@ -988,6 +1119,7 @@
         <English>Aiming Error</English>
         <Czech>Odchylka míření</Czech>
         <French>Erreur de visée</French>
+        <Spanish>Error de apuntado</Spanish>
         <German>Fehler beim Zielen</German>
       </Key>
       <Key ID="STR_ENH_disableAI_aimingError_tooltip">
@@ -995,6 +1127,7 @@
         <English>Prevents AI's aiming from being distracted by its shooting, moving, turning, reloading, hit, injury, fatigue, suppression or concealed/lost target.</English>
         <Czech>Zabrání umělé inteligenci být rušena střelbou, pohybem, otáčením, přebíjením, zásahem, zraněním, unávou, když je pod palbou anebo ztratila cíl.</Czech>
         <French>Empêche l'IA de rater son tir lorsqu'elle est blessée, fatiguée, en déplacement, qu'elle recharge, subi un tir de suppression ou si sa cible est hors de vue.</French>
+        <Spanish>Evita que el apuntado de la IA sea distraído por su tiro, movimiento, giro, recarga, golpe, lesión, fatiga, supresión o objetivo oculto / perdido.</Spanish>
         <German>Das Zielen der KI wird nicht mehr vom Schießen, Bewegen, Nachladen, von Treffern bzw. Verletzungen, Erschöpfung, Unterdrückungsfeuer und das Verlieren von Zielen beeinflusst.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_teamSwitch_displayName">
@@ -1002,6 +1135,7 @@
         <English>Team Switch</English>
         <Czech>Přepínání týmu</Czech>
         <French>Team Switch</French>
+        <Spanish>Cambio de equipo</Spanish>
         <German>Teamwechsel</German>
       </Key>
       <Key ID="STR_ENH_disableAI_teamSwitch_tooltip">
@@ -1009,6 +1143,7 @@
         <English>AI disabled because of Team Switch.</English>
         <Czech>Umělá inteligence je vypnuta kvůli přepínámí týmu.</Czech>
         <French>IA désactyivée à cause d'un Team Switch.</French>
+        <Spanish>IA desactivado a causa del cambio de equipo.</Spanish>
         <German>Deaktiviert die Fähigkeit der KI, die Gruppe automatisch zu wechseln.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_raycasts_displayName">
@@ -1016,6 +1151,7 @@
         <English>Raycasts</English>
         <Czech>Raycasts</Czech>
         <French>Raycasts</French>
+        <Spanish>Raycasts</Spanish>
         <German>Raycasts</German>
       </Key>
       <Key ID="STR_ENH_disableAI_raycasts_tooltip">
@@ -1023,6 +1159,7 @@
         <English>Disables visibility raycasts.</English>
         <Czech>Vypne zobrazení raycastů.</Czech>
         <French>désactive la visbilité des raycasts.</French>
+        <Spanish>Deshabilita la visibilidad raycasts (Se utiliza para determinar qué otras entidades puede ver una entidad).</Spanish>
         <German>Deaktiviert die Fähigkeit der KI, erkannte Ziele bzw. Objekte an eigene Einheiten weiterzugeben.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_suppression_displayName">
@@ -1030,6 +1167,7 @@
         <English>Suppression</English>
         <Czech>Suprese</Czech>
         <French>Suppression</French>
+        <Spanish>Supresión</Spanish>
         <German>Niederhaltung</German>
       </Key>
       <Key ID="STR_ENH_disableAI_suppression_tooltip">
@@ -1037,6 +1175,7 @@
         <English>Prevents AI from being suppressed.</English>
         <Czech>Umělá inteligence nemůže být potlačena krycí palbou.</Czech>
         <French>L'IA est insensible aux tirs de suppression.</French>
+        <Spanish>A la IA no le afecta el fuego de supresión.</Spanish>
         <German>Unterdrückungsfeuer hat keiner Wirkung mehr auf die KI.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_autocombat_displayName">
@@ -1044,6 +1183,7 @@
         <English>Autocombat</English>
         <Czech>Automatický boj</Czech>
         <French>Combat automatique</French>
+        <Spanish>Combate automático</Spanish>
         <German>Automatischer Kampfmodus</German>
       </Key>
       <Key ID="STR_ENH_disableAI_path_displayName">
@@ -1051,6 +1191,7 @@
         <English>Path</English>
         <Czech>Cesta</Czech>
         <French>Trajectoire</French>
+        <Spanish>Camino</Spanish>
         <German>Pfad</German>
       </Key>
       <Key ID="STR_ENH_disableAI_path_tooltip">
@@ -1058,6 +1199,7 @@
         <English>Stops the AI’s movement but not the target alignment.</English>
         <Czech>Umělá inteligence se nebude hýbat, ale bude se otáčet za cílem.</Czech>
         <French>Désactive les mouvements de l'IA mais pas sa visée.</French>
+        <Spanish>Detiene el movimiento de la IA pero no la alineación de objetivos.</Spanish>
         <German>Verhindert die Bewegung der KI allerdings nicht das Anvisieren.</German>
       </Key>
       <Key ID="STR_ENH_disableAI_autocombat_tooltip">
@@ -1065,6 +1207,7 @@
         <English>Disables autonomous switching to COMBAT when in danger.</English>
         <Czech>Ruší automatické přepnutí do režimu boje pokud je jednotka v nebezpečí.</Czech>
         <French>Désactive le passage automatique de l'unité en mode combat </French>
+        <Spanish>Deshabilita el cambio automático al modo COMBATE cuando está en peligro.</Spanish>
         <German>Die KI wechselt nicht mehr automatisch in den Gefahrenmodus.</German>
       </Key>
     </Container>
@@ -1074,6 +1217,7 @@
         <English>Remove FAKs</English>
         <Czech>Odebere soupravy první pomoci</Czech>
         <French>Enlève les Kits de Premiers Secours</French>
+        <Spanish>Quita kits de primeros auxilios</Spanish>
         <German>Entferne Verbandskästen</German>
       </Key>
     </Container>
@@ -1083,6 +1227,7 @@
         <English>Engine on/off</English>
         <Czech>Motor zapnutý/vypnutý</Czech>
         <French>Moteur Allumé/Eteint</French>
+        <Spanish>Motor encendido/apagado</Spanish>
         <German>Motor an/aus</German>
       </Key>
     </Container>
@@ -1092,6 +1237,7 @@
         <English>Speed Limit</English>
         <Czech>Omezení rychlosti</Czech>
         <French>Limite de vitesse</French>
+        <Spanish>Límite de velocidad</Spanish>
         <German>Geschwindigkeitsbegrenzung</German>
       </Key>
       <Key ID="STR_ENH_limitSpeed_tooltip">
@@ -1099,6 +1245,7 @@
         <English>Limit speed of given vehicle or person to given value (in km/h). Does only work for AI controlled vehicles.</English>
         <Czech>Omezí rychlost určeného vozidla nebo osoby na zadanou hodnotu (v km/h). Funguhe pouze pro vozidla která ovládá umělá inteligence.</Czech>
         <French>Limite la vitesse du véhicule ou de l'unité en fixant une valeur (en km/h). Fonctionne uniquement pour les unités contrôlés par l'IA.</French>
+        <Spanish>Límite de la velocidad del vehículo o persona mediante un valor dado (en km/h). Sólo funciona para vehículos controlados por la IA.</Spanish>
         <German>Begrenzt die Geschwindigkeit des Fahrzeuges (Km/h). Funktioniert nur bei KI gesteuerten Fahrzeugen.</German>
       </Key>
     </Container>
@@ -1108,6 +1255,7 @@
         <English>Make Hostage</English>
         <Czech>Je rukojmím</Czech>
         <French>Rend otage</French>
+        <Spanish>Crear rehén</Spanish>
         <German>Zur Geisel machen</German>
       </Key>
       <Key ID="STR_ENH_makeHostage_tooltip">
@@ -1115,6 +1263,7 @@
         <English>Makes the unit a hostage and adds a 'Free Hostage' action. Whether the unit is still hostage can be checked with _unitName getVariable 'Enh_isHostage';</English>
         <Czech>Udělá z jednotky rukojmí a přídá akci "Osvobodit rukojmí". Jestli je jednotka stále rukojmím může být zkontrolováno pomocí _unitName getVariable 'Enh_isHostage';</Czech>
         <French>Défini l'unité comme étant otage, et ajoute une action "Libérer l'Otage". Il est possible de vérifier son statut d'otage avec la commande : _unitName getVariable "Enh_isHostage";</French>
+        <Spanish>Hace que la unidad sea un rehén y añade una acción de "liberar rehén". Si la unidad sigue siendo rehén se puede comprobar con _unitName getVariable 'Enh_isHostage';</Spanish>
         <German>Die Einheit wird zu einer Geisel und jeder Spieler erhält eine Action diese zu befreien, ob die Geisel befreit wurde kann mit folgendermaßen überprüft werden: _unitName getVariable 'Enh_isHostage';</German>
       </Key>
     </Container>
@@ -1124,6 +1273,7 @@
         <English>Is Medic?</English>
         <Czech>Je lékař?</Czech>
         <French>Est infirmier?</French>
+        <Spanish>¿Es médico?</Spanish>
         <German>Ist Sanitäter?</German>
       </Key>
       <Key ID="STR_ENH_unitTraits_medic_tooltip">
@@ -1131,6 +1281,7 @@
         <English>Defines whether the unit can fully heal other units.</English>
         <Czech>Určuje jestli může jednotka léčit ostatní jednotky.</Czech>
         <French>Défini si l'unité peut soigner complètement d'autres unités.</French>
+        <Spanish>Define si la unidad puede curar completamente otras unidades.</Spanish>
         <German>Bestimmt ob die Einheit andere Einheiten vollständig heilen kann.</German>
       </Key>
       <Key ID="STR_ENH_unitTraits_engineer_displayName">
@@ -1138,6 +1289,7 @@
         <English>Is Engineer?</English>
         <Czech>Je ženista?</Czech>
         <French>Est mécanicien ?</French>
+        <Spanish>¿Es ingeniero?</Spanish>
         <German>Ist Ingenieur?</German>
       </Key>
       <Key ID="STR_ENH_unitTraits_engineer_tooltip">
@@ -1145,6 +1297,7 @@
         <English>Defines whether or not the unit can repair vehicles.</English>
         <Czech>Určuje jestli může jednotka opravovat vozidla.</Czech>
         <French>Défini si l'unité peut réparer des véhicules.</French>
+        <Spanish>Define si la unidad puede o no reparar vehículos.</Spanish>
         <German>Bestimmt ob die Einheit Fahrzeuge reparieren kann.</German>
       </Key>
       <Key ID="STR_ENH_unitTraits_explosiveSpecialist_displayName">
@@ -1152,6 +1305,7 @@
         <English>Is Explosive Specialist?</English>
         <Czech>Je pyrotechnik?</Czech>
         <French>Est démineur ?</French>
+        <Spanish>¿Es especialista en explosivos?</Spanish>
         <German>Ist Sprengmeister?</German>
       </Key>
       <Key ID="STR_ENH_unitTraits_explosiveSpecialist_tooltip">
@@ -1159,6 +1313,7 @@
         <English>Defines whether the unit can defuse explosives.</English>
         <Czech>Určuje jestli může jednotka deaktivovat výbušniny.</Czech>
         <French>Défini si l'unité peut désamorcer des explosifs.</French>
+        <Spanish>Define si la unidad puede desactivar explosivos.</Spanish>
         <German>Bestimmt ob die Einheit Sprengsätze entschärfen kann.</German>
       </Key>
       <Key ID="STR_ENH_unitTraits_UAVHacker_displayName">
@@ -1166,6 +1321,7 @@
         <English>Is UAV Hacker?</English>
         <Czech>Je hacker UAV?</Czech>
         <French>Peut pirater un drone ?</French>
+        <Spanish>¿Es un hacker de UAV?</Spanish>
         <German>Ist UAV Hacker?</German>
       </Key>
       <Key ID="STR_ENH_unitTraits_UAVHacker_tooltip">
@@ -1173,6 +1329,7 @@
         <English>Defines whether the unit can hack hostile UAVs.</English>
         <Czech>Určuje jestli může jednotka přebrat kontrolu nad nepřátelskými bezpilotními prostředky.</Czech>
         <French>Défini si l'unité peut ou non pirater un UAV (Drone) hostile.</French>
+        <Spanish>Define si la unidad puede hackear UAV hostiles.</Spanish>
         <German>Bestimmt ob die Einheit feindliche Drohnen übernehmen kann.</German>
       </Key>
       <Key ID="STR_ENH_camouflageCoef_displayName">
@@ -1180,6 +1337,7 @@
         <English>Camouflage Coefficent</English>
         <Czech>Kamufláž</Czech>
         <French>Coefficient de camouflage</French>
+        <Spanish>Coeficiente de camuflaje</Spanish>
         <German>Tarnungskoeffizient</German>
       </Key>
       <Key ID="STR_ENH_camouflageCoef_tooltip">
@@ -1187,6 +1345,7 @@
         <English>The camouflage coefficent determines how easy an unit can be spotted by AI. A lower value means it's more difficult to spot it.</English>
         <Czech>Tento koeficient určuje jak snadno může být jednotka zpozorována umělou inteligencí. Nižší hodnota znamená že je jednotku těžší odhalit.</Czech>
         <French>Détermine la facilité avec laquelle l'unité peut être repérée visuellement par l'IA (valeur faible = plus difficile à voir).</French>
+        <Spanish>El coeficiente de camuflaje determina la facilidad con que una unidad puede ser detectada por la IA. Un valor menor significa que es más difícil detectarlo.</Spanish>
         <German>Der Tarnungskoeffizient bestimmt wie leicht eine Einheit von anderen KI Einheiten erkannt werden kann, ein niedriger Wert bedeutet, dass die Einheit schwerer zu erkennen ist.</German>
       </Key>
       <Key ID="STR_ENH_audibleCoef_displayName">
@@ -1194,6 +1353,7 @@
         <English>Audible Coefficient</English>
         <Czech>Hlasitost</Czech>
         <French>Coéfficient de bruit</French>
+        <Spanish>Coeficiente audible</Spanish>
         <German>Hörbereichskoeffizient</German>
       </Key>
       <Key ID="STR_ENH_audibleCoef_tooltip">
@@ -1201,6 +1361,7 @@
         <English>The audible coefficient determines how easy a unit can be heard by AI. A lower value means it's more difficult to hear it.</English>
         <Czech>Tento koeficient určuje jak snadno může být jednotka zaslechnuta umělou inteligencí. Nižší hodnota znamená že je jednotku těžší zaslechnout.</Czech>
         <French>Détermine la facilité avec laquelle l'unité peut être entendue par l'IA (valeur faible = plus difficile à entendre).</French>
+        <Spanish>El coeficiente audible determina la facilidad con que una unidad puede ser escuchada por AI. Un valor menor significa que es más difícil escucharlo.</Spanish>
         <German>Der Hörbereichskoeffizient bestimmt wie leicht eine Einheit zu hören ist. Ein niedriger Wert bedeutet, dass die Einheit schwieriger zu hören ist.</German>
       </Key>
       <Key ID="STR_ENH_loadCoef_displayName">
@@ -1208,6 +1369,7 @@
         <English>Load Coefficient</English>
         <Czech>Výdrž</Czech>
         <French>Coéfficient de charge</French>
+        <Spanish>Coeficiente de carga</Spanish>
         <German>Belastungskoeffizient</German>
       </Key>
       <Key ID="STR_ENH_loadCoef_tooltip">
@@ -1215,6 +1377,7 @@
         <English>The load coefficient determines how much influence the unit's loadout weight has on it's stamina. A higher value means the weight has a higher influence.</English>
         <Czech>Tento koeficient určuje jak moc velký vliv má váha výstroje jednotky vliv na její výdrž. Vyšší hodnota znamená že váha má větší vliv na výdrž.</Czech>
         <French>Détermine l'influence que peut avoir la charge d'équipement de l'unité sur son endurance (valeur élevée = plus grande influence).</French>
+        <Spanish>El coeficiente de carga determina cuánto influye el peso de la carga de la unidad sobre su resistencia. Un valor más alto significa que el peso tiene una influencia más alta.</Spanish>
         <German>Der Belastungskoeffizient bestimmt wie viel Einfluss das Ausrüstungsgewicht auf die Ausdauer der Einheit hat. Ein höherer Wert verringert die zur Verfügung stehende Ausdauer.</German>
       </Key>
     </Container>
@@ -1224,6 +1387,7 @@
         <English>If enabled, night vision optics can no longer be used.</English>
         <Czech>Zamezí použití brýlí pro noční vidění.</Czech>
         <French>Si activé, les optiques de visée intégrant une vision nocturne ne peuvent pas être utilisées.</French>
+        <Spanish>Si está habilitado, opticas de visión nocturna no pueden ser usadas.</Spanish>
         <German>Wenn aktiviert können Nachtsichtoptiken nicht mehr verwendet werden.</German>
       </Key>
       <Key ID="STR_ENH_disableNVGEquipment_displayName">
@@ -1231,6 +1395,7 @@
         <English>Disable NVG Equipment</English>
         <Czech>Zakázat použítí brýlí pro noční vidění</Czech>
         <French>Désactiver les optiques à vision nocturne</French>
+        <Spanish>Deshabilitar equipamiento NVG</Spanish>
         <German>Verbiete Nachtsicht</German>
       </Key>
     </Container>
@@ -1240,6 +1405,7 @@
         <English>Disable Thermal Optics</English>
         <Czech>Zakázat použití termální optiky</Czech>
         <French>Désactiver les optiques à voien thermique</French>
+        <Spanish>Deshabilitar opticas térmicas</Spanish>
         <German>Verbiete Wärmebildoptik</German>
       </Key>
       <Key ID="STR_ENH_disableTIEquipment_tooltip">
@@ -1247,6 +1413,7 @@
         <English>If enabled, thermal optics can no longer be used.</English>
         <Czech>Zamezí použití termální optiky.</Czech>
         <French>Si activé, les optiques de visée intégrant une voie thermique ne peuvent pas être utilisées.</French>
+        <Spanish>Si está habilitado, opticas térmicas no pueden ser usadas.</Spanish>
         <German>Wenn aktiviert können Wärmebildoptiken nicht mehr verwendet werden.</German>
       </Key>
     </Container>
@@ -1256,6 +1423,7 @@
         <English>On Respawn</English>
         <Czech>Při oživení</Czech>
         <French>Lors de la réapparition</French>
+        <Spanish>En respawn</Spanish>
         <German>Beim Wiedereinstieg</German>
       </Key>
       <Key ID="STR_ENH_onRespawnEvent_tooltip">
@@ -1263,6 +1431,7 @@
         <English>Code which is executed on respawn.</English>
         <Czech>Kód který je spuštěn při znovuzrození jednotky (respawn).</Czech>
         <French>Code exécuté lors du Respawn de l'unité</French>
+        <Spanish>Código que se ejecuta en respawn.</Spanish>
         <German>Code welcher beim Wiedereinstieg ausgeführt wird.</German>
       </Key>
     </Container>
@@ -1272,6 +1441,7 @@
         <English>On Killed</English>
         <Czech>Při zabití</Czech>
         <French>Lorsque détruit</French>
+        <Spanish>En muerte.</Spanish>
         <German>Beim Tod</German>
       </Key>
       <Key ID="STR_ENH_onKilledEvent_tooltip">
@@ -1279,6 +1449,7 @@
         <English>Code which is executed on death.</English>
         <Czech>Kód který je spuštěn při smrti jednotky.</Czech>
         <French>Code exécuté lorsque l'unité est tuée ou détruite.</French>
+        <Spanish>Código que es ejecutado en muerte.</Spanish>
         <Italian />
         <German>Code welcher beim Tod ausgeführt wird.</German>
       </Key>
@@ -1289,6 +1460,7 @@
         <English>On Damaged</English>
         <Czech>Při poškození</Czech>
         <French>Lorsqu'endommagé</French>
+        <Spanish>En daño</Spanish>
         <German>Wenn beschädigt</German>
       </Key>
       <Key ID="STR_ENH_onDamagedEvent_tooltip">
@@ -1296,6 +1468,7 @@
         <English>Code which is executed when entity is damaged.</English>
         <Czech>Kód který je spuštěn když je jednotka poškozena.</Czech>
         <French>Code exécuté lorsque l'unité est blessée ou endommagée.</French>
+        <Spanish>Código que es ejecutado cuando la entidad está dañada.</Spanish>
         <German>Code welcher ausgeführt wird wenn die Entität beschädigt wurde.</German>
       </Key>
     </Container>
@@ -1305,6 +1478,7 @@
         <English>Fleeing Coefficient</English>
         <Czech>Zbabělost</Czech>
         <French>Coefficient de fuite</French>
+        <Spanish>Coeficiente de huida</Spanish>
         <German>Fluchtkoeffizient</German>
       </Key>
       <Key ID="STR_ENH_allowFleeing_tooltip">
@@ -1312,6 +1486,7 @@
         <English>Sets the cowardice level (the lack of courage or bravery) of the unit. The more cowardice the unit has, the sooner it will start fleeing. 0 means maximum courage, while 1 means always fleeing.</English>
         <Czech>Určuje úroveň zbabělosti (nedostatek kuráže či odvahy) jednotky. Čím více je jednotka zbabělá, tím dříve začne ustupovat. 0 znamená že jednotka nikdy neustoupí, zatímco 1 znamená, že jednotka ustoupí vždy.</Czech>
         <French>Défini le niveau de peur de l'unité face au danger. Plus il est élevé, plus vite l'unité prendra la fuite (valeur entre 0 et 1, où 0 signifie que l'unité prendra immédiatement la fuite et 1 signifie qu'elle combattra jusqu'à sa mort/destruction).</French>
+        <Spanish>Establece el nivel de cobardía (la falta de valor o valentía) de la unidad. Cuanto más cobardía tenga la unidad, más pronto comenzará a huir. 0 significa máxima valentía, mientras que 1 significa siempre huyendo.</Spanish>
         <German>Definiert den Feigheitsgrad der Einheit. Ein höherer Wert bedeutet, dass die Einheit früher versucht aus einem Kampf zu fliehen.</German>
       </Key>
     </Container>
@@ -1321,6 +1496,7 @@
         <English>Unladen Weight</English>
         <Czech>Hmotnost</Czech>
         <French>Change la masse</French>
+        <Spanish>Peso en vacío</Spanish>
         <German>Leergewicht</German>
       </Key>
       <Key ID="STR_ENH_setMass_tooltip">
@@ -1328,6 +1504,7 @@
         <English>Change the original mass value from 0% - 100%. Keep in mind that too low values can cause unwanted behaviour.</English>
         <Czech>Změní původní hodnotu hmotnosti v rozmezí 0% - 100%. Vezměte na vědomí že příliš nízké hodnoty mohou způsobit nepředvídatelné chování.</Czech>
         <French>Change la masse originale de l'objet selon un pourcentage de 0% à 100%. Attention, une valeur trop petite peut engendrer un comportement imprévisible.</French>
+        <Spanish>Cambia la masa original del objeto de 0% a 100%. Tenga en cuenta que valores demasiado bajos pueden causar un comportamiento no deseado.</Spanish>
         <German>Ändert die Masse des Fahrzeuges von 0% - 100%. Bedenke das zu geringe Werte ungewolltes Verhalten auslösen kann.</German>
       </Key>
     </Container>
@@ -1337,6 +1514,7 @@
         <English>Force Walking</English>
         <Czech>Vynutit chůzi</Czech>
         <French>Forcer à marcher</French>
+        <Spanish>Forzar caminando</Spanish>
         <German>Erzwinge Gehen</German>
       </Key>
     </Container>
@@ -1346,6 +1524,7 @@
         <English>Stay on road</English>
         <Czech>Držet se silnicí</Czech>
         <French>Rester sur la route</French>
+        <Spanish>Permanecer en la carretera</Spanish>
         <German>Auf Straße bleiben</German>
       </Key>
       <Key ID="STR_ENH_forceFollowRoad_tooltip">
@@ -1353,6 +1532,7 @@
         <English>Forces the vehicle to stay on the road.</English>
         <Czech>Přinutí vozidlo držet se silnicí.</Czech>
         <French>Oblige l'unité à se déplacer sur la route.</French>
+        <Spanish>Fuerza al vehículo a permanecer en la carretera.</Spanish>
         <German>Zwingt das Fahrzeug dazu nur Straßen zu benutzen.</German>
       </Key>
     </Container>
@@ -1360,11 +1540,13 @@
       <Key ID="STR_ENH_featureType_displayName">
         <Original>Visibility</Original>
         <English>Visibility</English>
+        <Spanish>Visibilidad</Spanish>
         <German>Sichtbarkeit</German>
       </Key>
       <Key ID="STR_ENH_featureType_tooltip">
         <Original>Defines the visibility of the object.</Original>
         <English>Defines the visibility of the object.</English>
+        <Spanish>Define la visibilidad de un objeto.</Spanish>
         <German>Beeinflusst die Sichtbarkeit des Objektes.</German>
       </Key>
     </Container>
@@ -1376,6 +1558,7 @@
         <English>Action performed!</English>
         <Czech>Akce provedena!</Czech>
         <French>Action effectuée !</French>
+        <Spanish>¡Acción efectuada!</Spanish>
         <German>Aktion ausgeführt!</German>
       </Key>
     </Container>
@@ -1385,6 +1568,7 @@
         <English>Enable</English>
         <Czech>Aktivovat</Czech>
         <French>Activer</French>
+        <Spanish>Habilitar</Spanish>
         <German>Anschalten</German>
       </Key>
     </Container>
@@ -1396,6 +1580,7 @@
         <English>Log Class to Clipboard</English>
         <Czech>Zaznamenat třídu do schránky</Czech>
         <French>Log Class vers le presse-papier</French>
+        <Spanish>Registar "Class" en el portapapeles.</Spanish>
         <German>Kopiere Klasse in Zwischenablage</German>
       </Key>
       <Key ID="STR_ENH_getModuleDescription">
@@ -1403,6 +1588,7 @@
         <English>Show Module Description</English>
         <Czech>Zobrazit popis modulu</Czech>
         <French>Afficher la description du module</French>
+        <Spanish>Mostrar descripción del módulo</Spanish>
         <German>Zeige Modulbeschreibung</German>
       </Key>
       <Key ID="STR_ENH_garrisonBuilding">
@@ -1410,6 +1596,7 @@
         <English>Garrison Buildings</English>
         <Czech>Obsadit budovy</Czech>
         <French>Placer en garnison</French>
+        <Spanish>Guarnicionar edificios</Spanish>
         <German>Gebäude besetzen</German>
       </Key>
       <Key ID="STR_ENH_setTriggerOwnerPlayer">
@@ -1417,6 +1604,7 @@
         <English>Set Player as Trigger Owner </English>
         <Czech>Nastavit hráče jako vlastníka spínače</Czech>
         <French>Définir l'unité joueur en tant que propriétaire du déclencheur</French>
+        <Spanish>Establecer jugador como propietario del trigger (activador)</Spanish>
         <German>Spieler als Auslöser-Besitzer festlegen</German>
       </Key>
       <Key ID="STR_ENH_HideTerrainObjects">
@@ -1424,18 +1612,21 @@
         <English>Hide Terrain Objects</English>
         <Czech>Skrýt objekty na mapě</Czech>
         <French>Masquer les objets présents sur la carte</French>
+        <Spanish>Ocultar objetos del terreno</Spanish>
         <German>Kartenobjekte verstecken</German>
       </Key>
       <Key ID="STR_ENH_deleteCrew">
         <Original>Delete Crew</Original>
         <English>Delete Crew</English>
         <French>Supprimer l'équipage</French>
+        <Spanish>Borrar tripulación</Spanish>
         <German>Besatzung entfernen</German>
       </Key>
       <Key ID="STR_ENH_getSize">
         <Original>Get Object's Size</Original>
         <English>Get Object's Size</English>
         <French>Obtenir les dimensions de l'objet</French>
+        <Spanish>Tomar el tamaño del objeto</Spanish>
         <German>Objektgröße messen</German>
       </Key>
     </Container>
@@ -1445,6 +1636,7 @@
         <English>Functions Overview...</English>
         <Czech>Přehled funkce</Czech>
         <French>Aperçu des fonctions...</French>
+        <Spanish>Resumen de las funciones...</Spanish>
         <German>Funktionsübersicht...</German>
       </Key>
       <Key ID="STR_ENH_HelpAssets">
@@ -1452,6 +1644,7 @@
         <English>Assets Overview...</English>
         <Czech>Přehled objektů</Czech>
         <French>Aperçu des assets...</French>
+        <Spanish>Resumen de assets...</Spanish>
         <German>Objektübersicht...</German>
       </Key>
       <Key ID="STR_ENH_HelpKKBlog">
@@ -1459,6 +1652,7 @@
         <English>KK's Blog...</English>
         <Czech>KK's Blog...</Czech>
         <French>Blog de KillzoneKid...</French>
+        <Spanish>Blog de KillzoneKid...</Spanish>
         <German>KK's Blog</German>
       </Key>
       <Key ID="STR_ENH_HelpKylania">
@@ -1466,6 +1660,7 @@
         <English>Script Examples by Kylania...</English>
         <Czech>Script Examples by Kylania</Czech>
         <French>Exemples de scripts par Kylania...</French>
+        <Spanish>Ejemplos de scripts por Kylania...</Spanish>
         <German>Skriptbespiele von Kylania...</German>
       </Key>
       <Key ID="STR_ENH_HelpJester814">
@@ -1473,6 +1668,7 @@
         <English>Jester814's Video Tutorials...</English>
         <Czech>Jester814's Video Tutorials...</Czech>
         <French>Tutoriels Vidéos par Jester814...</French>
+        <Spanish>Vídeo tutoriales de Jester814 ...</Spanish>
         <German>Jester814's Video Tutorials...</German>
       </Key>
       <Key ID="STR_ENH_HelpArmaidiot">
@@ -1480,6 +1676,7 @@
         <English>Armaidiot's Video Tutorials...</English>
         <Czech>Armaidiot's Video Tutorials...</Czech>
         <French>Tutoriels Vidéos de Armaidiot</French>
+        <Spanish>Vídeo tutoriales de Armaidiot...</Spanish>
         <German>Armaidiot's Video Tutorials...</German>
       </Key>
       <Key ID="STR_ENH_HelpFockersScriptingTutorial">
@@ -1487,6 +1684,7 @@
         <English>Focker's Scripting Tutorial...</English>
         <Czech>Focker's Scripting Tutorial</Czech>
         <French>Tutoriel de Scripting par Focker</French>
+        <Spanish>Tutorial scripting de Focker...</Spanish>
         <German>Focker's Programmiertutorial...</German>
       </Key>
       <Key ID="STR_ENH_HelpMissionCampaignGuide">
@@ -1494,6 +1692,7 @@
         <English>Guide: Mission &amp; Campaign making...</English>
         <Czech>Návod: vytváření misí &amp; kampaní...</Czech>
         <French>Guide : créer une Mission/Campagne...</French>
+        <Spanish>Guía: Misión y Campaña ...</Spanish>
         <German>Leitfaden: Missions- und Kampagnenerstellung...</German>
       </Key>
       <Key ID="STR_ENH_HelpFeuerex">
@@ -1501,6 +1700,7 @@
         <English>Feuerex's  Video Tutorials...</English>
         <Czech>Feuerex's Video Tutorials...</Czech>
         <French>Tutoriels Vidéos de Feuerex</French>
+        <Spanish>Vídeo tutoriales de Feuerex</Spanish>
         <German>Feuerex's  Video Tutorials...</German>
       </Key>
       <Key ID="STR_ENH_HelpMissionPresentation">
@@ -1508,6 +1708,7 @@
         <English>Mission Presentation...</English>
         <Czech>Prezentace mise...</Czech>
         <French>Mise en page de la Présentation d'une Mission</French>
+        <Spanish>Presentación de misión...</Spanish>
         <German>Missionsdarstellung...</German>
       </Key>
       <Key ID="STR_ENH_Help3denEnhanced">
@@ -1515,6 +1716,7 @@
         <English>3den Enhanced Forum...</English>
         <Czech>Fórum 3den Enhanced</Czech>
         <French>Forum 3den Enhanced...</French>
+        <Spanish>Foro 3den Enhanced...</Spanish>
         <German>3den Enhanced Forum...</German>
       </Key>
       <Key ID="STR_ENH_HelpScriptingFoxhoundInternational">
@@ -1522,6 +1724,7 @@
         <English>Scripting Examples by Foxhound International...</English>
         <Czech>Scripting Examples by Foxhound International...</Czech>
         <French>Exemples de rédaction de scripts par Foxhound International...</French>
+        <Spanish>Ejemplos de scripts de foxhound Internacional ...</Spanish>
         <German>Skriptbeispiele von Foxhound International...</German>
       </Key>
       <Key ID="STR_ENH_HelpScriptingBeginners">
@@ -1529,12 +1732,14 @@
         <English>Scripting for Beginners...</English>
         <Czech>Skriptování pro začátečníky</Czech>
         <French>Débuter avec les Scripts...</French>
+        <Spanish>Scripting para novatos...</Spanish>
         <German>Skripten für Anfänger...</German>
       </Key>
       <Key ID="STR_ENH_HelpAICompilation">
         <Original>AI Compilation List by Gunter Severloh...</Original>
         <English>AI Compilation List by Gunter Severloh...</English>
         <French>Compilation de scripts pour l'IA par Gunter Severloh</French>
+        <Spanish>Compilación de scripts por Gunter Severloh...</Spanish>
         <German>KI Zusammenstellung von Gunter Severloh...</German>
       </Key>
     </Container>
@@ -1544,6 +1749,7 @@
         <English>Session Time</English>
         <Czech>Doba práce</Czech>
         <French>Durée de la session</French>
+        <Spanish>Hora de la sesión</Spanish>
         <German>Sitzungsdauer</German>
       </Key>
       <Key ID="STR_ENH_display3DEN_nextSong_tooltip">
@@ -1551,6 +1757,7 @@
         <English>New Track</English>
         <Czech>Nová skladba</Czech>
         <French>Nouvelle piste</French>
+        <Spanish>Nueva pista</Spanish>
         <German>Neues Lied</German>
       </Key>
     </Container>
@@ -1560,6 +1767,7 @@
         <English>Import Camera Params</English>
         <Czech>Importovat parametry kamery</Czech>
         <French>Importer des paramètres de caméra</French>
+        <Spanish>Importar parámetros de la cámara</Spanish>
         <German>Kameraparameter importieren</German>
       </Key>
       <Key ID="STR_ENH_tools_exportCameraParams_displayName">
@@ -1567,6 +1775,7 @@
         <English>Export Camera Params</English>
         <Czech>Exportovat parametry kamery</Czech>
         <French>Exporter les paramètres de caméra</French>
+        <Spanish>Exportar parámetros de la cámara</Spanish>
         <German>Kameraparameter exportieren</German>
       </Key>
       <Key ID="STR_ENH_tools_fillArea_displayName">
@@ -1574,6 +1783,7 @@
         <English>Fill Area</English>
         <Czech>Vyplnit oblast</Czech>
         <French>Remplir la zone</French>
+        <Spanish>Rellenar área</Spanish>
         <German>Bereich füllen</German>
       </Key>
       <Key ID="STR_ENH_tools_copyLoadouts_displayName">
@@ -1581,6 +1791,7 @@
         <English>Copy Loadout(s)</English>
         <Czech>Kopírovat výstroj</Czech>
         <French>Copier l'équipement</French>
+        <Spanish>Copiar equipamiento(s)</Spanish>
         <German>Kopiere Ausrüstung</German>
       </Key>
       <Key ID="STR_ENH_tools_applyLoadouts_displayName">
@@ -1588,6 +1799,7 @@
         <English>Apply Loadout/s</English>
         <Czech>Použít výstroj</Czech>
         <French>Appliquer l'équipement</French>
+        <Spanish>Aplicar equipamiento(s)</Spanish>
         <German>Ausrüstung zuweisen</German>
       </Key>
       <Key ID="STR_ENH_tools_exportLoadoutConfig_displayName">
@@ -1595,6 +1807,7 @@
         <English>Export Loadout (Config)</English>
         <Czech>Exportovat výstroj (konfigurace)</Czech>
         <French>Exporter l'équipement (config)</French>
+        <Spanish>Exportar equipamiento (configuración)</Spanish>
         <German>Ausrüstung exportieren (Config)</German>
       </Key>
       <Key ID="STR_ENH_tools_circularPattern_displayName">
@@ -1602,6 +1815,7 @@
         <English>Circular Pattern</English>
         <Czech>Kruhový vzor</Czech>
         <French>En cercle</French>
+        <Spanish>Circuito circular</Spanish>
         <German>Kreismuster</German>
       </Key>
       <Key ID="STR_ENH_tools_reverseDirection_displayName">
@@ -1609,12 +1823,14 @@
         <English>Reverse Direction</English>
         <Czech>Obrácený směr</Czech>
         <French>Inverser l'orientation</French>
+        <Spanish>Dirección inversa</Spanish>
         <German>Ausrichtung umkehren</German>
       </Key>
       <Key ID="STR_ENH_tools_measureDistance_displayName">
         <Original>Měření vzdálenosti</Original>
         <English>Measure Distance</English>
         <French>Mesurer la distance</French>
+        <Spanish>Medición de distancia</Spanish>
         <German>Distanz messen</German>
       </Key>
       <Key ID="STR_ENH_tools_showMissionStats_displayName">
@@ -1622,6 +1838,7 @@
         <English>Show Mission Statistic</English>
         <Czech>Zobrazit statistiku mise</Czech>
         <French>Afficher les statistiques de la mission</French>
+        <Spanish>Mostrar estadísticas de la misión</Spanish>
         <German>Zeige Missionstatistik</German>
       </Key>
       <Key ID="STR_ENH_tools_setZ0_displayName">
@@ -1629,6 +1846,7 @@
         <English>Set Z=0</English>
         <Czech>Nastavit Z=0</Czech>
         <French>Définir Axe Z=0</French>
+        <Spanish>Fijar Z=0</Spanish>
         <German>Setze Z = 0</German>
       </Key>
       <Key ID="STR_ENH_tools_logFaction_displayName">
@@ -1636,6 +1854,7 @@
         <English>Log Faction Names</English>
         <Czech>Zaznamenat názvy frakcí</Czech>
         <French>Log du nom des factions</French>
+        <Spanish>Registrar nombres de facción</Spanish>
         <German>Fraktionsnamen kopieren</German>
       </Key>
       <Key ID="STR_ENH_tools_recompileFunctions_displayName">
@@ -1643,6 +1862,7 @@
         <English>Recompile Functions</English>
         <Czech>Překompilovat funkce</Czech>
         <French>Recompiler la fonction</French>
+        <Spanish>Recompilar funciones</Spanish>
         <German>Funktionen neu kompilieren</German>
       </Key>
       <Key ID="STR_ENH_tools_productInfo_displayName">
@@ -1650,6 +1870,7 @@
         <English>Log Game Info</English>
         <Czech>Zaznamenat informace hry</Czech>
         <French>Enregistrer info du jeu</French>
+        <Spanish>Registrar información de juego</Spanish>
         <German>Kopiere Spieleinformationen</German>
       </Key>
       <Key ID="STR_ENH_tools_briefingEditor_displayName">
@@ -1657,6 +1878,7 @@
         <English>Briefing Editor</English>
         <Czech>Editor brífinku</Czech>
         <French>Editeur de briefing</French>
+        <Spanish>Editor de briefing</Spanish>
         <German>Einsatzbesprechungseditor</German>
       </Key>
       <Key ID="STR_ENH_tools_randomDir_displayName">
@@ -1664,6 +1886,7 @@
         <English>Randomise Direction</English>
         <Czech>Náhodný směr</Czech>
         <French>Orientation aléatoire</French>
+        <Spanish>Randomise dirección</Spanish>
         <German>Randomisiere Richtung</German>
       </Key>
       <Key ID="STR_ENH_tools_showMapIDs_displayName">
@@ -1671,6 +1894,7 @@
         <English>Show Map IDs</English>
         <Czech>Zobrazit ID na mapě</Czech>
         <French>Afficher les IDs sur la carte</French>
+        <Spanish>Mostrar IDs en el mapa</Spanish>
         <German>Zeige Karten IDs</German>
       </Key>
       <Key ID="STR_ENH_tools_switchTime_displayName">
@@ -1678,6 +1902,7 @@
         <English>Switch Time</English>
         <Czech>Změnit čas</Czech>
         <French>Horaire prédéfini suivant</French>
+        <Spanish>Cambio de hora</Spanish>
         <German>Zeitsprung</German>
       </Key>
       <Key ID="STR_ENH_tools_orientateNorth_displayName">
@@ -1685,6 +1910,7 @@
         <English>Orientate North</English>
         <Czech>Orientovat severně</Czech>
         <French>Orienter vers le Nord</French>
+        <Spanish>Orientar al norte</Spanish>
         <German>Nach Norden ausrichten</German>
       </Key>
       <Key ID="STR_ENH_tools_orientateSouth_displayName">
@@ -1692,6 +1918,7 @@
         <English>Orientate South</English>
         <Czech>Orientovat jižně</Czech>
         <French>Orienter vers le Sud</French>
+        <Spanish>Orientar al sur</Spanish>
         <German>Nach Süden ausrichten</German>
       </Key>
       <Key ID="STR_ENH_tools_orientateEast_displayName">
@@ -1699,6 +1926,7 @@
         <English>Orientate East</English>
         <Czech>Orientovat východně</Czech>
         <French>Orienter vers l'Est</French>
+        <Spanish>Orientar al este</Spanish>
         <German>Nach Osten ausrichten</German>
       </Key>
       <Key ID="STR_ENH_tools_orientateWest_displayName">
@@ -1706,6 +1934,7 @@
         <English>Orientate West</English>
         <Czech>Orientovat západně</Czech>
         <French>Orienter vers l'Ouest</French>
+        <Spanish>Orientar al oeste</Spanish>
         <German>Nach Westen ausrichten</German>
       </Key>
       <Key ID="STR_ENH_tools_FPSGauge_displayName">
@@ -1713,6 +1942,7 @@
         <English>Toggle FPS Gauge</English>
         <Czech>Zobrazit měření FPS</Czech>
         <French>Activer le compteur de FPS</French>
+        <Spanish>Activar indicador FPS</Spanish>
         <German>FPS Anzeige an/ausschalten</German>
       </Key>
       <Key ID="STR_ENH_tools_linePattern_displayName">
@@ -1720,6 +1950,7 @@
         <English>Linepattern</English>
         <Czech>Zobrazit linie</Czech>
         <French>Aligner</French>
+        <Spanish>Alineación</Spanish>
         <German>Linienmuster</German>
       </Key>
       <Key ID="STR_ENH_tools_toggleGrass_displayName">
@@ -1727,54 +1958,63 @@
         <English>Toggle Grass</English>
         <Czech>Zobrazit trávu</Czech>
         <French>Afficher l'herbe</French>
+        <Spanish>Activar hierba</Spanish>
         <German>Gras an/aus</German>
       </Key>
       <Key ID="STR_ENH_tools_exportGUIBaseClasses">
         <Original>Export GUI Base Classes</Original>
         <English>Export GUI Base Classes</English>
         <French>Exporter les classes GUI</French>
+        <Spanish>Exportar clases (classes) del GUI base</Spanish>
         <German>GUI Klassen exportieren</German>
       </Key>
       <Key ID="STR_ENH_tools_GUITestGrids">
         <Original>Open GUI Test Grids</Original>
         <English>Open GUI Test Grids</English>
         <French>Afficher les grilles de test GUI</French>
+        <Spanish>Abrir rejillas de pruebas del GUI</Spanish>
         <German>GUI Testraster öffnen</German>
       </Key>
       <Key ID="STR_ENH_tools_debugTriggers">
         <Original>Create Debug Triggers</Original>
         <English>Create Debug Triggers</English>
         <French>Créer un déclencheur de débug</French>
+        <Spanish>Crear depuración de activadores (triggers)</Spanish>
         <German>Debug Auslöser erstellen</German>
       </Key>
       <Key ID="STR_ENH_tools_moonPhases">
         <Original>Moon Phases</Original>
         <English>Moon Phases</English>
         <French />
+        <Spanish>Fases lunares</Spanish>
         <German>Mondphasen</German>
       </Key>
       <Key ID="STR_ENH_tools_jukebox">
         <Original>Jukebox</Original>
         <English>Jukebox</English>
         <French />
+        <Spanish>Toca discos</Spanish>
         <German>Jukebox</German>
       </Key>
       <Key ID="STR_ENH_tools_printConfig">
         <Original>Print Config</Original>
         <English>Print Config</English>
         <French />
+        <Spanish>Imprimir configuración</Spanish>
         <German>Config auslesen</German>
       </Key>
       <Key ID="STR_ENH_tools_CfgDisabledCommands">
         <Original>CfgDisabled Commands Template Generator</Original>
         <English>CfgDisabled Commands Template Generator</English>
         <French />
+        <Spanish>Generador de plantillas de comandos de CfgDisabled</Spanish>
         <German>CfgDisabled Commands Template Generator</German>
       </Key>
       <Key ID="STR_ENH_tools_batchNaming">
         <Original>Batch Naming</Original>
         <English>Batch Naming</English>
         <French />
+        <Spanish>Cambio de nombre en lote</Spanish>
         <German>Batch Naming</German>
       </Key>
     </Container>
@@ -1784,6 +2024,7 @@
         <English>3den Enhanced Tools...</English>
         <Czech>Nástroje 3den Enhanced...</Czech>
         <French>Outils 3den Enhanced...</French>
+        <Spanish>3den Enhanced Tools...</Spanish>
         <German>3den Enhanced Werkzeuge...</German>
       </Key>
       <Key ID="STR_ENH_toolFolder_utilities_displayName">
@@ -1791,6 +2032,7 @@
         <English>Arma 3 Utilities</English>
         <Czech />
         <French />
+        <Spanish>Utilidades Arma 3</Spanish>
         <German>Arma 3 Hilfsmittel</German>
       </Key>
       <Key ID="STR_ENH_toolFolder_placement_displayName">
@@ -1798,6 +2040,7 @@
         <English>Placement Tools...</English>
         <Czech>Nástroje umisťování...</Czech>
         <French>Outils de positionnement...</French>
+        <Spanish>Herramienta de posicionamiento...</Spanish>
         <German>Platzierungswerkzeuge...</German>
       </Key>
       <Key ID="STR_ENH_toolFolder_debug_displayName">
@@ -1805,6 +2048,7 @@
         <English>Debug Tools...</English>
         <Czech>Nástroje pro debug</Czech>
         <French>Outil de débugage...</French>
+        <Spanish>Herramientas de depuración...</Spanish>
         <German>Debug Werkzeuge...</German>
       </Key>
       <Key ID="STR_ENH_toolFolder_loadout_displayName">
@@ -1812,6 +2056,7 @@
         <English>Loadout Tools...</English>
         <Czech>Nástroje pro výstroj...</Czech>
         <French>Outil d'équipement...</French>
+        <Spanish>Herramientas de equipamiento...</Spanish>
         <German>Ausrüstungs Werkzeuge...</German>
       </Key>
     </Container>
@@ -1821,6 +2066,7 @@
         <English>Arma 3 Wiki</English>
         <Czech>Arma 3 Wiki</Czech>
         <French>Liens Wiki Arma 3...</French>
+        <Spanish>Wiki de Arma 3</Spanish>
         <German>Arma 3 Wiki</German>
       </Key>
       <Key ID="STR_ENH_HelpFolder_Community">
@@ -1828,6 +2074,7 @@
         <English>Community Help</English>
         <Czech>Komunitní podporay</Czech>
         <French>Aide de la Communauté...</French>
+        <Spanish>Ayuda de la comunidad</Spanish>
         <German>Community Hilfe</German>
       </Key>
       <Key ID="STR_ENH_HelpFolder_Youtube">
@@ -1835,6 +2082,7 @@
         <English>Youtube Tutorials...</English>
         <Czech>Návody na Youtube...</Czech>
         <French>Tutoriels Youtube...</French>
+        <Spanish>Tutoriales de youtube...</Spanish>
         <German>Youtube Tutorials...</German>
       </Key>
     </Container>
@@ -1846,6 +2094,7 @@
         <English>Grass disabled</English>
         <Czech>Tráva vypnuta</Czech>
         <French>Herbe désactivée</French>
+        <Spanish>Hierba deshabilitada</Spanish>
         <German>Gras deaktiviert</German>
       </Key>
       <Key ID="STR_ENH_terrainGrid_standard_displayName">
@@ -1853,6 +2102,7 @@
         <English>Standard</English>
         <Czech>Standardní</Czech>
         <French>Standard</French>
+        <Spanish>Estándar</Spanish>
         <German>Standard</German>
       </Key>
       <Key ID="STR_ENH_terrainGrid_high_displayName">
@@ -1860,6 +2110,7 @@
         <English>High</English>
         <Czech>Vysoké</Czech>
         <French>Elevé</French>
+        <Spanish>Altura</Spanish>
         <German>Hoch</German>
       </Key>
       <Key ID="STR_ENH_terrainGrid_ultra_displayName">
@@ -1867,6 +2118,7 @@
         <English>Ultra</English>
         <Czech>Ultra</Czech>
         <French>Ultra</French>
+        <Spanish>Ultra</Spanish>
         <German>Ultra</German>
       </Key>
       <Key ID="STR_ENH_terrainGrid_veryHigh_displayName">
@@ -1874,6 +2126,7 @@
         <English>Very  High</English>
         <Czech>Velmi vysoké</Czech>
         <French>Très élevé</French>
+        <Spanish>Muy alto</Spanish>
         <German>Sehr Hoch</German>
       </Key>
     </Container>
@@ -1881,21 +2134,25 @@
       <Key ID="STR_ENH_featureType_objectViewDistance_text">
         <Original>Limit by Object View Distance</Original>
         <English>Limit by Object View Distance</English>
+        <Spanish>Limitado por distancia de visión de objetos</Spanish>
         <German>Limitiert durch Objektsichtweite.</German>
       </Key>
       <Key ID="STR_ENH_featureType_objectViewDistance_tooltip">
         <Original>Object is always visible within object view distance.</Original>
         <English>Object is always visible within object view distance.</English>
+        <Spanish>El objeto está siempre visible dentro de la distancia de visión de objetos.</Spanish>
         <German>Das Objekt ist immer sichtbar innerhalb der Objektsichweite.</German>
       </Key>
       <Key ID="STR_ENH_featureType_terrainViewDistance_text">
         <Original>Limit by Terrain View Distance</Original>
         <English>Limit by Terrain View Distance</English>
+        <Spanish>Limitado por la distancia de visión del terreno</Spanish>
         <German>Limitiert durch Geländesichtbarkeit</German>
       </Key>
       <Key ID="STR_ENH_featureType_terrainViewDistance_tooltip">
         <Original>Object is always visible within terrain view distance.</Original>
         <English>Object is always visible within terrain view distance.</English>
+        <Spanish>El objeto es siempre visible dentro de la distancia de la vista del terreno.</Spanish>
         <German>Das Objekt ist immer innerhalb der Geländesichtweite sichtbar.</German>
       </Key>
     </Container>
@@ -1907,6 +2164,7 @@
         <English>Advanced Damage</English>
         <Czech>Pokročilé poškození</Czech>
         <French>Dégâts avancés</French>
+        <Spanish>Daño avanzado</Spanish>
         <German>Erweiterte Schadenseinstellungen</German>
       </Key>
     </Container>
@@ -1916,6 +2174,7 @@
         <English>Music, Sound &amp; Radio Settings</English>
         <Czech>Hudba, zvuk &amp; nastavení rádia</Czech>
         <French>Sons, musiques et radio</French>
+        <Spanish>Configuración de música, sonido y radio</Spanish>
         <German>Musik, Geräusch &amp; Radioeinstellungen</German>
       </Key>
     </Container>
@@ -1925,6 +2184,7 @@
         <English>Visual Settings</English>
         <Czech>Nastavení grafiky</Czech>
         <French>Paramètres graphiques</French>
+        <Spanish>Configuración visual</Spanish>
         <German>Grafikeinstellungen</German>
       </Key>
     </Container>
@@ -1934,6 +2194,7 @@
         <English>Intro Text</English>
         <Czech>Úvodní text</Czech>
         <French>Texte d'introduction</French>
+        <Spanish>Texto de la introducción</Spanish>
         <German>Intro Text</German>
       </Key>
     </Container>
@@ -1943,6 +2204,7 @@
         <English>Advanced Skill Settings</English>
         <Czech>Pokročilé nastavení dovedností</Czech>
         <French>Compétences avancées</French>
+        <Spanish>Configuración de habilidad avanzada</Spanish>
         <German>Erweiterte Fähigkeiteneinstellungen</German>
       </Key>
     </Container>
@@ -1952,6 +2214,7 @@
         <English>Disable AI Features</English>
         <Czech>Deaktivovat možnosti umělé inteligence</Czech>
         <French>Désactiver des fonctionnalités de l'IA</French>
+        <Spanish>Deshabilitar características de la IA</Spanish>
         <German>Deaktiviere KI Funktionen</German>
       </Key>
     </Container>
@@ -1961,6 +2224,7 @@
         <English>Unit Traits</English>
         <Czech>Vlastnosti jednotky</Czech>
         <French>Caractéristiques de l'unité</French>
+        <Spanish>Características de la unidad</Spanish>
         <German>Eigenschaften</German>
       </Key>
     </Container>
@@ -1970,6 +2234,7 @@
         <English>Event Scripting</English>
         <Czech>Event Scripting</Czech>
         <French>Scripting d'event</French>
+        <Spanish>"Scripting" de eventos</Spanish>
         <German>Ereignis Skripting</German>
       </Key>
     </Container>
@@ -1979,6 +2244,7 @@
         <English>Ambient Flyby</English>
         <Czech>Přelet</Czech>
         <French>Survol d'ambiance</French>
+        <Spanish>Ambiente de sobre vuelo</Spanish>
         <German>Vorbeiflug</German>
       </Key>
     </Container>
@@ -1988,6 +2254,7 @@
         <English>Establishing Shot</English>
         <Czech>UAV Intro</Czech>
         <French>Establishing Shot</French>
+        <Spanish>Introducción con UAV</Spanish>
         <German>UAV Intro</German>
       </Key>
     </Container>
@@ -1999,6 +2266,7 @@
         <English>3den Enhanced Briefing Editor</English>
         <Czech>Editor brífinku 3den Enhanced</Czech>
         <French>Editeur de Briefing 3den Enhanced</French>
+        <Spanish>Editor de briefing 3den Enhanced</Spanish>
         <German>3den Enhanced Einsatzbesprechungs-Editor</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_colouredText_displayName">
@@ -2006,6 +2274,7 @@
         <English>Coloured Text</English>
         <Czech>Barevný text</Czech>
         <French>Texte coloré</French>
+        <Spanish>Coloreado del texto</Spanish>
         <German>Farbiger Text</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_variableName_displayName">
@@ -2013,6 +2282,7 @@
         <English>Variable Name</English>
         <Czech>Název proměnné</Czech>
         <French>Nom de la variable</French>
+        <Spanish>Nombre de variable</Spanish>
         <German>Variablenname</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_markerText_displayName">
@@ -2020,6 +2290,7 @@
         <English>Marker Text</English>
         <Czech>Text značky</Czech>
         <French>Texte de marqueur</French>
+        <Spanish>Texto de Marcador</Spanish>
         <German>Marker Text</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_templates_displayName">
@@ -2027,6 +2298,7 @@
         <English>Templates</English>
         <Czech>Šablony</Czech>
         <French>Modèles</French>
+        <Spanish>Plantillas</Spanish>
         <German>Vorlagen</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_path_displayName">
@@ -2034,6 +2306,7 @@
         <English>Path</English>
         <Czech>Cesta</Czech>
         <French>Chemin</French>
+        <Spanish>Camino</Spanish>
         <German>Pfad</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_briefingTitle_displayName">
@@ -2041,6 +2314,7 @@
         <English>Title</English>
         <Czech>Název</Czech>
         <French>Titre</French>
+        <Spanish>Título</Spanish>
         <German>Titel</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_briefingText_displayName">
@@ -2048,6 +2322,7 @@
         <English>Text</English>
         <Czech>Text</Czech>
         <French>Texte</French>
+        <Spanish>Texto</Spanish>
         <German>Text</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_subject_displayName">
@@ -2055,6 +2330,7 @@
         <English>Subject</English>
         <Czech>Předmět</Czech>
         <French>Sujet</French>
+        <Spanish>Tema</Spanish>
         <German>Kategorie</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_export_displayName">
@@ -2062,6 +2338,7 @@
         <English>Export</English>
         <Czech>Export</Czech>
         <French>Exporter</French>
+        <Spanish>Exportar</Spanish>
         <German>Exportieren</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_addMarker_displayName">
@@ -2069,6 +2346,7 @@
         <English>Add Marker</English>
         <Czech>Přidat značku</Czech>
         <French>Ajouter un marqueur</French>
+        <Spanish>Añadir marcador</Spanish>
         <German>Marker hinzuf.</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_addPicture_displayName">
@@ -2076,6 +2354,7 @@
         <English>Add Picture</English>
         <Czech>Přidat obrázek</Czech>
         <French>Ajouter une image</French>
+        <Spanish>Añadir imagen</Spanish>
         <German>Bild hinzuf.</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_addLinebreak_displayName">
@@ -2083,6 +2362,7 @@
         <English>Linebreak</English>
         <Czech>Zalomení řádku</Czech>
         <French>Retour à la ligne</French>
+        <Spanish>Salto de línea</Spanish>
         <German>Zeilenumbruch</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_close_displayName">
@@ -2090,6 +2370,7 @@
         <English>Close</English>
         <Czech>Zavřít</Czech>
         <French>Fermer</French>
+        <Spanish>Cerrar</Spanish>
         <German>Schließen</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_createTemplate_displayName">
@@ -2097,6 +2378,7 @@
         <English>Create Template</English>
         <Czech>Vytvořit šablonu</Czech>
         <French>Créer un modèle</French>
+        <Spanish>Crear plantilla</Spanish>
         <German>Vorlage erstellen</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_addText_displayName">
@@ -2104,6 +2386,7 @@
         <English>Add Text</English>
         <Czech>Přidat text</Czech>
         <French>Ajouter un texte</French>
+        <Spanish>Añadir texto</Spanish>
         <German>Text hinzuf.</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_colour">
@@ -2111,6 +2394,7 @@
         <English>Colour</English>
         <Czech>Barva</Czech>
         <French>Couleur</French>
+        <Spanish>Color</Spanish>
         <German>Farbe</German>
       </Key>
     </Container>
@@ -2121,12 +2405,14 @@
         <Original>Task Patrol</Original>
         <English>Task Patrol</English>
         <French>patrouille</French>
+        <Spanish>Tarea de patrulla</Spanish>
         <German>Patrouillieren</German>
       </Key>
       <Key ID="STR_ENH_taskPatrol_tooltip">
         <Original>Makes the group of the selected unit patrol an area. The value defines the max. distance between two patrol waypoints.\n\n-1 deactivates the patrol.</Original>
         <English>Makes the group of the selected unit patrol an area. The value defines the max. distance between two patrol waypoints.\n\n-1 deactivates the patrol.</English>
         <French>Fais patrouiller le groupe sélectionné. La valeur définit la distance max entre deux étapes de l'itinéraire.\n\n-1 désactives the patrol.</French>
+        <Spanish>Hace que el grupo de la unidad seleccionada patrulle un área. El valor define la máx. distancia entre dos waypoints de patrulla. \n\n-1 desactiva la patrulla.</Spanish>
         <German>Weist der Gruppe der ausgewählten Einheit ein Gebiet zum Patrouillieren zu. Der Wert definiert den maximalen Abstand zwischen den Wegpunkten.\n\n-1 deativiert die Patrouillieren.</German>
       </Key>
     </Container>
