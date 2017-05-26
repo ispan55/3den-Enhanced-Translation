@@ -474,26 +474,30 @@
   </Package>
   <Package name="Object Attributes">
     <Container name="Weapon Sway">
-+      <Key ID="STR_ENH_weaponSway_displayName">
-+        <Original>Weapon Sway</Original>
-+        <English>Weapon Sway</English>
-+      </Key>
-+      <Key ID="STR_ENH_weaponSway_tooltip">
-+        <Original>Sets player's weapon sway. State is preserved even after respawn.</Original>
-+        <English>Sets player's weapon sway. State is preserved even after respawn.</English>
-+      </Key>
-+    </Container>
-+    <Container name="Weapon Recoil">
-+      <Key ID="STR_ENH_weaponRecoil_displayName">
-+        <Original>Weapon Recoil</Original>
-+        <English>Weapon Recoil</English>
-+        <German>Waffenrückstoß</German>
-+      </Key>
-+      <Key ID="STR_ENH_weaponRecoil_tooltip">
-+        <Original>Sets player's weapon recoil. State is preserved even after respawn.</Original>
-+        <English>Sets player's weapon recoil. State is preserved even after respawn.</English>
-+      </Key>
-+    </Container>
+      <Key ID="STR_ENH_weaponSway_displayName">
+        <Original>Weapon Sway</Original>
+        <English>Weapon Sway</English>
+        <Spanish>balanceo del arma</Spanish>
+      </Key>
+      <Key ID="STR_ENH_weaponSway_tooltip">
+        <Original>Sets player's weapon sway. State is preserved even after respawn.</Original>
+        <English>Sets player's weapon sway. State is preserved even after respawn.</English>
+        <Spanish>Establece el balanceo del arma del jugador. Este estado se conserva incluso después de respawn.</Spanish>
+      </Key>
+    </Container>
+    <Container name="Weapon Recoil">
+      <Key ID="STR_ENH_weaponRecoil_displayName">
+        <Original>Weapon Recoil</Original>
+        <English>Weapon Recoil</English>
+        <Spanish>Retroceso del arma</Spanish>
+        <German>Waffenrückstoß</German>
+      </Key>
+      <Key ID="STR_ENH_weaponRecoil_tooltip">
+        <Original>Sets player's weapon recoil. State is preserved even after respawn.</Original>
+        <English>Sets player's weapon recoil. State is preserved even after respawn.</English>
+        <Spanish>Define el retroceso del arma del jugador. Este estado se conserva incluso después de respawn.</Spanish>
+      </Key>
+    </Container>
     <Container name="Advanced Damage Vehicle">
       <Key ID="STR_ENH_advancedDamageVeh_engine">
         <Original>Engine (all)</Original>
@@ -2439,312 +2443,351 @@
     </Container>
   </Package>
   <Package name="Animations">
-+    <Container name="Animation Equipment Level">
-+      <Key ID="STR_ENH_ambAnimEquipCombo_random">
-+        <Original>Random (Gear is randomized according to the animation set)</Original>
-+        <English>Random (Gear is randomized according to the animation set)</English>
-+        <French>Aléatoire (l'équipement est aléatoire en fonction de l'animation selectionnée)</French>
-+        <Spanish />
-+        <Italian>Random (L'equipaggiamento randomizzato in base all'animazione impostata)</Italian>
-+        <German>Zufällig (Ausrüstung wird der Animation angepasst)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimEquipCombo_light">
-+        <Original>Light (No goggles, headgear, vest)</Original>
-+        <English>Light (No goggles, headgear, vest)</English>
-+        <French>Léger (pas de lunette, casque ou veste)</French>
-+        <Spanish />
-+        <Italian>Light (Niente occhiali,né elmetto e veste)</Italian>
-+        <German>Leicht (Keine Nachtsicht, Kopfbedeckung, Weste)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimEquipCombo_medium">
-+        <Original>Medium (No goggles, headgear)</Original>
-+        <English>Medium (No goggles, headgear)</English>
-+        <French>Intermédiaire (pas de lunette ou de casque)</French>
-+        <Spanish />
-+        <Italian>Medium (Niente occhiali né elmetto)</Italian>
-+        <German>Mittel (Keine Nachtsicht, Kopfbedeckung)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimEquipCombo_full">
-+        <Original>Full (No goggles)</Original>
-+        <English>Full (No goggles)</English>
-+        <French>Tout (pas de lunette)</French>
-+        <Spanish />
-+        <Italian>Full (Niente occhiali)</Italian>
-+        <German>Volle Ausrüstung (Keine Nachtsicht)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimEquipCombo_none">
-+        <Original>None (No goggles, headgear, vest, weapon)</Original>
-+        <English>None (No goggles, headgear, vest, weapon)</English>
-+        <French>Rien (pas de lunette, casque, veste ou arme)</French>
-+        <Spanish />
-+        <Italian>Nulla (Niente occhiali, elmetto, veste e arma)</Italian>
-+        <German>Nichts (Keine Nachtsicht, Kopfbedeckung, Weste, Waffe)</German>
-+      </Key>
-+    </Container>
-+    <Container name="Animation Names">
-+      <Key ID="STR_ENH_ambAnimCombo_stand">
-+        <Original>Stand (Slightly turning to the sides, needs rifle!)</Original>
-+        <English>Stand (Slightly turning to the sides, needs rifle!)</English>
-+        <French>Attend (pivote légèrement sur les côtés, nécessite une arme)</French>
-+        <Italian>Eretto (Si gira leggermente, necessita un fucile!)</Italian>
-+        <German>Stehen (Leicht zur Seite drehend, braucht ein Gewehr!)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_standIA">
-+        <Original>Stand (Default A3 animation)</Original>
-+        <English>Stand (Default A3 animation)</English>
-+        <French>Attend (animation debout par défaut)</French>
-+        <Italian>Eretto (Animazione di default)</Italian>
-+        <German>Stehen (Standard A3 Animation)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_sitLow">
-+        <Original>Sit (Sitting on the ground, with weapon)</Original>
-+        <English>Sit (Sitting on the ground, with weapon)</English>
-+        <French>Assis au sol 1(armé)</French>
-+        <Italian>Seduto (Seduto per terra, con un'arma)</Italian>
-+        <German>Schneidersitz (Bewaffnet)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_sitLowU">
-+        <Original>Sit low (Sitting on the ground, no weapon)</Original>
-+        <English>Sit low (Sitting on the ground, no weapon)</English>
-+        <French>Assis au sol 2 (non armé)</French>
-+        <Italian>Sit Low(Seduto a terra senza arma)</Italian>
-+        <German>Schneidersitz (unbewaffnet)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_kneel">
-+        <Original>Kneel (Kneeling, with weapon)</Original>
-+        <English>Kneel (Kneeling, with weapon)</English>
-+        <French>Accroupi (armé)</French>
-+        <Italian>Kneel (Inginocchiato, con un'arma)</Italian>
-+        <German>Kniend (Mit Waffe)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_lean">
-+        <Original>Lean</Original>
-+        <English>Lean</English>
-+        <French>Adossé</French>
-+        <German>Anlehnen</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_watch1">
-+        <Original>Watch 1 (Standing and turning around)</Original>
-+        <English>Watch (Standing and turning around)</English>
-+        <French>Surveille 1 (attend et pivote sur lui même)</French>
-+        <Italian>Watch  1(Posizione eretta mentre controlla i dintorni)</Italian>
-+        <German>Ausschau halten 1</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_watch">
-+        <Original>Watch 1 (Standing and turning around)</Original>
-+        <English>Watch (Standing and turning around)</English>
-+        <French>Surveille 2 (attend et pivote sur lui même)</French>
-+        <Italian>Watch  1(Posizione eretta mentre controlla i dintorni)</Italian>
-+        <German>Ausschau halten 1</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_watch2">
-+        <Original>Watch 2(Standing and turning around)</Original>
-+        <English>Watch (Standing and turning around)</English>
-+        <French>Surveille 3(attend et pivote sur lui même)</French>
-+        <Italian>Watch 2(Posizione eretta mentre controlla i dintorni)</Italian>
-+        <German>Ausschau halten 2</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_standU1">
-+        <Original>Stand U1 (Slightly turning to the sides, no weapon)</Original>
-+        <English>Stand U1 (Slightly turning to the sides, no weapon)</English>
-+        <French>Attend 1 (pivote légèrement sur les côtés, non armé)</French>
-+        <Italian>Stand U1 (Si gira leggermente, nessun'arma)</Italian>
-+        <German>Stehen U1 (Leicht zur seite drehend, keine Waffe)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_standU2">
-+        <Original>Stand U2 (Slightly turning to the sides, no weapon)</Original>
-+        <English>Stand U2 (Slightly turning to the sides, no weapon)</English>
-+        <French>Attend 2 (tourne légèrement sur les côtés, non armé)</French>
-+        <Italian>Stand U2 (Si gira leggermente, nessun'arma)</Italian>
-+        <German>Stehen U2 (Leicht zur seite drehend, keine Waffe)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_standU3">
-+        <Original>Stand U3 (Slightly turning to the sides, no weapon)</Original>
-+        <English>Stand U3 (Slightly turning to the sides, no weapon)</English>
-+        <French>Attend 3(tourne légèrement sur les côtés, non armé)</French>
-+        <Italian>Stand U3 (Si gira leggermente, nessun'arma)</Italian>
-+        <German>Stehen U3 (Leicht zur seite drehend, keine Waffe)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_listenBriefing">
-+        <Original>Listen Briefing (Hands behind back, no weapon)</Original>
-+        <English>Listen Briefing (Hands behind back, no weapon)</English>
-+        <French>Écoute un briefing (mains derrière le dos, non armé)</French>
-+        <Italian>Ascolta il briefing (Mani dietro la schiena, nessun'arma)</Italian>
-+        <German>Einsatzbesprechung anhören (Hände hinter Rücken, keine Waffe)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_leanOnTable">
-+        <Original>Lean on table (Standing while leaning on table)</Original>
-+        <English>Lean on table (Standing while leaning on table)</English>
-+        <French>Appuyé sur la table</French>
-+        <Italian>Lean On Table (In piedi mentre indica sul tavolo)</Italian>
-+        <German>Auf Tisch abstützend</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_briefing">
-+        <Original>Briefing (Ambient briefing loop)</Original>
-+        <English>Briefing (Ambient briefing loop)</English>
-+        <French>Briefing (boucle ambiante)</French>
-+        <Italian>Briefing (Animazione loop del Briefing)</Italian>
-+        <German>Einsatzbesprechung halten (Schleife)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_briefingPointLeft">
-+        <Original>Briefing pointing left (Pointing left &amp; high)</Original>
-+        <English>Briefing pointing left (Pointing left &amp; high)</English>
-+        <French>Briefing (en pointant en haut à gauche)</French>
-+        <Italian>Briefing Pointing Left (Indica in alto a siniSTR_ENH_a)</Italian>
-+        <German>Einsatzbesprechung (Nach links oben zeigend)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_briefingPointRight">
-+        <Original>Briefing pointing right (Pointing right &amp; high)</Original>
-+        <English>Briefing pointing right (Pointing right &amp; high)</English>
-+        <French>Briefing (en pointant en haut à droite)</French>
-+        <Italian>Briefing Pointing Right (Indica in alto a deSTR_ENH_a)</Italian>
-+        <German>Einsatzbesprechung (Nach rechts oben zeigend)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_briefingPointTable">
-+        <Original>Briefing pointing down (pointing front &amp; low)</Original>
-+        <English>Briefing pointing down (pointing front &amp; low)</English>
-+        <French>Briefing (en pointant devant et vers le bas)</French>
-+        <Italian>Briefing Pointing Down (Indica in basso in avanti)</Italian>
-+        <German>Einsatzbesprechung (Auf Tisch zeigend)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_sitU1">
-+        <Original>Sit U1 (Sitting on bench or similar, no weapon)</Original>
-+        <English>Sit U1 (Sitting on bench or similar, no weapon)</English>
-+        <French>Assis non armé 1 (sur un banc ou autre, sans arme)</French>
-+        <Italian>Sit U1 (Seduto su una panchina o similiari, nessun'arma)</Italian>
-+        <German>Sitzen U1 (Auf Bank oder Ähnlichem sitzend, keine Waffe)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_sitU2">
-+        <Original>Sit U2 (Sitting on bench or similar, no weapon)</Original>
-+        <English>Sit U1 (Sitting on bench or similar, no weapon)</English>
-+        <French>Assis non armé 2 (sur un banc ou autre, sans arme)</French>
-+        <Italian>Sit U2 (Seduto su una panchina o similiari, nessun'arma)</Italian>
-+        <German>Sitzen U2(Auf Bank oder Ähnlichem sitzend, keine Waffe)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_sitU3">
-+        <Original>Sit U3 (Sitting on bench or similar, no weapon)</Original>
-+        <English>Sit U1 (Sitting on bench or similar, no weapon)</English>
-+        <French>Assis non armé 3 (sur un banc ou autre, sans arme)</French>
-+        <Italian>Sit U3 (Seduto su una panchina o similiari, nessun'arma)</Italian>
-+        <German>Sitzen U3 (Auf Bank oder Ähnlichem sitzend, keine Waffe)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_sit1">
-+        <Original>Sit 1 (Sitting on bench or similar)</Original>
-+        <English>Sit 1 (Sitting on bench or similar)</English>
-+        <French>Assis 1 (sur un banc ou autre)</French>
-+        <Italian>Sit 1 (Seduto su una panchina o similiari)</Italian>
-+        <German>Sitzen 1 (Auf Bank oder Ähnlichem sitzend)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_sit2">
-+        <Original>Sit 2 (Sitting on bench or similar)</Original>
-+        <English>Sit 2 (Sitting on bench or similar)</English>
-+        <French>Assis 2 (sur un banc ou autre)</French>
-+        <Italian>Sit 2 (Seduto su una panchina o similiari)</Italian>
-+        <German>Sitzen 2 (Auf Bank oder Ähnlichem sitzend)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_sit3">
-+        <Original>Sit 3 (Sitting on bench or similar, unarmed)</Original>
-+        <English>Sit 3 (Sitting on bench or similar, unarmed)</English>
-+        <French>Assis 3 (sur un banc ou autre, non armé)</French>
-+        <Italian />
-+        <German>Sitzen 2 (Auf Bank oder Ähnlichem sitzend, unbewaffnet)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_sitAtTable">
-+        <Original>Sit at table</Original>
-+        <English>Sit at table</English>
-+        <French>Assis sur une table</French>
-+        <Italian>Seduto ad un tavolo</Italian>
-+        <German>An Tisch sitzen</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_sitHigh_1">
-+        <Original>Sit High 1 (Sitting on higher object, legs swinging, needs a rifle)</Original>
-+        <English>Sit High 1 (Sitting on higher object, legs swinging, needs a rifle)</English>
-+        <French>Assis haut 1 (appuyé sur des objets hauts avec une jambe dans le vide, nécessite une arme)</French>
-+        <Italian>Sit High 1 (Seduot su un oggetto sopraelevato, gambe a penzoloni, necessita un fucile)</Italian>
-+        <German>Erhöht Sitzend 1 (Auf höherem Objekt sitzend, braucht Waffe)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_sitHigh_2">
-+        <Original>Sit High 2 (Sitting on higher object, legs swinging, needs a rifle)</Original>
-+        <English>Sit High 2 (Sitting on higher object, legs swinging, needs a rifle)</English>
-+        <French>Assis haut 2 (appuyé sur des objets hauts avec une jambe dans le vide, nécessite une arme)</French>
-+        <Italian>Sit High 2 (Seduot su un oggetto sopraelevato, gambe a penzoloni, necessita un fucile)</Italian>
-+        <German>Erhöht Sitzend 2 (Auf höherem Objekt sitzend, braucht Waffe)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_proneInjured1">
-+        <Original>Prone injured 1 (Laying wounded on back, no weapon)</Original>
-+        <English>Prone injured 1 (Laying wounded on back, no weapon)</English>
-+        <French>Blessé 1 (sur le dos, sans arme)</French>
-+        <German>Verletzt am Boden 1 (Keine Waffe)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_proneInjured2">
-+        <Original>Prone injured 2 (Laying wounded on back, no weapon)</Original>
-+        <English>Prone injured 2 (Laying wounded on back, no weapon)</English>
-+        <French>Blessé 2 (le dos, sans arme)</French>
-+        <German>Verletzt am Boden 2 (Keine Waffe)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_proneInjured">
-+        <Original>Prone injured (Laying wounded on back, with or without weapon)</Original>
-+        <English>Prone injured (Laying wounded on back, with or without weapon)</English>
-+        <Czech />
-+        <French>Blessé 3 (sur le dos, avec ou sans arme)</French>
-+        <Spanish />
-+        <Italian />
-+        <Polish />
-+        <Portuguese />
-+        <Russian />
-+        <German>Verletzt am Boden (Mit oder ohne Waffe)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_repairVehStand">
-+        <Original>Repair vehicle (Reparing vehicle, standing)</Original>
-+        <English>Repair vehicle (Reparing vehicle, standing)</English>
-+        <French>Répare 1 (debout, non armé)</French>
-+        <German>Fahrzeug reparieren (Stehend, ohne Waffe)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_repairVehKneel">
-+        <Original>Repair vehicle (Reparing vehicle, kneeling)</Original>
-+        <English>Repair vehicle (Reparing vehicle, kneeling)</English>
-+        <French>Répare 2 (à genoux, non armé)</French>
-+        <German>Fahrzeug reparieren (Kniend, ohne Waffe)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_repairVehProne">
-+        <Original>Repair vehicle (Reparing vehicle, prone)</Original>
-+        <English>Repair vehicle (Reparing vehicle, prone)</English>
-+        <French>Répare 3 (allongé, non armé)</French>
-+        <German>Fahrzeug reparieren (Liegend, ohne Waffe)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_kneelTreat">
-+        <Original>Treating wounded soldier (Kneeling)</Original>
-+        <English>Treating wounded soldier (Kneeling)</English>
-+        <French />
-+        <German>Verletzung behandeln (Kniend)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_sitSad_1">
-+        <Original>Sit Sad 1 (Sitting on chair, looking sad)</Original>
-+        <English>Sit Sad 1 (Sitting on chair, looking sad)</English>
-+        <French />
-+        <German>Sitzen 1 (In Stuhl sitzend, niederschlagen schauend)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_sitSad_2">
-+        <Original>Sit Sad 2 (Sitting on chair, looking sad)</Original>
-+        <English>Sit Sad 2 (Sitting on chair, looking sad)</English>
-+        <French />
-+        <German>Sitzen 2 (In Stuhl sitzend, niederschlagen schauend)</German>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimCombo_guard">
-+        <Original>Guard</Original>
-+        <English>Guard</English>
-+        <German>Bewachen</German>
-+      </Key>
-+    </Container>
-+    <Container name="Animation  Headline">
-+      <Key ID="STR_ENH_ambAnimations_displayname">
-+        <Original>Ambient Animations</Original>
-+        <English>Ambient Animations</English>
-+      </Key>
-+      <Key ID="STR_ENH_ambAnimations_tooltip">
-+        <Original>Select an animation and loadout. To save performance, this attribute will only work in single player missions.</Original>
-+        <English>Select an animation and loadout. To save performance, this attribute will only work in single player missions.</English>
-+      </Key>
-+    </Container>
-+  </Package>
+    <Container name="Animation Equipment Level">
+      <Key ID="STR_ENH_ambAnimEquipCombo_random">
+        <Original>Random (Gear is randomized according to the animation set)</Original>
+        <English>Random (Gear is randomized according to the animation set)</English>
+        <French>Aléatoire (l'équipement est aléatoire en fonction de l'animation selectionnée)</French>
+        <Spanish>Aleatorio (equipamiento es aleatorio de acuerdo con el conjunto de animaciones)</Spanish>
+        <Italian>Random (L'equipaggiamento randomizzato in base all'animazione impostata)</Italian>
+        <German>Zufällig (Ausrüstung wird der Animation angepasst)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimEquipCombo_light">
+        <Original>Light (No goggles, headgear, vest)</Original>
+        <English>Light (No goggles, headgear, vest)</English>
+        <French>Léger (pas de lunette, casque ou veste)</French>
+        <Spanish>Ligero (sin gafas, equipamiento de cabeza, ni chaleco)</Spanish>
+        <Italian>Light (Niente occhiali,né elmetto e veste)</Italian>
+        <German>Leicht (Keine Nachtsicht, Kopfbedeckung, Weste)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimEquipCombo_medium">
+        <Original>Medium (No goggles, headgear)</Original>
+        <English>Medium (No goggles, headgear)</English>
+        <French>Intermédiaire (pas de lunette ou de casque)</French>
+        <Spanish>Medio (sin gafas, ni equipamiento de cabeza)</Spanish>
+        <Italian>Medium (Niente occhiali né elmetto)</Italian>
+        <German>Mittel (Keine Nachtsicht, Kopfbedeckung)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimEquipCombo_full">
+        <Original>Full (No goggles)</Original>
+        <English>Full (No goggles)</English>
+        <French>Tout (pas de lunette)</French>
+        <Spanish>Completo (sin gafas)</Spanish>
+        <Italian>Full (Niente occhiali)</Italian>
+        <German>Volle Ausrüstung (Keine Nachtsicht)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimEquipCombo_none">
+        <Original>None (No goggles, headgear, vest, weapon)</Original>
+        <English>None (No goggles, headgear, vest, weapon)</English>
+        <French>Rien (pas de lunette, casque, veste ou arme)</French>
+        <Spanish>Ninguno (Sin gafas, equipamiento de cabeza, chaleco ni arma)</Spanish>
+        <Italian>Nulla (Niente occhiali, elmetto, veste e arma)</Italian>
+        <German>Nichts (Keine Nachtsicht, Kopfbedeckung, Weste, Waffe)</German>
+      </Key>
+    </Container>
+    <Container name="Animation Names">
+      <Key ID="STR_ENH_ambAnimCombo_stand">
+        <Original>Stand (Slightly turning to the sides, needs rifle!)</Original>
+        <English>Stand (Slightly turning to the sides, needs rifle!)</English>
+        <French>Attend (pivote légèrement sur les côtés, nécessite une arme)</French>
+        <Spanish>De pie (ligeramente girando a los lados, necesita rifle!)</Spanish>
+        <Italian>Eretto (Si gira leggermente, necessita un fucile!)</Italian>
+        <German>Stehen (Leicht zur Seite drehend, braucht ein Gewehr!)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_standIA">
+        <Original>Stand (Default A3 animation)</Original>
+        <English>Stand (Default A3 animation)</English>
+        <French>Attend (animation debout par défaut)</French>
+        <Spanish>De pie (Animación A3 predeterminada)</Spanish>
+        <Italian>Eretto (Animazione di default)</Italian>
+        <German>Stehen (Standard A3 Animation)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_sitLow">
+        <Original>Sit (Sitting on the ground, with weapon)</Original>
+        <English>Sit (Sitting on the ground, with weapon)</English>
+        <French>Assis au sol 1(armé)</French>
+        <Spanish>Sentarse (Sentado en el suelo, con arma)</Spanish>
+        <Italian>Seduto (Seduto per terra, con un'arma)</Italian>
+        <German>Schneidersitz (Bewaffnet)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_sitLowU">
+        <Original>Sit low (Sitting on the ground, no weapon)</Original>
+        <English>Sit low (Sitting on the ground, no weapon)</English>
+        <French>Assis au sol 2 (non armé)</French>
+        <Spanish>Sentarse bajo (Sentado en el suelo, sin arma)</Spanish>
+        <Italian>Sit Low(Seduto a terra senza arma)</Italian>
+        <German>Schneidersitz (unbewaffnet)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_kneel">
+        <Original>Kneel (Kneeling, with weapon)</Original>
+        <English>Kneel (Kneeling, with weapon)</English>
+        <French>Accroupi (armé)</French>
+        <Spanish>Arrodillarse (arrodillado, con arma)</Spanish>
+        <Italian>Kneel (Inginocchiato, con un'arma)</Italian>
+        <German>Kniend (Mit Waffe)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_lean">
+        <Original>Lean</Original>
+        <English>Lean</English>
+        <French>Adossé</French>
+        <Spanish>Apoyarse</Spanish>
+        <German>Anlehnen</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_watch1">
+        <Original>Watch 1 (Standing and turning around)</Original>
+        <English>Watch (Standing and turning around)</English>
+        <French>Surveille 1 (attend et pivote sur lui même)</French>
+        <Spanish>Observar 1 (De pie y girando)</Spanish>
+        <Italian>Watch  1(Posizione eretta mentre controlla i dintorni)</Italian>
+        <German>Ausschau halten 1</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_watch">
+        <Original>Watch 1 (Standing and turning around)</Original>
+        <English>Watch (Standing and turning around)</English>
+        <French>Surveille 2 (attend et pivote sur lui même)</French>
+        <Spanish>Observar 1 (De pie y girando)</Spanish>
+        <Italian>Watch  1(Posizione eretta mentre controlla i dintorni)</Italian>
+        <German>Ausschau halten 1</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_watch2">
+        <Original>Watch 2(Standing and turning around)</Original>
+        <English>Watch (Standing and turning around)</English>
+        <French>Surveille 3(attend et pivote sur lui même)</French>
+        <Spanish>Observar 2 (De pie y girando)</Spanish>
+        <Italian>Watch 2(Posizione eretta mentre controlla i dintorni)</Italian>
+        <German>Ausschau halten 2</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_standU1">
+        <Original>Stand U1 (Slightly turning to the sides, no weapon)</Original>
+        <English>Stand U1 (Slightly turning to the sides, no weapon)</English>
+        <French>Attend 1 (pivote légèrement sur les côtés, non armé)</French>
+        <Spanish>De pie U1 (Ligeramente girando a los lados, sin arma)</Spanish>
+        <Italian>Stand U1 (Si gira leggermente, nessun'arma)</Italian>
+        <German>Stehen U1 (Leicht zur seite drehend, keine Waffe)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_standU2">
+        <Original>Stand U2 (Slightly turning to the sides, no weapon)</Original>
+        <English>Stand U2 (Slightly turning to the sides, no weapon)</English>
+        <French>Attend 2 (tourne légèrement sur les côtés, non armé)</French>
+        <Spanish>De pie U2 (Ligeramente girando a los lados, sin arma)</Spanish>
+        <Italian>Stand U2 (Si gira leggermente, nessun'arma)</Italian>
+        <German>Stehen U2 (Leicht zur seite drehend, keine Waffe)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_standU3">
+        <Original>Stand U3 (Slightly turning to the sides, no weapon)</Original>
+        <English>Stand U3 (Slightly turning to the sides, no weapon)</English>
+        <French>Attend 3(tourne légèrement sur les côtés, non armé)</French>
+        <Spanish>De pie U3 (Ligeramente girando a los lados, sin arma)</Spanish>
+        <Italian>Stand U3 (Si gira leggermente, nessun'arma)</Italian>
+        <German>Stehen U3 (Leicht zur seite drehend, keine Waffe)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_listenBriefing">
+        <Original>Listen Briefing (Hands behind back, no weapon)</Original>
+        <English>Listen Briefing (Hands behind back, no weapon)</English>
+        <French>Écoute un briefing (mains derrière le dos, non armé)</French>
+        <Spanish>Escuchar Briefing (Manos detrás de la espalda, sin arma)</Spanish>
+        <Italian>Ascolta il briefing (Mani dietro la schiena, nessun'arma)</Italian>
+        <German>Einsatzbesprechung anhören (Hände hinter Rücken, keine Waffe)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_leanOnTable">
+        <Original>Lean on table (Standing while leaning on table)</Original>
+        <English>Lean on table (Standing while leaning on table)</English>
+        <French>Appuyé sur la table</French>
+        <Spanish>Apóyado en la mesa (de pie mientras se apoya en la mesa)</Spanish>
+        <Italian>Lean On Table (In piedi mentre indica sul tavolo)</Italian>
+        <German>Auf Tisch abstützend</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_briefing">
+        <Original>Briefing (Ambient briefing loop)</Original>
+        <English>Briefing (Ambient briefing loop)</English>
+        <French>Briefing (boucle ambiante)</French>
+        <Spanish>Briefing (bucle ambiental de briefing)</Spanish>
+        <Italian>Briefing (Animazione loop del Briefing)</Italian>
+        <German>Einsatzbesprechung halten (Schleife)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_briefingPointLeft">
+        <Original>Briefing pointing left (Pointing left &amp; high)</Original>
+        <English>Briefing pointing left (Pointing left &amp; high)</English>
+        <French>Briefing (en pointant en haut à gauche)</French>
+        <Spanish>Briefing apuntando a la izquierda (apuntando a la izquierda y alto)</Spanish>
+        <Italian>Briefing Pointing Left (Indica in alto a siniSTR_ENH_a)</Italian>
+        <German>Einsatzbesprechung (Nach links oben zeigend)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_briefingPointRight">
+        <Original>Briefing pointing right (Pointing right &amp; high)</Original>
+        <English>Briefing pointing right (Pointing right &amp; high)</English>
+        <French>Briefing (en pointant en haut à droite)</French>
+        <Spanish>Briefing apuntando a la derecha (apuntando a la derecha y alto)</Spanish>
+        <Italian>Briefing Pointing Right (Indica in alto a deSTR_ENH_a)</Italian>
+        <German>Einsatzbesprechung (Nach rechts oben zeigend)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_briefingPointTable">
+        <Original>Briefing pointing down (pointing front &amp; low)</Original>
+        <English>Briefing pointing down (pointing front &amp; low)</English>
+        <French>Briefing (en pointant devant et vers le bas)</French>
+        <Spanish>Briefing apuntando hacia abajo (apuntando hacia delante y hacia abajo)</Spanish>
+        <Italian>Briefing Pointing Down (Indica in basso in avanti)</Italian>
+        <German>Einsatzbesprechung (Auf Tisch zeigend)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_sitU1">
+        <Original>Sit U1 (Sitting on bench or similar, no weapon)</Original>
+        <English>Sit U1 (Sitting on bench or similar, no weapon)</English>
+        <French>Assis non armé 1 (sur un banc ou autre, sans arme)</French>
+        <Spanish>Sit U1 (Sentado en un banco o similar, sin arma)</Spanish>
+        <Italian>Sit U1 (Seduto su una panchina o similiari, nessun'arma)</Italian>
+        <German>Sitzen U1 (Auf Bank oder Ähnlichem sitzend, keine Waffe)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_sitU2">
+        <Original>Sit U2 (Sitting on bench or similar, no weapon)</Original>
+        <English>Sit U1 (Sitting on bench or similar, no weapon)</English>
+        <French>Assis non armé 2 (sur un banc ou autre, sans arme)</French>
+        <Spanish>Sit U2 (Sentado en un banco o similar, sin arma)</Spanish>
+        <Italian>Sit U2 (Seduto su una panchina o similiari, nessun'arma)</Italian>
+        <German>Sitzen U2(Auf Bank oder Ähnlichem sitzend, keine Waffe)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_sitU3">
+        <Original>Sit U3 (Sitting on bench or similar, no weapon)</Original>
+        <English>Sit U1 (Sitting on bench or similar, no weapon)</English>
+        <French>Assis non armé 3 (sur un banc ou autre, sans arme)</French>
+        <Spanish>Sentado U3 (sentado en un banco o similar, sin arma)</Spanish>
+        <Italian>Sit U3 (Seduto su una panchina o similiari, nessun'arma)</Italian>
+        <German>Sitzen U3 (Auf Bank oder Ähnlichem sitzend, keine Waffe)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_sit1">
+        <Original>Sit 1 (Sitting on bench or similar)</Original>
+        <English>Sit 1 (Sitting on bench or similar)</English>
+        <French>Assis 1 (sur un banc ou autre)</French>
+        <Spanish>Sentarse 1 (sentado en un banco o similar)</Spanish>
+        <Italian>Sit 1 (Seduto su una panchina o similiari)</Italian>
+        <German>Sitzen 1 (Auf Bank oder Ähnlichem sitzend)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_sit2">
+        <Original>Sit 2 (Sitting on bench or similar)</Original>
+        <English>Sit 2 (Sitting on bench or similar)</English>
+        <French>Assis 2 (sur un banc ou autre)</French>
+        <Spanish>Sentarse 2 (sentado en un banco o similar)</Spanish>
+        <Italian>Sit 2 (Seduto su una panchina o similiari)</Italian>
+        <German>Sitzen 2 (Auf Bank oder Ähnlichem sitzend)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_sit3">
+        <Original>Sit 3 (Sitting on bench or similar, unarmed)</Original>
+        <English>Sit 3 (Sitting on bench or similar, unarmed)</English>
+        <French>Assis 3 (sur un banc ou autre, non armé)</French>
+        <Spanish>Sentarse 3 (Sentado en un banco o similar, desarmado)</Spanish>
+        <Italian />
+        <German>Sitzen 2 (Auf Bank oder Ähnlichem sitzend, unbewaffnet)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_sitAtTable">
+        <Original>Sit at table</Original>
+        <English>Sit at table</English>
+        <French>Assis sur une table</French>
+        <Spanish>Sentarse a la mesa</Spanish>
+        <Italian>Seduto ad un tavolo</Italian>
+        <German>An Tisch sitzen</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_sitHigh_1">
+        <Original>Sit High 1 (Sitting on higher object, legs swinging, needs a rifle)</Original>
+        <English>Sit High 1 (Sitting on higher object, legs swinging, needs a rifle)</English>
+        <French>Assis haut 1 (appuyé sur des objets hauts avec une jambe dans le vide, nécessite une arme)</French>
+        <Spanish>Sentarse Alto 1 (Sentado en un objeto más alto, piernas balanceándose, necesita un rifle)</Spanish>
+        <Italian>Sit High 1 (Seduot su un oggetto sopraelevato, gambe a penzoloni, necessita un fucile)</Italian>
+        <German>Erhöht Sitzend 1 (Auf höherem Objekt sitzend, braucht Waffe)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_sitHigh_2">
+        <Original>Sit High 2 (Sitting on higher object, legs swinging, needs a rifle)</Original>
+        <English>Sit High 2 (Sitting on higher object, legs swinging, needs a rifle)</English>
+        <French>Assis haut 2 (appuyé sur des objets hauts avec une jambe dans le vide, nécessite une arme)</French>
+        <Spanish>Sentarse Alto 2 (Sentado en un objeto más alto, piernas balanceándose, necesita un rifle)</Spanish>
+        <Italian>Sit High 2 (Seduot su un oggetto sopraelevato, gambe a penzoloni, necessita un fucile)</Italian>
+        <German>Erhöht Sitzend 2 (Auf höherem Objekt sitzend, braucht Waffe)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_proneInjured1">
+        <Original>Prone injured 1 (Laying wounded on back, no weapon)</Original>
+        <English>Prone injured 1 (Laying wounded on back, no weapon)</English>
+        <French>Blessé 1 (sur le dos, sans arme)</French>
+        <Spanish>Tumbado prono herido 1 (Colocación herida en la espalda, sin arma)</Spanish>
+        <Portuguese />
+        <German>Verletzt am Boden 1 (Keine Waffe)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_proneInjured2">
+        <Original>Prone injured 2 (Laying wounded on back, no weapon)</Original>
+        <English>Prone injured 2 (Laying wounded on back, no weapon)</English>
+        <French>Blessé 2 (le dos, sans arme)</French>
+        <Spanish>Tumbado prono herido 2 (Colocación herida en la espalda, sin arma)</Spanish>
+        <German>Verletzt am Boden 2 (Keine Waffe)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_proneInjured">
+        <Original>Prone injured (Laying wounded on back, with or without weapon)</Original>
+        <English>Prone injured (Laying wounded on back, with or without weapon)</English>
+        <Czech />
+        <French>Blessé 3 (sur le dos, avec ou sans arme)</French>
+        <Spanish>Tumbado prono herido (Colocación herida en la espalda, con o sin arma)</Spanish>
+        <Italian />
+        <Polish />
+        <Portuguese />
+        <Russian />
+        <German>Verletzt am Boden (Mit oder ohne Waffe)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_repairVehStand">
+        <Original>Repair vehicle (Reparing vehicle, standing)</Original>
+        <English>Repair vehicle (Reparing vehicle, standing)</English>
+        <French>Répare 1 (debout, non armé)</French>
+        <Spanish>Reparar vehículo (Reparando vehículo, de pie)</Spanish>
+        <German>Fahrzeug reparieren (Stehend, ohne Waffe)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_repairVehKneel">
+        <Original>Repair vehicle (Reparing vehicle, kneeling)</Original>
+        <English>Repair vehicle (Reparing vehicle, kneeling)</English>
+        <French>Répare 2 (à genoux, non armé)</French>
+        <Spanish>Reparar vehículo (Reparando vehículo, de rodillas)</Spanish>
+        <German>Fahrzeug reparieren (Kniend, ohne Waffe)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_repairVehProne">
+        <Original>Repair vehicle (Reparing vehicle, prone)</Original>
+        <English>Repair vehicle (Reparing vehicle, prone)</English>
+        <French>Répare 3 (allongé, non armé)</French>
+        <Spanish>Reparar vehículo (Reparando vehículo, tumbado prono)</Spanish>
+        <German>Fahrzeug reparieren (Liegend, ohne Waffe)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_kneelTreat">
+        <Original>Treating wounded soldier (Kneeling)</Original>
+        <English>Treating wounded soldier (Kneeling)</English>
+        <French />
+        <Spanish>Tratando a un soldado herido (Arrodillado)</Spanish>
+        <German>Verletzung behandeln (Kniend)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_sitSad_1">
+        <Original>Sit Sad 1 (Sitting on chair, looking sad)</Original>
+        <English>Sit Sad 1 (Sitting on chair, looking sad)</English>
+        <French />
+        <Spanish>Sentarse triste 1 (Sentado en la silla, mirando triste)</Spanish>
+        <German>Sitzen 1 (In Stuhl sitzend, niederschlagen schauend)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_sitSad_2">
+        <Original>Sit Sad 2 (Sitting on chair, looking sad)</Original>
+        <English>Sit Sad 2 (Sitting on chair, looking sad)</English>
+        <French />
+        <Spanish>Sentarse triste 2 (Sentado en la silla, mirando triste)</Spanish>
+        <German>Sitzen 2 (In Stuhl sitzend, niederschlagen schauend)</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimCombo_guard">
+        <Original>Guard</Original>
+        <English>Guard</English>
+        <Spanish>Guarda</Spanish>
+        <German>Bewachen</German>
+      </Key>
+    </Container>
+    <Container name="Animation  Headline">
+      <Key ID="STR_ENH_ambAnimations_displayname">
+        <Original>Ambient Animations</Original>
+        <English>Ambient Animations</English>
+        <Spanish>Animaciones de ambiente</Spanish>
+      </Key>
+      <Key ID="STR_ENH_ambAnimations_tooltip">
+        <Original>Select an animation and loadout. To save performance, this attribute will only work in single player missions.</Original>
+        <English>Select an animation and loadout. To save performance, this attribute will only work in single player missions.</English>
+        <Spanish>Seleccione una animación y equipamiento. Para mejorar rendimiento, este atributo sólo funcionará en misiones de un solo jugador.</Spanish>
+      </Key>
+    </Container>
+  </Package>
 </Project>
