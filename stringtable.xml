@@ -241,7 +241,7 @@
         <English>Second Line</English>
         <Czech>Druhý řádek</Czech>
         <French>Deuxième ligne</French>
-        <Spanish>segunda línea</Spanish>
+        <Spanish>Segunda línea</Spanish>
         <German>Zweite Zeile</German>
       </Key>
       <Key ID="STR_ENH_introText_line3_displayName">
@@ -393,7 +393,7 @@
         <English>Circular Pattern Radius</English>
         <Czech>Okruh obletové kružnice</Czech>
         <French>Rayon du positionnement "En Cercle"</French>
-        <Spanish>Radio de circuito de vuelo "pattern" circular</Spanish>
+        <Spanish>Radio de formación circular</Spanish>
         <German>Kreismusterradius</German>
       </Key>
       <Key ID="STR_ENH_toolSettings_fillArea_numObjects_displayName">
@@ -417,7 +417,7 @@
         <English>Line Pattern Spacing</English>
         <Czech>Mezera mezi linií</Czech>
         <French>Espacement du positionnement "Aligner"</French>
-        <Spanish>Espaciado entre líneas del circuito de vuelo</Spanish>
+        <Spanish>Espaciado formación en línea</Spanish>
         <German>Linienmusterabstand</German>
       </Key>
       <Key ID="STR_ENH_toolSettings_fillArea_category">
@@ -433,7 +433,7 @@
         <English>Settings: Pattern Tools</English>
         <Czech>Nastavení: Nástroje tvaru</Czech>
         <French>Paramètres : Outil de Remplissage</French>
-        <Spanish>Configuración: Herramientas de circuito de vuelo</Spanish>
+        <Spanish>Configuración de Formaciones</Spanish>
         <German>Einstellungen: Muster-Werkzeuge</German>
       </Key>
       <Key ID="STR_ENH_toolSettings_batchNaming_displayName">
@@ -477,7 +477,7 @@
       <Key ID="STR_ENH_weaponSway_displayName">
         <Original>Weapon Sway</Original>
         <English>Weapon Sway</English>
-        <Spanish>balanceo del arma</Spanish>
+        <Spanish>Balanceo del arma</Spanish>
       </Key>
       <Key ID="STR_ENH_weaponSway_tooltip">
         <Original>Sets player's weapon sway. State is preserved even after respawn.</Original>
@@ -544,7 +544,7 @@
         <English>1st axle left wheel (car)</English>
         <Czech>První náprava levé kolo (auto)</Czech>
         <French>1er essieu, roue gauche (voiture)</French>
-        <Spanish>1er eje rueda izquierda (auto)</Spanish>
+        <Spanish>Rueda izquierda 1er eje (auto)</Spanish>
         <German>1. Achse, linkes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_RFWheel">
@@ -552,7 +552,7 @@
         <English>1st axle right wheel (car)</English>
         <Czech>První náprava pravé kolo (auto)</Czech>
         <French>1er essieu, roue droite (voiture)</French>
-        <Spanish>1er eje rueda derecha (auto)</Spanish>
+        <Spanish>Rueda derecha 1er eje (auto)</Spanish>
         <German>1. Achse, rechtes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_LF2Wheel">
@@ -560,7 +560,7 @@
         <English>2nd axle left wheel (car)</English>
         <Czech>Druhá náprava levé kolo (auto)</Czech>
         <French>2ème essieu, roue gauche (voiture)</French>
-        <Spanish>2º eje de la rueda izquierda (auto)</Spanish>
+        <Spanish>Rueda izquierda 2º eje (auto)</Spanish>
         <German>2. Achse, linkes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_RF2Wheel">
@@ -568,7 +568,7 @@
         <English>2nd axle right wheel (car)</English>
         <Czech>Druhá náprava pravé kolo (auto)</Czech>
         <French>2ème essieu, roue droite (voiture)</French>
-        <Spanish>2º eje de la rueda derecha (auto)</Spanish>
+        <Spanish>Rueda derecha 2º eje (auto)</Spanish>
         <German>2. Achse, rechtes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_LMWheel">
@@ -576,7 +576,7 @@
         <English>3rd axle left wheel (car)</English>
         <Czech>Třetí náprava levé kolo (auto)</Czech>
         <French>3ème essieu, roue gauche (voiture)</French>
-        <Spanish>3er eje de la rueda izquierda (auto)</Spanish>
+        <Spanish>Rueda izquierda 3er eje (auto)</Spanish>
         <German>3. Achse, linkes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_RMWheel">
@@ -584,7 +584,7 @@
         <English>3rd axle right wheel (car)</English>
         <Czech>Třetí náprava pravé kolo (auto)</Czech>
         <French>3ème essieu, roue droite (voiture)</French>
-        <Spanish>3er eje rueda derecha (auto)</Spanish>
+        <Spanish>Rueda derecha 3er eje (auto)</Spanish>
         <German>3. Achse, rechtes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_LBWheel">
@@ -592,7 +592,7 @@
         <English>4th axle left wheel (car)</English>
         <Czech>Čtvrtá náprava levé kolo (auto)</Czech>
         <French>4ème essieu, roue gauche (voiture)</French>
-        <Spanish>4º eje de la rueda izquierda (auto)</Spanish>
+        <Spanish>Rueda izquierda 4º eje (auto)</Spanish>
         <German>4. Achse, linkes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_RBWheel">
@@ -600,7 +600,7 @@
         <English>4th axle right wheel (car)</English>
         <Czech>Čtvrtá náprava pravé kolo (auto)</Czech>
         <French>4ème essieu, roue droite (voiture)</French>
-        <Spanish>4º eje de la rueda izquierda (auto)</Spanish>
+        <Spanish>Rueda derecha 4º eje (auto)</Spanish>
         <German>4. Achse, rechtes Rad (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_body">
@@ -608,7 +608,7 @@
         <English>Body (car)</English>
         <Czech>Karoserie</Czech>
         <French>Carrosserie (voiture)</French>
-        <Spanish>chasis (auto)</Spanish>
+        <Spanish>Chasis (auto)</Spanish>
         <German>Karrosserie (Auto)</German>
       </Key>
       <Key ID="STR_ENH_advancedDamageVeh_LTrack">
@@ -1216,7 +1216,7 @@
         <English>Path</English>
         <Czech>Cesta</Czech>
         <French>Trajectoire</French>
-        <Spanish>Camino</Spanish>
+        <Spanish>Trayectoria</Spanish>
         <German>Pfad</German>
       </Key>
       <Key ID="STR_ENH_disableAI_path_tooltip">
@@ -1840,7 +1840,7 @@
         <English>Circular Pattern</English>
         <Czech>Kruhový vzor</Czech>
         <French>En cercle</French>
-        <Spanish>Circuito circular</Spanish>
+        <Spanish>En círculo</Spanish>
         <German>Kreismuster</German>
       </Key>
       <Key ID="STR_ENH_tools_reverseDirection_displayName">
@@ -1911,7 +1911,7 @@
         <English>Randomise Direction</English>
         <Czech>Náhodný směr</Czech>
         <French>Orientation aléatoire</French>
-        <Spanish>Randomise dirección</Spanish>
+        <Spanish>Dirección aleatoria</Spanish>
         <German>Randomisiere Richtung</German>
       </Key>
       <Key ID="STR_ENH_tools_showMapIDs_displayName">
@@ -1967,7 +1967,7 @@
         <English>Toggle FPS Gauge</English>
         <Czech>Zobrazit měření FPS</Czech>
         <French>Activer le compteur de FPS</French>
-        <Spanish>Activar indicador FPS</Spanish>
+        <Spanish>Indicador FPS sí/no</Spanish>
         <German>FPS Anzeige an/ausschalten</German>
       </Key>
       <Key ID="STR_ENH_tools_linePattern_displayName">
@@ -1975,7 +1975,7 @@
         <English>Linepattern</English>
         <Czech>Zobrazit linie</Czech>
         <French>Aligner</French>
-        <Spanish>Alineación</Spanish>
+        <Spanish>En línea</Spanish>
         <German>Linienmuster</German>
       </Key>
       <Key ID="STR_ENH_tools_toggleGrass_displayName">
@@ -1983,7 +1983,7 @@
         <English>Toggle Grass</English>
         <Czech>Zobrazit trávu</Czech>
         <French>Afficher l'herbe</French>
-        <Spanish>Activar hierba</Spanish>
+        <Spanish>Hierba Sí/No</Spanish>
         <German>Gras an/aus</German>
       </Key>
       <Key ID="STR_ENH_tools_exportGUIBaseClasses">
@@ -2135,7 +2135,7 @@
         <English>High</English>
         <Czech>Vysoké</Czech>
         <French>Elevé</French>
-        <Spanish>Altura</Spanish>
+        <Spanish>Alto</Spanish>
         <German>Hoch</German>
       </Key>
       <Key ID="STR_ENH_terrainGrid_ultra_displayName">
@@ -2195,6 +2195,7 @@
       <Key ID="STR_ENH_ambientAnimationSP_reset_text">
         <Original>Reset</Original>
         <English>Reset</English>
+        <Spanish>Reiniciar</Spanish>
         <German>Zurücksetzen</German>
       </Key>
     </Container>
@@ -2324,7 +2325,7 @@
         <English>Variable Name</English>
         <Czech>Název proměnné</Czech>
         <French>Nom de la variable</French>
-        <Spanish>Nombre de variable</Spanish>
+        <Spanish>Nombre variable</Spanish>
         <German>Variablenname</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_markerText_displayName">
@@ -2348,7 +2349,7 @@
         <English>Path</English>
         <Czech>Cesta</Czech>
         <French>Chemin</French>
-        <Spanish>Camino</Spanish>
+        <Spanish>Ruta</Spanish>
         <German>Pfad</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_briefingTitle_displayName">
@@ -2444,66 +2445,79 @@
       <Key ID="STR_ENH_3denRadio_songList_text">
         <Original>Song List</Original>
         <English>Song List</English>
+        <Spanish>Lista de canciones</Spanish>
         <German>Liederliste</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_saveAndClose_text">
         <Original>Save &amp; Close</Original>
         <English>Save &amp; Close</English>
+        <Spanish>Guardar y salir</Spanish>
         <German>Speich. &amp; Schließ.</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_playlist_text">
         <Original>Playlist</Original>
         <English>Playlist</English>
+        <Spanish>Canciones seleccionadas</Spanish>
         <German>Playlist</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_clearPlaylist_text">
         <Original>Clear Playlist</Original>
         <English>Clear Playlist</English>
+        <Spanish>Borrar selección</Spanish>
         <German>Playlist leeren</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_exportPlaylist_text">
         <Original>Export</Original>
         <English>Export</English>
+        <Spanish>Exportar</Spanish>
         <German>Export</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_importPlaylist_text">
         <Original>Import</Original>
         <English>Import</English>
+        <Spanish>Importar</Spanish>
         <German>Importieren</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_sortName_text">
         <Original>Sort by Name</Original>
         <English>Sort by Name</English>
+        <Spanish>Ord. por nombre</Spanish>
         <German>Sort. n. Namen</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_sortTheme_text">
         <Original>Sort by Theme</Original>
         <English>Sort by Theme</English>
+        <Spanish>Ord. por tema</Spanish>
         <German>Sort. n. Thema</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_sortDuration_text">
         <Original>Sort by Duration</Original>
         <English>Sort by Duration</English>
+        <Spanish>Ord. por duración</Spanish>
         <German>Sort. n. Länge</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_enableRadio_text">
         <Original>Enable Radio</Original>
         <English>Enable Radio</English>
+        <Spanish>Habilitar radio</Spanish>
         <German>Radio anschalten</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_disableRadio_text">
         <Original>Disable Radio</Original>
         <English>Disable Radio</English>
+        <Spanish>Deshabilitar radio</Spanish>
         <German>Radio ausschalten</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_currentSong_text">
         <Original>Current Song:</Original>
         <English>Current Song:</English>
+        <Spanish>Canción actual:</Spanish>
         <German>Lied:</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_volume_text">
         <Original>Vol.:</Original>
         <English>Vol.:</English>
+        <Spanish>Vol.:</Spanish>
         <German>Vol.:</German>
       </Key>
     </Container>
