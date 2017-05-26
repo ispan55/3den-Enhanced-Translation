@@ -2181,6 +2181,23 @@
         <German>Das Objekt ist immer innerhalb der Geländesichtweite sichtbar.</German>
       </Key>
     </Container>
+    <Container name="Animations">
+      <Key ID="STR_ENH_ambAnimations_displayname">
+        <Original>Ambient Animations</Original>
+        <English>Ambient Animations</English>
+        <Spanish>Animaciones de ambiente</Spanish>
+      </Key>
+      <Key ID="STR_ENH_ambAnimations_tooltip">
+        <Original>Select an animation and loadout. To save performance, this attribute will only work in single player missions.</Original>
+        <English>Select an animation and loadout. To save performance, this attribute will only work in single player missions.</English>
+        <Spanish>Seleccione una animación y equipamiento. Para mejorar rendimiento, este atributo sólo funcionará en misiones de un solo jugador.</Spanish>
+      </Key>
+      <Key ID="STR_ENH_ambientAnimationSP_reset_text">
+        <Original>Reset</Original>
+        <English>Reset</English>
+        <German>Zurücksetzen</German>
+      </Key>
+    </Container>
   </Package>
   <Package name="Attribute Category Headlines">
     <Container name="Advanced Damage">
@@ -2421,6 +2438,73 @@
         <French>Couleur</French>
         <Spanish>Color</Spanish>
         <German>Farbe</German>
+      </Key>
+    </Container>
+    <Container name="3den Radio">
+      <Key ID="STR_ENH_3denRadio_songList_text">
+        <Original>Song List</Original>
+        <English>Song List</English>
+        <German>Liederliste</German>
+      </Key>
+      <Key ID="STR_ENH_3denRadio_saveAndClose_text">
+        <Original>Save &amp; Close</Original>
+        <English>Save &amp; Close</English>
+        <German>Speich. &amp; Schließ.</German>
+      </Key>
+      <Key ID="STR_ENH_3denRadio_playlist_text">
+        <Original>Playlist</Original>
+        <English>Playlist</English>
+        <German>Playlist</German>
+      </Key>
+      <Key ID="STR_ENH_3denRadio_clearPlaylist_text">
+        <Original>Clear Playlist</Original>
+        <English>Clear Playlist</English>
+        <German>Playlist leeren</German>
+      </Key>
+      <Key ID="STR_ENH_3denRadio_exportPlaylist_text">
+        <Original>Export</Original>
+        <English>Export</English>
+        <German>Export</German>
+      </Key>
+      <Key ID="STR_ENH_3denRadio_importPlaylist_text">
+        <Original>Import</Original>
+        <English>Import</English>
+        <German>Importieren</German>
+      </Key>
+      <Key ID="STR_ENH_3denRadio_sortName_text">
+        <Original>Sort by Name</Original>
+        <English>Sort by Name</English>
+        <German>Sort. n. Namen</German>
+      </Key>
+      <Key ID="STR_ENH_3denRadio_sortTheme_text">
+        <Original>Sort by Theme</Original>
+        <English>Sort by Theme</English>
+        <German>Sort. n. Thema</German>
+      </Key>
+      <Key ID="STR_ENH_3denRadio_sortDuration_text">
+        <Original>Sort by Duration</Original>
+        <English>Sort by Duration</English>
+        <German>Sort. n. Länge</German>
+      </Key>
+      <Key ID="STR_ENH_3denRadio_enableRadio_text">
+        <Original>Enable Radio</Original>
+        <English>Enable Radio</English>
+        <German>Radio anschalten</German>
+      </Key>
+      <Key ID="STR_ENH_3denRadio_disableRadio_text">
+        <Original>Disable Radio</Original>
+        <English>Disable Radio</English>
+        <German>Radio ausschalten</German>
+      </Key>
+      <Key ID="STR_ENH_3denRadio_currentSong_text">
+        <Original>Current Song:</Original>
+        <English>Current Song:</English>
+        <German>Lied:</German>
+      </Key>
+      <Key ID="STR_ENH_3denRadio_volume_text">
+        <Original>Vol.:</Original>
+        <English>Vol.:</English>
+        <German>Vol.:</German>
       </Key>
     </Container>
   </Package>
@@ -2775,18 +2859,6 @@
         <English>Guard</English>
         <Spanish>Guarda</Spanish>
         <German>Bewachen</German>
-      </Key>
-    </Container>
-    <Container name="Animation  Headline">
-      <Key ID="STR_ENH_ambAnimations_displayname">
-        <Original>Ambient Animations</Original>
-        <English>Ambient Animations</English>
-        <Spanish>Animaciones de ambiente</Spanish>
-      </Key>
-      <Key ID="STR_ENH_ambAnimations_tooltip">
-        <Original>Select an animation and loadout. To save performance, this attribute will only work in single player missions.</Original>
-        <English>Select an animation and loadout. To save performance, this attribute will only work in single player missions.</English>
-        <Spanish>Seleccione una animación y equipamiento. Para mejorar rendimiento, este atributo sólo funcionará en misiones de un solo jugador.</Spanish>
       </Key>
     </Container>
   </Package>
