@@ -252,6 +252,11 @@
         <Spanish>Tercera línea</Spanish>
         <German>Dritte Zeile</German>
       </Key>
+      <Key ID="STR_ENH_introText_introType_displayName">
+        <Original>APEX Protocol Style</Original>
+        <English>APEX Protocol Style</English>
+        <German>APEX Protocol Stil</German>
+      </Key>
     </Container>
     <Container name="Dynamic Groups">
       <Key ID="STR_ENH_dynamicGroups_tooltip">
@@ -2182,23 +2187,44 @@
       </Key>
     </Container>
     <Container name="Animations">
-      <Key ID="STR_ENH_ambAnimations_displayname">
+      <Key ID="STR_ENH_ambAnimations_headline">
         <Original>Ambient Animations</Original>
         <English>Ambient Animations</English>
         <Spanish>Animaciones de ambiente</Spanish>
       </Key>
-      <Key ID="STR_ENH_ambAnimations_tooltip">
+      <Key ID="STR_ENH_ambAnimations_description">
         <Original>Select an animation and loadout. To save performance, this attribute will only work in single player missions.</Original>
         <English>Select an animation and loadout. To save performance, this attribute will only work in single player missions.</English>
         <Spanish>Seleccione una animación y equipamiento. Para mejorar rendimiento, este atributo sólo funcionará en misiones de un solo jugador.</Spanish>
       </Key>
-      <Key ID="STR_ENH_ambientAnimationSP_reset_text">
+      <Key ID="STR_ENH_ambAnimations_reset_text">
         <Original>Reset</Original>
         <English>Reset</English>
         <Spanish>Reiniciar</Spanish>
         <German>Zurücksetzen</German>
       </Key>
+      <Key ID="STR_ENH_ambAnimations_animText_text">
+        <Original>Animation</Original>
+        <English>Animation</English>
+        <German>Animation</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimations_gearText_text">
+        <Original>Gear</Original>
+        <English>Gear</English>
+        <German>Ausrüstung</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimations_gearText_tooltip">
+        <Original>Select the loadout.</Original>
+        <English>Select the loadout.</English>
+        <German>Wähle die Ausrüstung,</German>
+      </Key>
+      <Key ID="STR_ENH_ambAnimations_animText_tooltip">
+        <Original>Select the animation.</Original>
+        <English>Select the animation.</English>
+        <German>Wähle die Animation.</German>
+      </Key>
     </Container>
+    <Container name="Intro Text" />
   </Package>
   <Package name="Attribute Category Headlines">
     <Container name="Advanced Damage">
@@ -2442,12 +2468,6 @@
       </Key>
     </Container>
     <Container name="3den Radio">
-      <Key ID="STR_ENH_3denRadio_songList_text">
-        <Original>Song List</Original>
-        <English>Song List</English>
-        <Spanish>Lista de canciones</Spanish>
-        <German>Liederliste</German>
-      </Key>
       <Key ID="STR_ENH_3denRadio_saveAndClose_text">
         <Original>Save &amp; Close</Original>
         <English>Save &amp; Close</English>
@@ -2478,23 +2498,29 @@
         <Spanish>Importar</Spanish>
         <German>Importieren</German>
       </Key>
-      <Key ID="STR_ENH_3denRadio_sortName_text">
-        <Original>Sort by Name</Original>
-        <English>Sort by Name</English>
-        <Spanish>Ord. por nombre</Spanish>
-        <German>Sort. n. Namen</German>
+      <Key ID="STR_ENH_3denRadio_headline_title">
+        <Original>Title</Original>
+        <English>Title</English>
+        <Spanish />
+        <German>Titel</German>
       </Key>
-      <Key ID="STR_ENH_3denRadio_sortTheme_text">
-        <Original>Sort by Theme</Original>
-        <English>Sort by Theme</English>
-        <Spanish>Ord. por tema</Spanish>
-        <German>Sort. n. Thema</German>
+      <Key ID="STR_ENH_3denRadio_headline_duration">
+        <Original>Duration</Original>
+        <English>Duration</English>
+        <Spanish />
+        <German>Länge</German>
       </Key>
-      <Key ID="STR_ENH_3denRadio_sortDuration_text">
-        <Original>Sort by Duration</Original>
-        <English>Sort by Duration</English>
-        <Spanish>Ord. por duración</Spanish>
-        <German>Sort. n. Länge</German>
+      <Key ID="STR_ENH_3denRadio_headline_theme">
+        <Original>Theme</Original>
+        <English>Theme</English>
+        <Spanish>Tema</Spanish>
+        <German>Thema</German>
+      </Key>
+      <Key ID="STR_ENH_3denRadio_headline_mod">
+        <Original>Mod</Original>
+        <English>Mod</English>
+        <Spanish />
+        <German>Mod</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_enableRadio_text">
         <Original>Enable Radio</Original>
