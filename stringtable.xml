@@ -255,6 +255,7 @@
       <Key ID="STR_ENH_introText_introType_displayName">
         <Original>APEX Protocol Style</Original>
         <English>APEX Protocol Style</English>
+        <Spanish>Estilo Protocolo APEX</Spanish>
         <German>APEX Protocol Stil</German>
       </Key>
     </Container>
@@ -2206,21 +2207,25 @@
       <Key ID="STR_ENH_ambAnimations_animText_text">
         <Original>Animation</Original>
         <English>Animation</English>
+        <Spanish>Animación</Spanish>
         <German>Animation</German>
       </Key>
       <Key ID="STR_ENH_ambAnimations_gearText_text">
         <Original>Gear</Original>
         <English>Gear</English>
+        <Spanish>Equipo</Spanish>
         <German>Ausrüstung</German>
       </Key>
       <Key ID="STR_ENH_ambAnimations_gearText_tooltip">
         <Original>Select the loadout.</Original>
         <English>Select the loadout.</English>
+        <Spanish>Selecciona equipamiento</Spanish>
         <German>Wähle die Ausrüstung,</German>
       </Key>
       <Key ID="STR_ENH_ambAnimations_animText_tooltip">
         <Original>Select the animation.</Original>
         <English>Select the animation.</English>
+        <Spanish>Selecciona la animación</Spanish>
         <German>Wähle die Animation.</German>
       </Key>
     </Container>
@@ -2501,13 +2506,13 @@
       <Key ID="STR_ENH_3denRadio_headline_title">
         <Original>Title</Original>
         <English>Title</English>
-        <Spanish />
+        <Spanish>Título</Spanish>
         <German>Titel</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_headline_duration">
         <Original>Duration</Original>
         <English>Duration</English>
-        <Spanish />
+        <Spanish>Duración</Spanish>
         <German>Länge</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_headline_theme">
@@ -2519,7 +2524,7 @@
       <Key ID="STR_ENH_3denRadio_headline_mod">
         <Original>Mod</Original>
         <English>Mod</English>
-        <Spanish />
+        <Spanish>Mod</Spanish>
         <German>Mod</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_enableRadio_text">
