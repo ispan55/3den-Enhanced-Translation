@@ -2336,20 +2336,12 @@
   <Package name="Custom Displays">
     <Container name="Briefing Editor">
       <Key ID="STR_ENH_briefingEditor_headline_displayName">
-        <Original>3den Enhanced Briefing Editor</Original>
-        <English>3den Enhanced Briefing Editor</English>
-        <Czech>Editor brífinku 3den Enhanced</Czech>
-        <French>Editeur de Briefing 3den Enhanced</French>
-        <Spanish>Editor de briefing 3den Enhanced</Spanish>
-        <German>3den Enhanced Einsatzbesprechungs-Editor</German>
-      </Key>
-      <Key ID="STR_ENH_briefingEditor_colouredText_displayName">
-        <Original>Coloured Text</Original>
-        <English>Coloured Text</English>
-        <Czech>Barevný text</Czech>
-        <French>Texte coloré</French>
-        <Spanish>Coloreado del texto</Spanish>
-        <German>Farbiger Text</German>
+        <Original>Briefing Editor</Original>
+        <English>Briefing Editor</English>
+        <Czech>Editor brífinku</Czech>
+        <French>Editeur de Briefing</French>
+        <Spanish>Editor de briefing</Spanish>
+        <German>Einsatzbesprechungs-Editor</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_variableName_displayName">
         <Original>Variable Name</Original>
@@ -2471,6 +2463,36 @@
         <Spanish>Color</Spanish>
         <German>Farbe</German>
       </Key>
+      <Key ID="STR_ENH_briefingEditor_marker_displayName">
+        <Original>Marker</Original>
+        <English>Marker</English>
+        <German>Markierung</German>
+      </Key>
+      <Key ID="STR_ENH_briefingEditor_width_displayName">
+        <Original>Width</Original>
+        <English>Width</English>
+        <German>Breite</German>
+      </Key>
+      <Key ID="STR_ENH_briefingEditor_height_displayName">
+        <Original>Height</Original>
+        <English>Height</English>
+        <German>Höhe</German>
+      </Key>
+      <Key ID="STR_ENH_briefingEditor_picture_displayName">
+        <Original>Picture</Original>
+        <English>Picture</English>
+        <German>Bild</German>
+      </Key>
+      <Key ID="STR_ENH_briefingEditor_colourAndExpression_displayName">
+        <Original>Colour &amp; Expression</Original>
+        <English>Colour &amp; Expression</English>
+        <German>Farbe &amp; Ausdruck</German>
+      </Key>
+      <Key ID="STR_ENH_briefingEditor_expression_displayName">
+        <Original>Expression</Original>
+        <English>Expression</English>
+        <German>Ausdruck</German>
+      </Key>
     </Container>
     <Container name="3den Radio">
       <Key ID="STR_ENH_3denRadio_saveAndClose_text">
@@ -2538,12 +2560,6 @@
         <English>Disable Radio</English>
         <Spanish>Deshabilitar radio</Spanish>
         <German>Radio ausschalten</German>
-      </Key>
-      <Key ID="STR_ENH_3denRadio_currentSong_text">
-        <Original>Current Song:</Original>
-        <English>Current Song:</English>
-        <Spanish>Canción actual:</Spanish>
-        <German>Lied:</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_volume_text">
         <Original>Vol.:</Original>
