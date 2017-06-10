@@ -2550,22 +2550,27 @@
         <German>Mod</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_enableRadio_text">
-        <Original>Enable Radio</Original>
-        <English>Enable Radio</English>
+        <Original>Turn on</Original>
+        <English>Turn on</English>
         <Spanish>Habilitar radio</Spanish>
-        <German>Radio anschalten</German>
+        <German>Anschalten</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_disableRadio_text">
-        <Original>Disable Radio</Original>
-        <English>Disable Radio</English>
+        <Original>Turn off</Original>
+        <English>Turn off</English>
         <Spanish>Deshabilitar radio</Spanish>
-        <German>Radio ausschalten</German>
+        <German>Ausschalten</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_volume_text">
         <Original>Vol.:</Original>
         <English>Vol.:</English>
         <Spanish>Vol.:</Spanish>
         <German>Vol.:</German>
+      </Key>
+      <Key ID="STR_ENH_3denRadio_help_text">
+        <Original>Help</Original>
+        <English>Help</English>
+        <German>Hilfe</German>
       </Key>
     </Container>
   </Package>
