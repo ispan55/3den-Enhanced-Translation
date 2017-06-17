@@ -40,7 +40,7 @@
         <Czech>Nastavení: Obsazení budov</Czech>
         <French>Paramètres: Placer en Garnison</French>
         <Spanish>Configuración: Guarnición</Spanish>
-        <German>Einstellungen: Gebäude besetzten</German>
+        <German>Einstellungen: Gebäude besetzen</German>
       </Key>
     </Container>
     <Container name="Time Multiplier">
@@ -441,22 +441,6 @@
         <French>Paramètres : Outil de Remplissage</French>
         <Spanish>Configuración de Formaciones</Spanish>
         <German>Einstellungen: Muster-Werkzeuge</German>
-      </Key>
-      <Key ID="STR_ENH_toolSettings_batchNaming_displayName">
-        <Original>Variable Name</Original>
-        <English>Variable Name</English>
-        <Czech />
-        <French />
-        <Spanish>Nombre de variable</Spanish>
-        <German>Variablenname</German>
-      </Key>
-      <Key ID="STR_ENH_toolSettings_batchNaming_tooltip">
-        <Original>The variable name will be used by the 'Batch Naming' tool. The tool will automatically add '_x' to the name entered above, where 'x' is the number of the object.</Original>
-        <English>The variable name will be used by the 'Batch Naming' tool. The tool will automatically add '_x' to the name entered above, where 'x' is the number of the object.</English>
-        <Czech />
-        <French />
-        <Spanish>El nombre de la variable será utilizado por la herramienta 'Batch Naming'. La herramienta agregará automáticamente '_x' al nombre introducido anteriormente, donde 'x' es el número del objeto.</Spanish>
-        <German>Der Variablenname wird von dem 'Batch Naming' Werkzeug verwenden. Das Werkzeug fügt automatisch '_x' zu dem Variablennamen hinzu, wobei 'x' für die Zahl des Objektes steht.</German>
       </Key>
     </Container>
     <Container name="Save Loadout">
@@ -2571,6 +2555,49 @@
         <Original>Help</Original>
         <English>Help</English>
         <German>Hilfe</German>
+      </Key>
+    </Container>
+    <Container name="Changelog">
+      <Key ID="STR_ENH_changelog_header">
+        <Original>3den Enhanced Changelog</Original>
+        <English>3den Enhanced Changelog</English>
+        <German>3den Enhanced Changelog</German>
+      </Key>
+    </Container>
+    <Container name="Name Units">
+      <Key ID="STR_ENH_nameObjects_header">
+        <Original>Name Objects</Original>
+        <English>Name Objects</English>
+        <German>Objekte benennen</German>
+      </Key>
+      <Key ID="STR_ENH_nameObjects_removeName">
+        <Original>Remove Name</Original>
+        <English>Remove Name</English>
+        <German>Namen entf.</German>
+      </Key>
+      <Key ID="STR_ENH_nameObjects_OK">
+        <Original>OK</Original>
+        <English>OK</English>
+        <Czech>OK</Czech>
+        <French>OK</French>
+        <Spanish>OK</Spanish>
+        <Italian>OK</Italian>
+        <Polish>OK</Polish>
+        <Portuguese>OK</Portuguese>
+        <Russian>OK</Russian>
+        <German>OK</German>
+      </Key>
+      <Key ID="STR_ENH_nameObjects_startIndex">
+        <Original>Start Index</Original>
+        <English>Start Index</English>
+        <Czech />
+        <French />
+        <Spanish />
+        <Italian />
+        <Polish />
+        <Portuguese />
+        <Russian />
+        <German>Anfangszahl</German>
       </Key>
     </Container>
   </Package>
