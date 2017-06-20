@@ -1,48 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="3den Enhanced">
   <Package name="Mission Attributes">
-    <Container name="Garrison Buildings">
-      <Key ID="STR_ENH_buildingPosCoverage_displayName">
-        <Original>Coverage Building Positions</Original>
-        <English>Coverage Building Positions</English>
-        <Czech>Kryté pozice v budově</Czech>
-        <French>Positions de couverture dans le bâtiment</French>
-        <Spanish>Posiciones de covertura en edificios</Spanish>
-        <German>Abdeckung Gebäudepositionen</German>
-      </Key>
-      <Key ID="STR_ENH_buildingPosCoverage_tooltip">
-        <Original>Set how many building positions should be garrisoned.</Original>
-        <English>Set how many building positions should be garrisoned.</English>
-        <Czech>Nastavte kolik pozic v budově má být obsazeno.</Czech>
-        <French>Défini combien de positions seront occupées dans le bâtiment.</French>
-        <Spanish>Ajusta cuántas posiciones de edificios  deben estar guarnicionas</Spanish>
-        <German>Legt fest, wie viele der Gebäudepositionen bemannt werden sollen.</German>
-      </Key>
-      <Key ID="STR_ENH_garrisonRadius_displayName">
-        <Original>Area Radius</Original>
-        <English>Area Radius</English>
-        <Czech>Oblast</Czech>
-        <French>Rayon de la zone</French>
-        <Spanish>Radio del área</Spanish>
-        <German>Radius des Gebietes</German>
-      </Key>
-      <Key ID="STR_ENH_garrison_notification">
-        <Original>Unit(s) were/was not placed in building(s).</Original>
-        <English>Unit(s) were/was not placed in building(s).</English>
-        <Czech>Jednotky nebyly umístěny v budově.</Czech>
-        <French> entitée(s) non placée(s) dans le(s) bâtiment(s).</French>
-        <Spanish>La(s) unidad(es) no fue/fueron colocada(s) en el/los edificio(s).</Spanish>
-        <German>Einheit(en) wurde(n) nicht in Gebäude(n) platziert.</German>
-      </Key>
-      <Key ID="STR_ENH_garrison_category">
-        <Original>Settings: Garrison </Original>
-        <English>Settings: Garrison </English>
-        <Czech>Nastavení: Obsazení budov</Czech>
-        <French>Paramètres: Placer en Garnison</French>
-        <Spanish>Configuración: Guarnición</Spanish>
-        <German>Einstellungen: Gebäude besetzen</German>
-      </Key>
-    </Container>
     <Container name="Time Multiplier">
       <Key ID="STR_ENH_timeMultiplier_displayName">
         <Original>Time Multiplier</Original>
@@ -1606,7 +1564,7 @@
         <Spanish>Mostrar descripción del módulo</Spanish>
         <German>Zeige Modulbeschreibung</German>
       </Key>
-      <Key ID="STR_ENH_garrisonBuilding">
+      <Key ID="STR_ENH_garrison_header">
         <Original>Garrison Buildings</Original>
         <English>Garrison Buildings</English>
         <Czech>Obsadit budovy</Czech>
@@ -1622,7 +1580,7 @@
         <Spanish>Establecer jugador como propietario del trigger (activador)</Spanish>
         <German>Spieler als Auslöser-Besitzer festlegen</German>
       </Key>
-      <Key ID="STR_ENH_HideTerrainObjects">
+      <Key ID="STR_ENH_hideTerrainObjects">
         <Original>Hide Terrain Objects</Original>
         <English>Hide Terrain Objects</English>
         <Czech>Skrýt objekty na mapě</Czech>
@@ -2598,6 +2556,34 @@
         <Portuguese />
         <Russian />
         <German>Anfangszahl</German>
+      </Key>
+    </Container>
+    <Container name="Garrison Buildings">
+      <Key ID="STR_ENH_garrison_coverage">
+        <Original>Coverage Building Positions</Original>
+        <English>Coverage Building Positions</English>
+        <Czech>Kryté pozice v budově</Czech>
+        <French>Positions de couverture dans le bâtiment</French>
+        <Spanish>Posiciones de covertura en edificios</Spanish>
+        <German>Abdeckung Gebäudepositionen</German>
+      </Key>
+      <Key ID="STR_ENH_garrison_radius">
+        <Original>Area Radius</Original>
+        <English>Area Radius</English>
+        <Czech>Oblast</Czech>
+        <French>Rayon de la zone</French>
+        <Spanish>Radio del área</Spanish>
+        <German>Radius des Gebietes</German>
+      </Key>
+      <Key ID="STR_ENH_garrison_notification">
+        <Original>Not enough empty building positions, increase the radius or reduce the coverage.</Original>
+        <English>Not enough empty building positions, increase the radius or reduce the coverage.</English>
+        <German>Nicht genug leere Gebäudepositionen, erhöhe den Radius oder die Abdeckung.</German>
+      </Key>
+      <Key ID="STR_ENH_garrison_close">
+        <Original>Close</Original>
+        <English>Close</English>
+        <German>Schließen</German>
       </Key>
     </Container>
   </Package>
