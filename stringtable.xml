@@ -31,7 +31,7 @@
         <German>Anvisierte Position</German>
 		<Russian>Положение Центра</Russian>
       </Key>
-      <Key ID="STR_ENH_establishingShot_centerPos_tooltip">
+      <Key ID="STR_ENH_establishingShot_centerPos_tooltip"> 
         <Original>The center position of the virtual UAV's orbit.</Original>
         <English>The center position of the virtual UAV's orbit.</English>
         <Czech>Stred orbity po ktere bude virtualni UAV obihat.</Czech>
