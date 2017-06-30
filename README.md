@@ -1,4 +1,4 @@
-# 3den Enhanced Translation
+# 3den Enhanced Translation (RUS) Перевод
 Contains the stringtable.xml for the 3den Enhanced Arma 3 modification.
 
 # StringForge
